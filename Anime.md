@@ -3,7 +3,6 @@
 * [simplyaweeb](https://simplyaweeb.to/)
 * [kickassanime](https://kickassanime.rs/)
 * [animixplay](https://animixplay.to/)
-* [4anime](https://4anime.to/)
 * [9anime](https://9anime.to/)
 * [anime8](https://anime8.ru/)
 * [animefrenzy](https://animefrenzy.net/)
