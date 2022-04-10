@@ -12,8 +12,6 @@
 
 * [Anime-dl](https://github.com/gabelluardo/anime-dl) - Efficient cli app for downloading anime.
 
-* [4Anime-Downloader](https://github.com/AllMight420/4Anime-Downloader) - Batch/Single episode downloader from 4anime.
-
 * [Animdl](https://github.com/justfoolingaround/animdl) - A highly efficient, fast, powerful and light-weight anime downloader and streamer for your favorite anime.
 
 * [Animepahe-dl](https://github.com/KevCui/animepahe-dl) - Download anime videos from animepahe in terminal.
