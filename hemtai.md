@@ -60,6 +60,7 @@
 * [NClientV2](https://github.com/Dar9586/NClientV2) - An unofficial NHentai android client.
 * [Hentoid](https://github.com/avluis/Hentoid) - Doujinshi Android App.
 * [EhViewer](https://gitlab.com/NekoInverter/EhViewer) - An E-Hentai Application for Android.
+* [Hentaiser](https://hentaiser.com) - The hentai, doujins and anime online reader app.
 * [Violet](https://github.com/project-violet/violet) - Flutter based Viewer App.
 * [NHViewer](https://github.com/ttdyce/NHentai-NHViewer) - NHViewer is a simple third-party nhentai client for Android.
 * [Hentai-Video-Downloader](https://github.com/Zebraslive/basic-hentai-video-downloader) - A simple hentai video downloader. Electron Windows App.
