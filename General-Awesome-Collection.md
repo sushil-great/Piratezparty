@@ -117,3 +117,4 @@
 **25. Awesome Torrents**
 * [awesome-pt](https://github.com/sabersalv/awesome-pt)
 * [awesome-torrent-resources](https://github.com/HDVinnie/awesome-torrent-resources)
+* [trackerslist](https://github.com/ngosang/trackerslist)
