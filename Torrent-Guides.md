@@ -16,6 +16,4 @@
 
 * [Requirement Thread](https://files.catbox.moe/z8iw78.png) - Official recruitment threads to join respective Private Tracker.
 
-* [Private Tracker Spreadsheet](https://hdvinnie.github.io/Private-Trackers-Spreadsheet/) - Private Trackers Spreadsheet will all information.
-
 * [ScenevsP2P](https://www.reddit.com/r/Piracy/comments/b0c0ns/difference_between_the_scene_and_p2p/) - Difference between scene and p2p.
