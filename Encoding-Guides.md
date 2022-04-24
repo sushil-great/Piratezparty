@@ -50,6 +50,8 @@
 
 * [Encoding Guide By Neko Encodes](https://docs.google.com/document/d/1Ev_hqUnHAztvUxg4X3VFlb8W728wphg-el7K_4pPlr8/edit?usp=drivesdk)
 
+* [Archived Things](https://sometimes-archives-things.github.io/archived-things/)
+
 # Ffmpeg Guides
 
 * [ffmpeg.org/ffmpeg-all](https://ffmpeg.org/ffmpeg-all.html#) - *ffmpeg documentation*
