@@ -113,3 +113,7 @@
 * [youtube-vanced-alternatives](https://gist.github.com/SkyyySi/1b621c7c20ae7e0865a8ac428156c1cf)
 * [r/AfterVanced Sticky Thread](https://www.reddit.com/r/AfterVanced/comments/twzq2s/the_sticky_of_stickies_all_the_important_stuff/)
 * [revancedapp](https://www.reddit.com/r/revancedapp/)
+
+**25. Awesome Torrents**
+* [awesome-pt](https://github.com/sabersalv/awesome-pt)
+* [awesome-torrent-resources](https://github.com/HDVinnie/awesome-torrent-resources)
