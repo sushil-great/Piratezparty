@@ -60,7 +60,7 @@
 * [mkvhub](https://www.mkvhub.ws/)
 * [happy2hub](https://happy2hub.org/)
 * [olamovies](https://olamovies.vip)
-* [moviesverse](https://moviesverse.app/)
+* [betamoviez](https://betamoviez.xyz/)
 
 # ► Hollywood Content (streaming)
 
