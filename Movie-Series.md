@@ -119,7 +119,6 @@
 * [lookmovie](https://lookmovie.io/)
 * [goojara](https://www.goojara.to/)
 * [allmoviesforyou](https://allmoviesforyou.co/)
-* [allmoviesforyou](https://allmoviesforyou.co/)
 * [clubfilm4](https://clubfilm4.xyz/)
 * [fmovies](https://fmovies.name/)
 * [dutafilm](https://dutafilm.art/)
