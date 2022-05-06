@@ -10,6 +10,7 @@
 * [moviescounter](https://moviescounter.se/)
 * [hhdmovies](https://hhdmovies.live/)
 * [bolly4u](https://bolly4u.kim/)
+* [mlwbd](https://mlwbd.host)
 * [mkvmoviespoint](https://mkvmoviespoint.wiki/)
 * [hworldfree4u](https://worldfree4u.pink/)
 * [movieswatch24](https://www.movieswatch24.com.pk/)
@@ -59,6 +60,7 @@
 * [mkvhub](https://www.mkvhub.ws/)
 * [happy2hub](https://happy2hub.org/)
 * [olamovies](https://olamovies.vip)
+* [moviesverse](https://moviesverse.app/)
 
 # ► Hollywood Content (streaming)
 
@@ -127,6 +129,7 @@
 * [tagmovies](https://tagmovies.co/)
 * [hdmovie8](https://hdmovie8.com/)
 * [ymovies](https://ymovies.to/)
+* [shibflix](https://shibflix.com/)
 
 # ► English/Hollywood Content (DDL)
 
