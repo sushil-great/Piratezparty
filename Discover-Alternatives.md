@@ -39,3 +39,6 @@
 * [Githublab](https://githublab.com/)
 * [Sourcehut](https://sr.ht/projects)
 * [Btw](https://www.btw.so/open-source-alternatives)
+* [Gitplanet](https://gitplanet.com/)
+* [Topbestalternatives](https://www.topbestalternatives.com)
+* [Alternativeme](https://alternative.me)
