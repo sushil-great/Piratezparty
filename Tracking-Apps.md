@@ -44,3 +44,16 @@
 | [Komori](https://play.google.com/store/apps/details?id=app.komori) | ✔ | ❌ |
 | [AniList](https://anilist.co/apps) | ✔ | ✔ |
 | [Simkl](https://simkl.com/apps/?allow) | ✔ | ✔ |
+
+# Books
+
+| App Name | Android | iOS | 
+|-|:-:|:-:|
+| [Dante](https://play.google.com/store/apps/details?id=at.shockbytes.dante) | ✔ | ❌ |
+| [Goodreads](https://www.goodreads.com/) | ✔ | ✔ |
+
+# Games
+
+| App Name | Android | iOS | 
+|-|:-:|:-:|
+| [Stash](https://stash.games/) | ✔ | ✔ |
