@@ -1,5 +1,6 @@
 # Websites To Read Light Novels
 
+* [octopii](https://octopii.co/)
 * [kisslightnovels](https://kisslightnovels.info/)
 * [lightnovelpub](https://www.lightnovelpub.com/)
 * [novelfull](https://novelfull.com)
