@@ -89,3 +89,7 @@
 | [Zetsu](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [MangaMax](https://apps.apple.com/us/app/apple-store/id1558957618 ) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Mangaka](https://github.com/Mastersam07/mangaKa) | ![Last Commit](https://img.shields.io/github/last-commit/Mastersam07/mangaKa) | ![Freq](https://img.shields.io/github/commit-activity/m/Mastersam07/mangaKa) |
+| [Aidoku](https://github.com/Aidoku/Aidoku) | ![Last Commit](https://img.shields.io/github/last-commit/Aidoku/Aidoku) | ![Freq](https://img.shields.io/github/commit-activity/m/Aidoku/Aidoku) |
+
+
+
