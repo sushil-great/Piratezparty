@@ -54,6 +54,8 @@
 | [Mangaka](https://github.com/Mastersam07/mangaKa) | ![Last Commit](https://img.shields.io/github/last-commit/Mastersam07/mangaKa) | ![Freq](https://img.shields.io/github/commit-activity/m/Mastersam07/mangaKa) |
 | [MangaTain](https://github.com/AP-Atul/mangatain) | ![Last Commit](https://img.shields.io/github/last-commit/AP-Atul/mangatain) | ![Freq](https://img.shields.io/github/commit-activity/m/AP-Atul/mangatain) |
 | [Mangato](https://github.com/riimuru/Mangato) | ![Last Commit](https://img.shields.io/github/last-commit/riimuru/Mangato) | ![Freq](https://img.shields.io/github/commit-activity/m/riimuru/Mangato) |
+| [Kotatsu](https://github.com/nv95/Kotatsu) | ![Last Commit](https://img.shields.io/github/last-commit/nv95/Kotatsu) | ![Freq](https://img.shields.io/github/commit-activity/m/nv95/Kotatsu) |
+| [Kinoko](https://github.com/gsioteam/kinoko) | ![Last Commit](https://img.shields.io/github/last-commit/gsioteam/kinoko) | ![Freq](https://img.shields.io/github/commit-activity/m/gsioteam/kinoko) |
 
 ## Tachiyomi Forks
 | App Name | Status | Commit Frequency
