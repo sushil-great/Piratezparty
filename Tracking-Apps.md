@@ -45,6 +45,12 @@
 | [AniList](https://anilist.co/apps) | ✔ | ✔ |
 | [Simkl](https://simkl.com/apps/?allow) | ✔ | ✔ |
 
+## Desktop
+| App Name | Windows | Linux | MacOS
+|-|:-:|:-:|:-:|
+|[My Personal List](https://github.com/SnekNOTSnake/my-personal-list)| ✔ | ✔ | ✔ |
+|[MALCLient](https://github.com/Drutol/MALClient) | ✔ | ❌ | ❌ |
+
 # Books
 
 | App Name | Android | iOS | 
