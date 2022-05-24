@@ -1,0 +1,9 @@
+- [Showbox](https://www.showbox.media/download) - Unlimited movies and TV shows for free
+- [CloudStream-3](https://github.com/LagradOst/CloudStream-3) - Android app for streaming and downloading Movies, TV-Series and Anime
+- [Stremio](https://www.stremio.com/) - A modern media center that's a one-stop solution for your video entertainment. You discover, watch and organize video content from easy to install addons
+- [TeaTV](https://teatv.net/) - Free 1080p Movies and TV Shows for Android, Windows & macOS Devices
+- [VivaTV](https://www.vivatv.io/) - An Android application allowing user to watch movies & tv shows for free on Android device, Amazon Fire TV, Nvidia Shield, etc
+- [NovaTV](https://novatv.app/) - An Android application allowing user to watch movies & tv shows for free on Android device, Amazon Fire TV, Nvidia Shield, etc
+- [FilmPlus](https://filmplus.app/) - A brand new Android application to watch free movies and tv shows on Android phones, Android TVs and Amazon Firesticks
+- [BeeTV](http://beetvapk.me/) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc
+- [HD STREAMZ](https://hdstreamz.app/) - A great application that has been able to integrate channels from different countries around the world. People will enjoy more than 1000 channels and live show from this app
