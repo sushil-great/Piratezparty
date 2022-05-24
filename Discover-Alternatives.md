@@ -42,3 +42,6 @@
 * [Gitplanet](https://gitplanet.com/)
 * [Topbestalternatives](https://www.topbestalternatives.com)
 * [Alternativeme](https://alternative.me)
+* [Giters](https://giters.com/)
+* [Githubpk](https://githubpk.com/)
+* [Githubhelp](https://githubhelp.com/)
