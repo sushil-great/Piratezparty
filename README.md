@@ -62,6 +62,7 @@ All the information present here is purely for informational purposes and is not
 * **[Download Managers](https://github.com/Piratezparty/Piratezparty/blob/main/Download-Managers.md)**
 * **[Tracking Apps](https://github.com/SpamVerse/Piratezparty/blob/main/Tracking-Apps.md)**
 * **[Readers](https://github.com/SpamVerse/Piratezparty/blob/main/Reader.md)**
+* **[Movies/Series](https://github.com/SpamVerse/Piratezparty/blob/main/Movie-Series-Apps.md)**
 
 ***
 ***
