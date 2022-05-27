@@ -40,6 +40,7 @@
 
 ## Computer Science & Programming
 
+* [codepip](https://codepip.com/)
 * [w3schools](https://www.w3schools.com/)
 * [learnpython](https://www.learnpython.org/)
 * [guru99](https://www.guru99.com/)
