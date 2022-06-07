@@ -7,3 +7,6 @@
 - [FilmPlus](https://filmplus.app/) - A brand new Android application to watch free movies and tv shows on Android phones, Android TVs and Amazon Firesticks
 - [BeeTV](http://beetvapk.me/) - Watch movies & tv shows for free on Android device, Amazon Fire Stick, Fire TV, Nvidia Shield, etc
 - [HD STREAMZ](https://hdstreamz.app/) - A great application that has been able to integrate channels from different countries around the world. People will enjoy more than 1000 channels and live show from this app
+- [Popcorn Time](https://github.com/popcorn-official) - A multi-platform, free software BitTorrent client that includes an integrated media player.
+- [Kodi](https://kodi.tv/) - Kodi is a free and open source media player application developed by the Kodi Foundation, a non-profit technology consortium. Kodi is available for multiple operating-systems and hardware platforms, featuring a 10-foot user interface for use with televisions and remote controls. It allows users to play and view most videos, music, podcasts, and other digital media files from local and network storage media and the internet.
+- [Cucotv](https://cucoapptv.github.io/) - Streaming Movies, Series on Android devices. You can stream videos to Smart TV, FireStick, Chromecast, Roku, MiBox, PlayStation, Xbox, Mac, PC, etc
