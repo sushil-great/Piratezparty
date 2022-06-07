@@ -65,6 +65,7 @@
 # ► Hollywood Content (streaming)
 
 ## Streaming (720p)
+* [sflix](https://sflix.pro/home)
 * [myflixer](http://myflixer.to/)
 * [emovies](https://emovies.io/)
 * [www1.gowatchseries](https://www1.gowatchseries.bz/)
@@ -114,6 +115,7 @@
 * [onlyseries](https://onlyseries.net/)
 
 ## Streaming (1080p)
+* [sflix](https://sflix.pro/home)
 * [c1ne](https://c1ne.co/)
 * [wwatchseries](https://wwatchseries.com/)
 * [lookmovie](https://lookmovie.io/)
