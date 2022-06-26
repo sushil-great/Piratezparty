@@ -52,6 +52,9 @@
 | [OwlGram](https://github.com/OwlGramDev/OwlGram) | ![Last Commit](https://img.shields.io/github/last-commit/OwlGramDev/OwlGram) | ![Freq](https://img.shields.io/github/commit-activity/m/OwlGramDev/OwlGram) |
 | [NinjaGram](https://play.google.com/store/apps/details?id=me.ninjagram.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Telegraher](https://github.com/nikitasius/Telegraher) | ![Last Commit](https://img.shields.io/github/last-commit/nikitasius/Telegraher) | ![Freq](https://img.shields.io/github/commit-activity/m/nikitasius/Telegraher) |
+| [ExtraGram](https://github.com/exteraSquad/exteraGram) | ![Last Commit](https://img.shields.io/github/last-commit/exteraSquad/exteraGram) | ![Freq](https://img.shields.io/github/commit-activity/m/exteraSquad/exteraGram) |
+| [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | ![Last Commit](https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS) | ![Freq](https://img.shields.io/github/commit-activity/m/Telegram-FOSS-Team/Telegram-FOSS) |
+| [Catogram](https://github.com/Catogram/Catogram) | ![Last Commit](https://img.shields.io/github/last-commit/Catogram/Catogram) | ![Freq](https://img.shields.io/github/commit-activity/m/Catogram/Catogram) |
 
 ## iOS
 | App Name | Status | Commit Frequency |
