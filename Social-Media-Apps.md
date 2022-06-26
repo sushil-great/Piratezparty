@@ -89,16 +89,19 @@
 # Instagram
 ## Android
 | App Name | Status | Commit Frequency |
+| - | - | - |
 | [Instander](https://thedise.me/instander/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [AeroInsta](https://aeroinsta.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 # Twitter
 ## Android
 | App Name | Status | Commit Frequency |
+| - | - | - |
 | [AeroWitter](https://aerowitter.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 
 
 # Whatsapp
 ## Android
 | App Name | Status | Commit Frequency |
+| - | - | - |
 | [WhatsApp AERO](https://whatsaero.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
