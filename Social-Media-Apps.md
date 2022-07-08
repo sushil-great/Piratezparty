@@ -98,6 +98,7 @@
 | App Name | Status | Commit Frequency |
 | - | - | - |
 | [AeroWitter](https://aerowitter.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [Harpy](https://github.com/robertodoering/harpy) | ![Last Commit](https://img.shields.io/github/last-commit/robertodoering/harpy) | ![Freq](https://img.shields.io/github/commit-activity/m/robertodoering/harpy) |
 
 
 # Whatsapp
