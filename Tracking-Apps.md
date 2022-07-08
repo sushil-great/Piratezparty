@@ -57,6 +57,7 @@
 |-|:-:|:-:|
 | [Dante](https://play.google.com/store/apps/details?id=at.shockbytes.dante) | ✔ | ❌ |
 | [Goodreads](https://www.goodreads.com/) | ✔ | ✔ |
+| [Literal.club](https://literal.club/) | ✔ | ✔ |
 
 # Games
 
