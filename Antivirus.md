@@ -13,3 +13,5 @@
 * [ClamAV](https://github.com/Cisco-Talos/clamav) | [Website](https://www.clamav.net/) - Open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.
 
 **For more you can visit [r/antivirus Wiki](https://reddit.com/r/antivirus/w/index)**
+
+**View Antivirus Benchmarks at [AV Test](https://www.av-test.org/en/)**
