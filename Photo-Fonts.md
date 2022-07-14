@@ -130,3 +130,6 @@
 * [moveast](http://moveast.me/)
 * [splitshire](https://www.splitshire.com/)
 * [snapwiresnaps.tumblr](http://snapwiresnaps.tumblr.com/)
+
+# Stock Image Downloaders
+* [Rip From Various Stock Sites](https://downloader.la/)
