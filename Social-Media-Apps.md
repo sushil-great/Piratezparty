@@ -7,6 +7,8 @@
 | [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | ![Last Commit](https://img.shields.io/github/last-commit/SkyTubeTeam/SkyTube) | ![Freq](https://img.shields.io/github/commit-activity/m/SkyTubeTeam/SkyTube) |
 | [Youtubedl Android](https://github.com/yausername/youtubedl-android) | ![Last Commit](https://img.shields.io/github/last-commit/yausername/youtubedl-android) | ![Freq](https://img.shields.io/github/commit-activity/m/yausername/youtubedl-android) |
 | [NewPipe x SponsorBlock](https://github.com/polymorphicshade/newpipe) | ![Last Commit](https://img.shields.io/github/last-commit/polymorphicshade/newpipe) | ![Freq](https://img.shields.io/github/commit-activity/m/polymorphicshade/newpipe) |
+| [LibreTube](https://github.com/libre-tube/LibreTube) | ![Last Commit](https://img.shields.io/github/last-commit/libre-tube/LibreTube) | ![Freq](https://img.shields.io/github/commit-activity/m/libre-tube/LibreTube) |
+| [SkyTube](https://github.com/SkyTubeTeam/SkyTube) | ![Last Commit](https://img.shields.io/github/last-commit/SkyTubeTeam/SkyTube) | ![Freq](https://img.shields.io/github/commit-activity/m/SkyTubeTeam/SkyTube) |
 
 ## Android TV
 | App Name | Status | Commit Frequency |
@@ -85,6 +87,8 @@
 | [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Joey](https://play.google.com/store/apps/details?id=o.o.joey) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Baconreader](https://baconreader.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+| [RedReader](https://github.com/QuantumBadger/RedReader) | ![Last Commit](https://img.shields.io/github/last-commit/QuantumBadger/RedReader) | ![Freq](https://img.shields.io/github/commit-activity/m/QuantumBadger/RedReader) |
+
 
 # Instagram
 ## Android
@@ -109,3 +113,10 @@
 | [YMWhatsApp+](https://ymwhatsapp.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [BETALABS](http://deltalabsproject.blogspot.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Fouad WhatsApp](http://Down.fouadmods.com) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+
+
+# Signal
+## Android
+| App Name | Status | Commit Frequency |
+| - | - | - |
+| [Molly](https://github.com/mollyim/mollyim-android) | ![Last Commit](https://img.shields.io/github/last-commit/mollyim/mollyim-android) | ![Freq](https://img.shields.io/github/commit-activity/m/mollyim/mollyim-android) |
