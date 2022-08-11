@@ -66,6 +66,7 @@
 
 ## Streaming (720p)
 * [sflix](https://sflix.pro/home)
+* [HDToday](https://hdtoday.cc/)
 * [myflixer](http://myflixer.to/)
 * [emovies](https://emovies.io/)
 * [www1.gowatchseries](https://www1.gowatchseries.bz/)
@@ -116,6 +117,7 @@
 
 ## Streaming (1080p)
 * [sflix](https://sflix.pro/home)
+* [HDToday](https://hdtoday.cc/)
 * [c1ne](https://c1ne.co/)
 * [wwatchseries](https://wwatchseries.com/)
 * [lookmovie](https://lookmovie.io/)
