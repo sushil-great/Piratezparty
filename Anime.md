@@ -1,5 +1,5 @@
 # Watch Online
-
+* [anikatsu](https://anikatsu.ga/)
 * [simplyaweeb](https://simplyaweeb.to/)
 * [kickassanime](https://kickassanime.rs/)
 * [animixplay](https://animixplay.to/)
@@ -61,6 +61,7 @@
 * [anidl](https://anidl.org/)
 * [erai-raws](https://www.erai-raws.info/)
 * [anime-archive](https://anime-archive.com/)
+* [anikatsu](https://anikatsu.ga/)
 * [animekaizoku](https://animekaizoku.com/)
 * [animeout](https://www.animeout.xyz/)
 * [noobsubs](https://noobsubs.com)
