@@ -12,6 +12,7 @@
 | [Cyberduck](https://cyberduck.io) | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Airlivedrive](https://www.airlivedrive.com/en) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [x0b/rcx](https://github.com/x0b/rcx) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
+| [newhinton/extRact](https://github.com/newhinton/extRact) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
 | [odrive](https://www.odrive.com/homepage5b) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
 | [insynchq](https://www.insynchq.com) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
 | [carotdav](http://rei.to/carotdav_en.html) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
