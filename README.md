@@ -1,131 +1,222 @@
-# Piratezparty
-![PiratezParty](https://i.imgur.com/M3ZrJUB.jpg)
-# Disclaimer
-All the information present here is purely for informational purposes and is not intended to support copyright infringement. I am not responsible for and in no way associated to any external links or their content present here , all the links available here are publicly available over the internet.I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.
-# Contents
-## Privacy
 
-* **[Mails](https://github.com/Piratezparty/Piratezparty/blob/main/Mails.md)**
-* **[Vpn](https://github.com/SpamVerse/Piratezparty/blob/main/VPN.md)**
-* **[Antivirus](https://github.com/SpamVerse/Piratezparty/blob/main/Antivirus.md)**
+<div id="top"></div>
 
-***
-***
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GPL-3.0 License][license-shield]][license-url]
 
-## Entertainment
+<p align="center">
+  <img src="assets/banner.gif" />
+</p>
 
-* **[Movies/Series](https://github.com/Piratezparty/Piratezparty/blob/main/Movie-Series.md)**
-* **[Anime](https://github.com/Piratezparty/Piratezparty/blob/main/Anime.md)**
-* **[Sports](https://github.com/Piratezparty/Piratezparty/blob/main/Sports.md)**
-* **[Games](https://github.com/Piratezparty/Piratezparty/blob/main/Games.md)**
-* **[Songs](https://github.com/Piratezparty/Piratezparty/blob/main/Songs.md)**
-* **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons.md)**
-* **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama.md)**
+<h1 align="center">Piratezparty</h1>
 
-***
-***
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#👣 Privacy">👣 Privacy</a></li>
+    <li><a href="#🍿 Entertainment">🍿 Entertainment</a></li>
+    <li><a href="#📚 Reading-Education">📚 Reading & Education</a></li>
+    <li><a href="#🔨 Tools">🔨 Tools</a></li>
+    <li><a href="#💻 Mobile & PC">💻 Mobile & PC</a></li>
+    <li><a href="#📔 Guides">📔 Guides</a></li>
+    <li><a href="#🤩 Awesome-Collection">🤩 Awesome-Collection</a></li>
+    <li><a href="#🔞 NSFW">🔞 NSFW</a></li>
+    <li><a href="#📣 Telegram">📣 Telegram/a></li>
+    <li><a href="#🎢 Miscellaneous">🎢 Miscellaneous</a></li>
+    <li><a href="#✨ Inspiration/Purpose">✨ Inspiration/Purpose/a></li>
+    <li><a href="#👮‍♂️ License">👮‍♂️ License</a></li>
+    <li><a href="#⚠ Disclaimer">⚠ Disclaimer</a></li>
+  </ol>
+</details>
 
-## Reading-Education
+---
+## 👣 Privacy
 
-* **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books.md)**
-* **[Manga / Manhwa / Manhua](https://github.com/Piratezparty/Piratezparty/blob/main/Manga-Manhwa-Manhua.md)**
-* **[Courses](https://github.com/Piratezparty/Piratezparty/blob/main/Courses.md)**
-* **[Light Novels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel.md)**
+* **[Mails](Privacy/Mails.md)**
+* **[Vpn](Privacy\VPN.md)**
+* **[Antivirus](Privacy/Antivirus.md)**
 
-***
-***
-
-## Tools
-
-* **[Entertainment Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Entertainment-Tools.md)**
-* **[Audio Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Audio-Tools.md)**
-* **[Downloaders](https://github.com/SpamVerse/Piratezparty/blob/main/Cli-download-tools.md)**
-* **[Encoding Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Tools.md)**
-* **[Reading](https://github.com/Piratezparty/Piratezparty/blob/main/Reading-Tools.md)**
-* **[Colab](https://github.com/Piratezparty/Piratezparty/blob/main/Colab.md)**
-* **[Torrents](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-Tools.md)**
-* **[Media Managers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManagers-Tools.md)**
-* **[Social Media](https://github.com/SpamVerse/Piratezparty/blob/main/Social-Media-Tools.md)**
-* **[Cloning Tools](https://github.com/Piratezparty/Piratezparty/blob/main/Cloning-Tools.md)**
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ***
-***
 
-## Mobile-PC
 
-* **[Anime / Manga](https://github.com/Piratezparty/Piratezparty/blob/main/Anime-Manga-Apps.md)**
-* **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks.md)**
-* **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-Apps.md)**
-* **[Light Novels](https://github.com/Piratezparty/Piratezparty/blob/main/LightNovel-Apps.md)**
-* **[Social Media](https://github.com/SpamVerse/Piratezparty/blob/main/Social-Media-Apps.md)**
-* **[Android Emulators](https://github.com/Piratezparty/Piratezparty/blob/main/Android-Emulators.md)**
-* **[Download Managers](https://github.com/Piratezparty/Piratezparty/blob/main/Download-Managers.md)**
-* **[Tracking Apps](https://github.com/SpamVerse/Piratezparty/blob/main/Tracking-Apps.md)**
-* **[Readers](https://github.com/SpamVerse/Piratezparty/blob/main/Reader.md)**
-* **[Movies/Series](https://github.com/SpamVerse/Piratezparty/blob/main/Movie-Series-Apps.md)**
+## 🍿 Entertainment
 
-***
-***
+* **[Movies/Series](Entertainment/Movie-Series.md)**
+* **[Anime](Entertainment/Anime.md)**
+* **[Sports](Entertainment/Sports.md)**
+* **[Games](Entertainment/Games.md)**
+* **[Songs](Entertainment/Songs.md)**
+* **[Cartoons](Entertainment/Cartoons.md)**
+* **[Drama](Entertainment/Drama.md)**
 
-## Guides
-
-* **[Encoding](https://github.com/Piratezparty/Piratezparty/blob/main/Encoding-Guides.md)**
-* **[MediaManagers](https://github.com/Piratezparty/Piratezparty/blob/main/MediaManager-Guides.md)**
-* **[Torrents](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-Guides.md)**
-* **[Android](https://github.com/SpamVerse/Piratezparty/blob/main/Android-Related-Guides.md)**
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ***
-***
 
-## Awesome-Collection
 
-* **[General](https://github.com/Piratezparty/Piratezparty/blob/main/General-Awesome-Collection.md)**
-* **[Warez](https://github.com/Piratezparty/Piratezparty/blob/main/Warez-Collection.md)**
-* **[Reddit](https://github.com/Piratezparty/Piratezparty/blob/main/Awesome-Reddit.md)**
-* **[Weeb Index](https://github.com/SpamVerse/Piratezparty/blob/main/Weeb-Index.md)**
+## 📚 Reading-Education
 
-***
-***
+* **[Books](Reading-Education/Books.md)**
+* **[Manga / Manhwa / Manhua](Reading-Education/Manga-Manhwa-Manhua.md)**
+* **[Courses](Reading-Education/Courses.md)**
+* **[Light Novels](Reading-Education/LightNovel.md)**
 
-## NSFW
-
-* **[Prun](https://github.com/Piratezparty/Piratezparty/blob/main/Prun.md)**
-* **[Hemtai](https://github.com/Piratezparty/Piratezparty/blob/main/hemtai.md)**
-* **[Pornhwa](https://github.com/Piratezparty/Piratezparty/blob/main/Pornhwa.md)**
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ***
-***
 
-## Telegram
 
-* **[Mods / Cracks](https://github.com/Piratezparty/Piratezparty/blob/main/Mods-Cracks-TG.md)**
-* **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts-tg.md)**
-* **[Music](https://github.com/Piratezparty/Piratezparty/blob/main/Music-TG.md)**
-* **[Cartoons](https://github.com/Piratezparty/Piratezparty/blob/main/Cartoons-TG.md)**
-* **[Drama](https://github.com/Piratezparty/Piratezparty/blob/main/Drama-TG.md)**
-* **[Books](https://github.com/Piratezparty/Piratezparty/blob/main/Books-TG.md)**
-* **[Courses](https://github.com/Piratezparty/Piratezparty/blob/main/Courses-TG.md)**
+## 🔨 Tools
 
-***
-***
+* **[Entertainment Tools](Tools/Entertainment-Tools.md)**
+* **[Audio Tools](Tools/Audio-Tools.md)**
+* **[Downloaders](Tools/Cli-download-tools.md)**
+* **[Encoding Tools](Tools/Encoding-Tools.md)**
+* **[Reading](Tools/Reading-Tools.md)**
+* **[Colab](Tools/Colab.md)**
+* **[Torrents](Tools/Torrent-Tools.md)**
+* **[Media Managers](Tools/MediaManagers-Tools.md)**
+* **[Social Media](Tools/Social-Media-Tools.md)**
+* **[Cloning Tools](Tools/Cloning-Tools.md)**
 
-## Miscellaneous
-
-* **[Photos / Fonts](https://github.com/Piratezparty/Piratezparty/blob/main/Photo-Fonts.md)**
-* **[Opendirectories](https://github.com/Piratezparty/Piratezparty/blob/main/Opendirectories.md)**
-* **[Torrent Aggregators](https://github.com/Piratezparty/Piratezparty/blob/main/Torrent-aggregators.md)**
-* **[Pastebin Services](https://github.com/SpamVerse/Piratezparty/blob/main/Pastebin-Services.md)**
-* **[Gdrive Index](https://github.com/SpamVerse/Piratezparty/blob/main/Gdrive-Index.md)**
-* **[Discover Alternatives](https://github.com/SpamVerse/Piratezparty/blob/main/Discover-Alternatives.md)**
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ***
+
+
+## 💻 Mobile & PC
+
+* **[Anime / Manga](mobile-pc/Anime-Manga-Apps.md)**
+* **[Mods / Cracks](mobile-pc/Mods-Cracks.md)**
+* **[Music](mobile-pc/Music-Apps.md)**
+* **[Light Novels](mobile-pc/LightNovel-Apps.md)**
+* **[Social Media](mobile-pc/Social-Media-Apps.md)**
+* **[Android Emulators](mobile-pc/Emulators.md)**
+* **[Download Managers](mobile-pc/Download-Managers.md)**
+* **[Tracking Apps](mobile-pc/Tracking-Apps.md)**
+* **[Readers](mobile-pc/Reader.md)**
+* **[Movies/Series](mobile-pc/Movie-Series-Apps.md)**
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
 ***
 
-# Inspiration/Purpose
+
+## 📔 Guides
+
+* **[Encoding](Guides/Encoding-Guides.md)**
+* **[MediaManagers](Guides/MediaManager-Guides.md)**
+* **[Torrents](Guides/Torrent-Guides.md)**
+* **[Android](Guides/Android-Related-Guides.md)**
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+***
+
+
+## 🤩 Awesome-Collection
+
+* **[General](Awesome-Collection/General-Awesome-Collection.md)**
+* **[Warez](Awesome-Collection/Warez-Collection.md)**
+* **[Reddit](Awesome-Collection/Awesome-Reddit.md)**
+* **[Weeb Index](Awesome-Collection/Weeb-Index.md)**
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+***
+
+
+## 🔞 NSFW
+
+* **[Prun](NSFW/Prun.md)**
+* **[Hemtai](NSFW/hemtai.md)**
+* **[Pornhwa](NSFW/Pornhwa.md)**
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+***
+
+
+## 📣 Telegram
+
+* **[Mods / Cracks](Telegram/Mods-Cracks-TG.md)**
+* **[Photos / Fonts](Telegram/Photo-Fonts-tg.md)**
+* **[Music](Telegram/Music-TG.md)**
+* **[Cartoons](Telegram/Cartoons-TG.md)**
+* **[Drama](Telegram/Drama-TG.md)**
+* **[Books](Telegram/Books-TG.md)**
+* **[Courses](Telegram/Courses-TG.md)**
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+***
+
+
+## 🎢 Miscellaneous
+
+* **[Photos / Fonts](Misc/Photo-Fonts.md)**
+* **[Opendirectories](Misc/Opendirectories.md)**
+* **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
+* **[Pastebin Services](Misc/Pastebin-Services.md)**
+* **[Gdrive Index](Misc/Gdrive-Index.md)**
+* **[Discover Alternatives](Misc/Discover-Alternatives.md)**
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+---
+
+~~~
+END OF INDEX 
+~~~
+
+---
+
+## ✨ Inspiration/Purpose
 I know Awesome Piracy and FMHY already exists but I like to collect. I had my tg channel and discord server where I use to share my collections. But over the years due to lack of time I am unable to share much so decided to batch up all my collections and make yet another index as farewell gift. I am not sure whether I will be able to maintain it(I will try to maintain) so feel free to fork and continue it.
 
-## License
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+---
+## 👮‍♂️ License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Piratezparty has waived all copyright and
 related or neighboring rights to this work.
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+---
+## 🎁 Contributors
+
+Special thanks to:
+
+<a href="https://github.com/SpamVerse/Piratezparty/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SpamVerse/Piratezparty" />
+</a>
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+---
+## ⚠ Disclaimer
+*All the information present here is purely for informational purposes and is not intended to support copyright infringement. I am not responsible for and in no way associated to any external links or their content present here , all the links available here are publicly available over the internet.I have no control over the nature, content and availability of other websites. If you dislike the information this website provides then please contact the corresponding website's owner/webmaster/hoster directly and fill a DMCA takedown request.*
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/SpamVerse/Piratezparty.svg?style=for-the-badge
+[contributors-url]: https://github.com/SpamVerse/Piratezparty_api/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/SpamVerse/Piratezparty.svg?style=for-the-badge
+[forks-url]: https://github.com/SpamVerse/Piratezparty_api/network/members
+[stars-shield]: https://img.shields.io/github/stars/SpamVerse/Piratezparty.svg?style=for-the-badge
+[stars-url]: https://github.com/SpamVerse/Piratezparty_api/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SpamVerse/Piratezparty.svg?style=for-the-badge
+[issues-url]: https://github.com/SpamVerse/Piratezparty_api/issues
+[license-shield]: https://img.shields.io/github/license/SpamVerse/Piratezparty.svg?style=for-the-badge
+[license-url]: https://github.com/SpamVerse/Piratezparty_api/blob/master/LICENSE
