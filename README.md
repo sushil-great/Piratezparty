@@ -17,19 +17,19 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#-👣-Privacy">👣 Privacy</a></li>
-    <li><a href="#-🍿-Entertainment">🍿 Entertainment</a></li>
-    <li><a href="#-📚-Reading-Education">📚 Reading & Education</a></li>
-    <li><a href="#-🔨-Tools">🔨 Tools</a></li>
-    <li><a href="#-💻-Mobile & PC">💻 Mobile & PC</a></li>
-    <li><a href="#-📔-Guides">📔 Guides</a></li>
-    <li><a href="#-🤩-Awesome-Collection">🤩 Awesome-Collection</a></li>
-    <li><a href="#-🔞-NSFW">🔞 NSFW</a></li>
-    <li><a href="#-📣-Telegram">📣 Telegram</a></li>
-    <li><a href="#-🎢-Miscellaneous">🎢 Miscellaneous</a></li>
-    <li><a href="#-✨-Inspiration-Purpose">✨ Inspiration Purpose</a></li>
-    <li><a href="#-👮‍♂️-License">👮‍♂️ License</a></li>
-    <li><a href="#-⚠-Disclaimer">⚠ Disclaimer</a></li>
+    <li><a href="#-Privacy">👣 Privacy</a></li>
+    <li><a href="#-Entertainment">🍿 Entertainment</a></li>
+    <li><a href="#-Reading-Education">📚 Reading & Education</a></li>
+    <li><a href="#-Tools">🔨 Tools</a></li>
+    <li><a href="#-Mobile & PC">💻 Mobile & PC</a></li>
+    <li><a href="#-Guides">📔 Guides</a></li>
+    <li><a href="#-Awesome-Collection">🤩 Awesome-Collection</a></li>
+    <li><a href="#-NSFW">🔞 NSFW</a></li>
+    <li><a href="#-Telegram">📣 Telegram</a></li>
+    <li><a href="#-Miscellaneous">🎢 Miscellaneous</a></li>
+    <li><a href="#-Inspiration-Purpose">✨ Inspiration Purpose</a></li>
+    <li><a href="#-License">👮‍♂️ License</a></li>
+    <li><a href="#-Disclaimer">⚠ Disclaimer</a></li>
   </ol>
 </details>
 
