@@ -178,8 +178,7 @@ END OF INDEX
 ---
 
 ## ✨ Inspiration/Purpose
-I like to find different interesting links and stuff on internet but over the years due to lack of time I am unable to explore much so decided to batch up all my collections and make yet another index as farewell gift. If you want to keep this project alive please consider doing a Pull Request.
-
+I like to find different interesting links and stuff on the internet but over the years, due to lack of time, I have been unable to explore much, so I decided to batch up all my collections and make yet another index as a farewell gift. If you want to keep this project alive, please consider making a Pull Request.
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ---
