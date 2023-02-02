@@ -178,7 +178,7 @@ END OF INDEX
 ---
 
 ## ✨ Inspiration/Purpose
-I know Awesome Piracy and FMHY already exists but I like to collect. I had my tg channel and discord server where I use to share my collections. But over the years due to lack of time I am unable to share much so decided to batch up all my collections and make yet another index as farewell gift. I am not sure whether I will be able to maintain it(I will try to maintain) so feel free to fork and continue it.
+I like to find different interesting links and stuff on internet but over the years due to lack of time I am unable to explore much so decided to batch up all my collections and make yet another index as farewell gift. If you want to keep this project alive please consider doing a Pull Request.
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
