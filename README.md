@@ -37,7 +37,7 @@
 ## 👣 Privacy
 
 * **[Mails](Privacy/Mails.md)**
-* **[Vpn](Privacy\VPN.md)**
+* **[Vpn](Privacy/VPN.md)**
 * **[Antivirus](Privacy/Antivirus.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
