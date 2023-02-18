@@ -70,7 +70,7 @@
 
 # Reddit Collection
 
-* [Wholesomehentai](https://www.reddit.com/r/wholesomehentai) - Hentai that makes your heart orgasm.
+* [Wholesomehentai](https://www.reddit.com/r/wholesomehentai) | [Website](https://wholesomelist.com/) - Hentai that makes your heart orgasm.
 * [Hentai](https://www.reddit.com/r/hentai) | [List](https://reddit.com/r/hentai/w/hentai_subreddits) - Hentai Related sub.
 * [HENTAI_GIF](https://www.reddit.com/r/HENTAI_GIF) - For Hentai Animations.
 * [Hentai4Everyone](https://www.reddit.com/r/Hentai4Everyone) - Yet Another Hentai Subreddit.
