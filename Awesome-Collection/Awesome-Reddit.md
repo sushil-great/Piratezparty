@@ -22,6 +22,7 @@
 
 * [r/linux_gaming](https://www.reddit.com/r/linux_gaming/) - *A subreddit for gaming on the GNU/Linux operating system*
 
+
 # Subreddits for Media managers/ grabber
 
 * [r/Addons4Kodi](https://www.reddit.com/r/Addons4Kodi) - *Addons4Kodi Community Subreddit*
@@ -71,6 +72,11 @@
 
 * [r/visualnovels](https://www.reddit.com/r/visualnovels/) - *A community for discussing visual novels, their development, and the medium*
 
+* [Comicbooks](https://www.reddit.com/r/comicbooks/) - *A reddit for fans of comic books, graphic novels, and digital comics*
+
+* [Noveltranslation](https://reddit.com/r/noveltranslations/) - *A community for people who cannot read but join together to read the same 5 translated webnovels over and over again in an attempt to decode the mysteries of written language*
+
+
 # Piracy Related Subreddits
 
 * [r/Piracy](https://www.reddit.com/r/Piracy) - *A community dedicated to the discussion of digital piracy*
@@ -94,6 +100,7 @@
 * [r/Scholar](https://www.reddit.com/r/Scholar/) - *This subreddit is for requesting and sharing specific articles available in various databases*
 
 * [r/SoftwarePirates](https://www.reddit.com/r/SoftwarePirates) - *Discussion about software piracy*
+
 
 # Subreddits Related to Hoard/Archive
 
@@ -121,6 +128,7 @@
 
 * [r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) - *Welcome to the usenet invites subreddit. Please feel free to request or offer invites to usenet indexers*
 
+
 # Subreddits Related to Apks/ Softwares/Os
 
 * [r/androidapps](https://www.reddit.com/r/androidapps) - *A subreddit dedicated to Android apps*
@@ -132,6 +140,7 @@
 * [r/androidadfreemods](https://www.reddit.com/r/androidadfreemods) - *adfree android mods*
 
 * [r/software](https://www.reddit.com/r/software) - *Anything software-related*
+
 
 # VPN Related Subreddits
  
