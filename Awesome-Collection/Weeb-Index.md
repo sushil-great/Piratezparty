@@ -12,6 +12,8 @@
 * [Novelupdates](https://www.novelupdates.com/)
 * [Scanupdates](https://www.scanupdates.com/)
 * [Manga Update](https://www.manga-raw.club/listy/manga/)
+* [Animefillerlist](https://animefillerlist.com) - Websites to list filler anime episodes.
+* [SauceNao](https://saucenao.com/) - Reverse image search
 
 
 # Anime Tracking
