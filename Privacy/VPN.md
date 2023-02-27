@@ -22,3 +22,5 @@
 * [Peervpn](https://peervpn.net/) - PeerVPN is a software that builds virtual ethernet networks between multiple computers.
 
 * [VpnHood](https://github.com/vpnhood/VpnHood) - VpnHood is a hybrid VPN, captures all packets throw a packet filter driver, same as many other VPNs but establishes connections like a socks proxy without any fingerprint.
+
+* [DSVPN](https://github.com/jedisct1/dsvpn) - Dead Simple VPN - small (~25 KB), works out of the box, run a single-line command on the server and a similar one on the client and you're done.
