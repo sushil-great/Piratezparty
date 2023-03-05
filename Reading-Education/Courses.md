@@ -37,6 +37,9 @@
 * [cursa](https://cursa.app/)
 * [khanacademy](https://www.khanacademy.org/)
 * [watchknowlearn](http://www.watchknowlearn.org/)
+* [coursedl](https://www.coursedl.org/0:/)
+* [downloadly](https://downloadly.net/)
+* [hacksnation](https://hacksnation.com/)
 
 ## Computer Science & Programming
 
