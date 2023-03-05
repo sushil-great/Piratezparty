@@ -166,6 +166,7 @@
 * **[Pastebin Services](Misc/Pastebin-Services.md)**
 * **[Gdrive Index](Misc/Gdrive-Index.md)**
 * **[Discover Alternatives](Misc/Discover-Alternatives.md)**
+* **[Random Things](Misc/Random.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
