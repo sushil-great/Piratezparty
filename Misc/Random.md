@@ -1,3 +1,3 @@
 • [Cringemdb](https://cringemdb.com/) - Can you watch the movie with your parents? 
 
-• [Super.so](https://super.so/) - Create Websites with Notion.
+• [Super.so](https://super.so/) | [simple.ink]( https://www.simple.ink/) - Create Websites with Notion.
