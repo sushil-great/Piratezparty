@@ -33,7 +33,7 @@
 * [9hentai](https://9hentai.com/)
 * [Fakku](https://fakku.net/)
 * [HentaiHere](https://hentaihere.com/)
-* [E-hentai](https://e-hentai.org/)
+* [E-hentai](https://e-hentai.org/) | [Forums](https://forums.e-hentai.org/index.php)
 * [HentaiFox](https://hentaifox.com/)
 * [Hentaihand](https://hentaihand.com/en/)
 * [9hentai](https://9hentai.to/)
