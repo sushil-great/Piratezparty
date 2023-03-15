@@ -35,6 +35,7 @@
 | [Anime-Downloader](https://github.com/henry-richard7/Anime-Downloader) | ![Last Commit](https://img.shields.io/github/last-commit/henry-richard7/Anime-Downloader) | ![Freq](https://img.shields.io/github/commit-activity/m/henry-richard7/Anime-Downloader) |
 | [AnimeOut](https://www.animeout.xyz/progress-and-update-on-the-desktop-mobile-apps-and-new-platform/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
 | [Hakuneko](https://github.com/manga-download/hakuneko) | ![Last Commit](https://img.shields.io/github/last-commit/manga-download/hakuneko) | ![Freq](https://img.shields.io/github/commit-activity/m/manga-download/hakuneko) |
+| [Miru](https://github.com/ThaUnknown/miru) | ![Last Commit](https://img.shields.io/github/last-commit/ThaUnknown/miru) | ![Freq](https://img.shields.io/github/commit-activity/m/ThaUnknown/miru) |
 
 # Android Manga
 | App Name | Status | Commit Frequency |
