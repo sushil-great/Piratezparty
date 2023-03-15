@@ -67,3 +67,10 @@
 * [PythonTutor](http://PythonTutor.com)
 * [realpython](https://realpython.com/)
 * [cs-curriculum](https://laconicml.com/computer-science-curriculum-youtube-videos/) | [cs-mit](https://laconicml.com/computer-science-engineer-mit-university/)
+
+## Maths Tutorials
+* [mathispower4u](http://www.mathispower4u.com/)
+* [patrickjmt](http://patrickjmt.com/)
+* [schoolyourself](http://schoolyourself.org/)
+* [mathhelp](https://www.mathhelp.com/)
+* [mathonline](http://mathonline.wikidot.com/)
