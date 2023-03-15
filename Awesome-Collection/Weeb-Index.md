@@ -14,7 +14,8 @@
 * [Manga Update](https://www.manga-raw.club/listy/manga/)
 * [Animefillerlist](https://animefillerlist.com) - Websites to list filler anime episodes.
 * [SauceNao](https://saucenao.com/) - Reverse image search
-
+* [Animeplus](https://anime.plus/) - An extension of your myanimelist.net profile, showing you various stats about your anime and manga.
+* [Anitrendz(https://anitrendz.com/) - Trending anime list.
 
 # Anime Tracking
 *For Current Season Anime And tracking anime*
