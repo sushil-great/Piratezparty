@@ -57,6 +57,7 @@
 | [ExtraGram](https://github.com/exteraSquad/exteraGram) | ![Last Commit](https://img.shields.io/github/last-commit/exteraSquad/exteraGram) | ![Freq](https://img.shields.io/github/commit-activity/m/exteraSquad/exteraGram) |
 | [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | ![Last Commit](https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS) | ![Freq](https://img.shields.io/github/commit-activity/m/Telegram-FOSS-Team/Telegram-FOSS) |
 | [Catogram](https://github.com/Catogram/Catogram) | ![Last Commit](https://img.shields.io/github/last-commit/Catogram/Catogram) | ![Freq](https://img.shields.io/github/commit-activity/m/Catogram/Catogram) |
+| [Nagram](https://github.com/nextalone/nagram) | ![Last Commit](https://img.shields.io/github/last-commit/nextalone/nagram) | ![Freq](https://img.shields.io/github/commit-activity/m/nextalone/nagram) |
 
 ## iOS
 | App Name | Status | Commit Frequency |
