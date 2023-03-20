@@ -54,6 +54,7 @@
 * [Panda](https://panda.chaika.moe/)
 * [Ryuugames](https://ryuugames.com/)
 * [Sakuracircle](https://sakuracircle.com/)
+* [moeload](https://moeload.com/)
 
 # Apps
 
