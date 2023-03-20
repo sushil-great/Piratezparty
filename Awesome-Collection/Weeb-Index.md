@@ -16,6 +16,8 @@
 * [SauceNao](https://saucenao.com/) - Reverse image search
 * [Animeplus](https://anime.plus/) - An extension of your myanimelist.net profile, showing you various stats about your anime and manga.
 * [Anitrendz](https://anitrendz.com/) - Trending anime list.
+* [Fansubco](https://fansub.co/) - Fansub comparison site, dead now.
+* [Crymore](https://www.crymore.net/) - Reviews, comparison etc.
 
 # Anime Tracking
 *For Current Season Anime And tracking anime*
