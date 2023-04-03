@@ -59,3 +59,5 @@
 * [Gophie](https://github.com/Go-phie/gophie) - An Aggregator Engine for searching and downloading movies free - NO ADs!
 
 * [Downlomatic](https://github.com/TimerErTim/downlomatic) - a CLI and GUI tool capable of downloading multiple or all movies/series/animes/whatever from supported websites.
+
+* [Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine.
