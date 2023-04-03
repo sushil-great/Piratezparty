@@ -211,12 +211,12 @@ Special thanks to:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/SpamVerse/Piratezparty.svg?style=for-the-badge
-[contributors-url]: https://github.com/SpamVerse/Piratezparty_api/graphs/contributors
+[contributors-url]: https://github.com/SpamVerse/Piratezparty/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/SpamVerse/Piratezparty.svg?style=for-the-badge
-[forks-url]: https://github.com/SpamVerse/Piratezparty_api/network/members
+[forks-url]: https://github.com/SpamVerse/Piratezparty/network/members
 [stars-shield]: https://img.shields.io/github/stars/SpamVerse/Piratezparty.svg?style=for-the-badge
-[stars-url]: https://github.com/SpamVerse/Piratezparty_api/stargazers
+[stars-url]: https://github.com/SpamVerse/Piratezparty/stargazers
 [issues-shield]: https://img.shields.io/github/issues/SpamVerse/Piratezparty.svg?style=for-the-badge
-[issues-url]: https://github.com/SpamVerse/Piratezparty_api/issues
+[issues-url]: https://github.com/SpamVerse/Piratezparty/issues
 [license-shield]: https://img.shields.io/github/license/SpamVerse/Piratezparty.svg?style=for-the-badge
-[license-url]: https://github.com/SpamVerse/Piratezparty_api/blob/master/LICENSE
+[license-url]: https://github.com/SpamVerse/Piratezparty
