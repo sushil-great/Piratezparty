@@ -7,3 +7,4 @@
 * [Udemyforu](https://t.me/udemyforu)
 * [Freeudemycoupondaily](https://t.me/freeudemycoupondaily)
 * [CGPERS](https://t.me/CGPERS)
+* [Temporary Free Courses](https://t.me/+-XjGF_5SDzkxMWY1)
