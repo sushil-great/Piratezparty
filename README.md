@@ -39,7 +39,8 @@
 * **[Mails](Privacy/Mails.md)**
 * **[Vpn](Privacy/VPN.md)**
 * **[Antivirus](Privacy/Antivirus.md)**
-* **[Clear digital footprint](Privacy/Clear-Digital-Footprint.md)**
+* **[Clear Digital Footprint](Privacy/Clear-Digital-Footprint.md)**
+* **[Misc 🛠](Privacy/Misc.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -85,6 +86,7 @@
 * **[Media Managers](Tools/MediaManagers-Tools.md)**
 * **[Social Media](Tools/Social-Media-Tools.md)**
 * **[Cloning Tools](Tools/Cloning-Tools.md)**
+* **[CLI Tools](Tools/CLI-Tools.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -161,8 +163,10 @@
 
 ## 🎢 Miscellaneous
 
+* **[CyberSecurity Stuff](Misc/CyberSecurity-Stuff.md)**
 * **[Photos / Fonts](Misc/Photo-Fonts.md)**
 * **[Note Taking](Misc/Note-Taking.md)**
+* **[Root Tools](Misc/Root-Tools.md)**
 * **[Opendirectories](Misc/Opendirectories.md)**
 * **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
 * **[Pastebin Services](Misc/Pastebin-Services.md)**
