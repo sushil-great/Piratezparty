@@ -21,7 +21,7 @@
     <li><a href="#-Entertainment">🍿 Entertainment</a></li>
     <li><a href="#-Reading-Education">📚 Reading & Education</a></li>
     <li><a href="#-Tools">🔨 Tools</a></li>
-    <li><a href="#-Mobile & PC">💻 Mobile & PC</a></li>
+    <li><a href="#-Mobile & PC">💻 Software</a></li>
     <li><a href="#-Guides">📔 Guides</a></li>
     <li><a href="#-Awesome-Collection">🤩 Awesome-Collection</a></li>
     <li><a href="#-NSFW">🔞 NSFW</a></li>
@@ -93,7 +93,7 @@
 ***
 
 
-## 💻 Mobile & PC
+## 💻 Software
 
 * **[Anime / Manga](mobile-pc/Anime-Manga-Apps.md)**
 * **[Mods / Cracks](mobile-pc/Mods-Cracks.md)**
