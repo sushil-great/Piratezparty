@@ -40,6 +40,7 @@
 * **[Vpn](Privacy/VPN.md)**
 * **[Antivirus](Privacy/Antivirus.md)**
 * **[Clear Digital Footprint](Privacy/Clear-Digital-Footprint.md)**
+* **[Privacy-guides](Privacy/Privacy-guides.md)**
 * **[Misc 🛠](Privacy/Misc.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
