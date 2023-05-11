@@ -11,4 +11,4 @@
 
 # Window
 
-* [ ](https://github.com/builtbybel/privatezilla) - Disable privacy risky window services and removes bloatware from window, for more info read repo.
+* [Privatezilla](https://github.com/builtbybel/privatezilla) - Disable privacy risky window services and removes bloatware from window, for more info read repo.
