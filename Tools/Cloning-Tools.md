@@ -1,83 +1,73 @@
 # Mounting/Copying Tools
 ## GUI TOOLS
 
-| App Name | Windows | MacOS | Linux | Android | iOS | Web | CLI
-|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
-| [Rclone For Android](https://github.com/x0b/rcx) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
-| [Airexplorer](https://www.airexplorer.net/en) | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ |
-| [Expandrive](https://www.expandrive.com) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
-| [Strongsync](https://www.expandrive.com/strongsync) | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Raidrive](https://www.raidrive.com) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Mountainduck](https://mountainduck.io) | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Cyberduck](https://cyberduck.io) | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Airlivedrive](https://www.airlivedrive.com/en) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [x0b/rcx](https://github.com/x0b/rcx) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
-| [newhinton/extRact](https://github.com/newhinton/extRact) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
-| [odrive](https://www.odrive.com/homepage5b) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
-| [insynchq](https://www.insynchq.com) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
-| [carotdav](http://rei.to/carotdav_en.html) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [ODrive](https://github.com/liberodark/ODrive) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ |
-| [WebDrive](https://webdrive.com) | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| [multcloud](https://www.multcloud.com) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| [SFTP Drive](https://www.nsoftware.com/sftp/drive) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Netdrive](https://www.netdrive.net) | ❌ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ |
-| [Aircluster](https://www.aircluster.org/en) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [s3drive](https://www.nsoftware.com/drive/s3drive) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Goodsync](https://www.goodsync.com) | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ | ❌ |
-| [cloudhq](https://www.cloudhq.net) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
-| [cloudevo](https://www.evorim.com/en/cloudevo) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ |
-| [s3browser](https://s3browser.com) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Mixplorer](https://mixplorer.com/) \| [Xda Form thread](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
-| [mover](https://mover.io) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
+ * [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) - Windows/Mac/Linux
+ * [Airexplorer](https://www.airexplorer.net/en) - Windows/Mac/Android
+ * [Expandrive](https://www.expandrive.com) - Windows/Mac/Linux
+ * [Strongsync](https://www.expandrive.com/strongsync) - Mac
+ * [Raidrive](https://www.raidrive.com) - Windows
+ * [Mountainduck](https://mountainduck.io) - Windows/Mac
+ * [Cyberduck](https://cyberduck.io) - Windows/Mac
+ * [Airlivedrive](https://www.airlivedrive.com/en) - Windows
+ * [x0b/rcx](https://github.com/x0b/rcx) - Android
+ * [newhinton/extRact](https://github.com/newhinton/extRact) - Android
+ * [odrive](https://www.odrive.com/homepage5b) - Windows/Mac/Linux
+ * [insynchq](https://www.insynchq.com) - Windows/Mac/Linux
+ * [carotdav](http://rei.to/carotdav_en.html) - Windows
+ * [ODrive](https://github.com/liberodark/ODrive) - Windows/Mac/Linux/CLI
+ * [WebDrive](https://webdrive.com) - Windows/Mac/Web
+ * [multcloud](https://www.multcloud.com) - Web
+ * [SFTP Drive](https://www.nsoftware.com/sftp/drive) - Windows
+ * [Netdrive](https://www.netdrive.net) - Mac/Android/Ios
+ * [Aircluster](https://www.aircluster.org/en) - Windows
+ * [s3drive](https://www.nsoftware.com/drive/s3drive) - Windows
+ * [Goodsync](https://www.goodsync.com) - Windows/Mac/Linux/Android/Ios
+ * [cloudhq](https://www.cloudhq.net) - Web
+ * [cloudevo](https://www.evorim.com/en/cloudevo) - Windows/Mac/Linux/Android/Ios/Web
+ * [s3browser](https://s3browser.com) - Windows
+ * [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691) - Android
+ * [mover](https://mover.io) - Web
 
 ## CLI TOOLS
 
-| Repo Name | SA Support | Status | Commit Frequency 
-|-|:-:|-|-|
-| [rclone](https://github.com/rclone/rclone) | ❌ | ![](https://img.shields.io/github/last-commit/rclone/rclone) | ![](https://img.shields.io/github/commit-activity/m/rclone/rclone)
-| [drivedlgo](https://github.com/jaskaranSM/drivedlgo) | ❌ | ![](https://img.shields.io/github/last-commit/jaskaranSM/drivedlgo) | ![](https://img.shields.io/github/commit-activity/m/jaskaranSM/drivedlgo)
-| [AutoRclone](https://github.com/xyou365/AutoRclone) | ✔ | ![](https://img.shields.io/github/last-commit/xyou365/AutoRclone) | ![](https://img.shields.io/github/commit-activity/m/xyou365/AutoRclone)
-| [fclone](https://github.com/mawaya/rclone) | ✔ | ![](https://img.shields.io/github/last-commit/mawaya/rclone) | ![](https://img.shields.io/github/commit-activity/m/mawaya/rclone)
-| [gclone](https://github.com/donwa/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/donwa/gclone) | ![](https://img.shields.io/github/commit-activity/m/donwa/gclone)
-| [easyclone](https://github.com/xd003/easyclone) | ✔ | ![](https://img.shields.io/github/last-commit/xd003/easyclone) | ![](https://img.shields.io/github/commit-activity/m/xd003/easyclone)
-| [lclone](https://github.com/l3uddz/rclone/tree/feat/sa-cycle) | ✔ | ![](https://img.shields.io/github/last-commit/l3uddz/rclone/feat/sa-cycle) | ![](https://img.shields.io/github/commit-activity/m/l3uddz/rclone/feat/sa-cycle)
-| [sasync](https://github.com/88lex/sasync) | ✔ | ![](https://img.shields.io/github/last-commit/88lex/sasync) | ![](https://img.shields.io/github/commit-activity/m/88lex/sasync)
-| [GSAclone](https://github.com/shirooo39/GSAclone) | ✔ | ![](https://img.shields.io/github/last-commit/shirooo39/GSAclone) | ![](https://img.shields.io/github/commit-activity/m/shirooo39/GSAclone)
-| [rclone_jobber](https://github.com/wolfv6/rclone_jobber) | ❌ | ![](https://img.shields.io/github/last-commit/wolfv6/rclone_jobber) | ![](https://img.shields.io/github/commit-activity/m/wolfv6/rclone_jobber)
+* [rclone](https://github.com/rclone/rclone) - No SA Support
+* [drivedlgo](https://github.com/jaskaranSM/drivedlgo) - No SA Support
+* [AutoRclone](https://github.com/xyou365/AutoRclone) - Has SA Support
+* [fclone](https://github.com/mawaya/rclone) - Has SA Support
+* [gclone](https://github.com/donwa/gclone) - Has SA Support
+* [easyclone](https://github.com/xd003/easyclone) - Has SA Support
+* [lclone](https://github.com/l3uddz/rclone/tree/feat/sa-cycle) - Has SA Support
+* [sasync](https://github.com/88lex/sasync) - Has SA Support
+* [GSAclone](https://github.com/shirooo39/GSAclone) - Has SA Support
+* [rclone_jobber](https://github.com/wolfv6/rclone_jobber) - No SA Support
 
 # Telegram Bots for Cloning GDrive
 
-| Repo Name | SA Support | Status | Commit Frequency 
-|-|:-:|-|-|
-| [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) | ✔ | ![](https://img.shields.io/github/last-commit/jagrit007/Telegram-CloneBot) | ![](https://img.shields.io/github/commit-activity/m/jagrit007/Telegram-CloneBot)
-| [telegram_gcloner](https://github.com/smartass08/telegram_gcloner) | ✔ | ![](https://img.shields.io/github/last-commit/smartass08/telegram_gcloner) | ![](https://img.shields.io/github/commit-activity/m/smartass08/telegram_gcloner)
-| [CloneBot](https://github.com/MsGsuite/CloneBot) | ✔ | ![](https://img.shields.io/github/last-commit/MsGsuite/CloneBot) | ![](https://img.shields.io/github/commit-activity/m/MsGsuite/CloneBot)
-| [shell](https://github.com/anymeofu/shell) | ❌ | ![](https://img.shields.io/github/last-commit/anymeofu/shell) | ![](https://img.shields.io/github/commit-activity/m/anymeofu/shell)
-| [CLONE-HUNTER](https://github.com/anime-republic/CLONE-HUNTER) | ✔ | ![](https://img.shields.io/github/last-commit/anime-republic/CLONE-HUNTER) | ![](https://img.shields.io/github/commit-activity/m/anime-republic/CLONE-HUNTER)
-| [Gdutils_Tgbot](https://github.com/roshanconnor123/Gdutils_Tgbot) | ✔ | ![](https://img.shields.io/github/last-commit/roshanconnor123/Gdutils_Tgbot) | ![](https://img.shields.io/github/commit-activity/m/roshanconnor123/Gdutils_Tgbot)
-| [SearchX](https://github.com/l3v11/SearchX) | ✔ | ![](https://img.shields.io/github/last-commit/l3v11/SearchX) | ![](https://img.shields.io/github/commit-activity/m/l3v11/SearchX)
+* [Telegram-CloneBot](https://github.com/jagrit007/Telegram-CloneBot) - Has SA Support
+* [telegram_gcloner](https://github.com/smartass08/telegram_gcloner) - Has SA Support
+* [CloneBot](https://github.com/MsGsuite/CloneBot) - Has SA Support
+* [shell](https://github.com/anymeofu/shell) - No SA Support
+* [CLONE-HUNTER](https://github.com/anime-republic/CLONE-HUNTER) - Has SA Support
+* [Gdutils_Tgbot](https://github.com/roshanconnor123/Gdutils_Tgbot) - Has SA Support
+* [SearchX](https://github.com/l3v11/SearchX) - Has SA Support
 
 # Telegram Bots for Cloning Channels
 
-| Repo Name | Status | Commit Frequency 
-|-|-|-|
-| [clonebot](https://github.com/m4mallu/clonebot) | ![](https://img.shields.io/github/last-commit/m4mallu/clonebot) | ![](https://img.shields.io/github/commit-activity/m/m4mallu/clonebot)
-| [tgcf](https://github.com/aahnik/tgcf) | ![](https://img.shields.io/github/last-commit/aahnik/tgcf) | ![](https://img.shields.io/github/commit-activity/m/aahnik/tgcf)
-| [ChannelAutoPost](https://github.com/Baseerka/ChannelAutoPost) | ![](https://img.shields.io/github/last-commit/Baseerka/ChannelAutoPost) | ![](https://img.shields.io/github/commit-activity/m/Baseerka/ChannelAutoPost)
-| [multi-channel-forward-bot](https://github.com/m4mallu/multi-channel-forward-bot) | ![](https://img.shields.io/github/last-commit/m4mallu/multi-channel-forward-bot) | ![](https://img.shields.io/github/commit-activity/m/m4mallu/multi-channel-forward-bot)
-| [Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder) | ![](https://img.shields.io/github/last-commit/MrMissx/Telegram_Forwarder) | ![](https://img.shields.io/github/commit-activity/m/MrMissx/Telegram_Forwarder)
-| [Frwdit](https://github.com/Jijinr/Frwdit) | ![](https://img.shields.io/github/last-commit/Jijinr/Frwdit) | ![](https://img.shields.io/github/commit-activity/m/Jijinr/Frwdit)
-| [Forward-Client](https://github.com/AbirHasan2005/Forward-Client) | ![](https://img.shields.io/github/last-commit/AbirHasan2005/Forward-Client) | ![](https://img.shields.io/github/commit-activity/m/AbirHasan2005/Forward-Client)
-| [JunctionBot](https://github.com/Anandpskerala/JunctionBot) | ![](https://img.shields.io/github/last-commit/Anandpskerala/JunctionBot) | ![](https://img.shields.io/github/commit-activity/m/Anandpskerala/JunctionBot)
-| [ForwardBot](https://github.com/rahulps1000/ForwardBot) | ![](https://img.shields.io/github/last-commit/rahulps1000/ForwardBot) | ![](https://img.shields.io/github/commit-activity/m/rahulps1000/ForwardBot)
-| [telegram-message-forwarder-bot](https://github.com/viperadnan-git/telegram-message-forwarder-bot) | ![](https://img.shields.io/github/last-commit/viperadnan-git/telegram-message-forwarder-bot) | ![](https://img.shields.io/github/commit-activity/m/viperadnan-git/telegram-message-forwarder-bot)
+* [clonebot](https://github.com/m4mallu/clonebot) 
+* [tgcf](https://github.com/aahnik/tgcf) 
+* [ChannelAutoPost](https://github.com/Baseerka/ChannelAutoPost)
+* [multi-channel-forward-bot](https://github.com/m4mallu/multi-channel-forward-bot) 
+* [Telegram_Forwarder](https://github.com/MrMissx/Telegram_Forwarder)
+* [Frwdit](https://github.com/Jijinr/Frwdit)
+* [Forward-Client](https://github.com/AbirHasan2005/Forward-Client)
+* [JunctionBot](https://github.com/Anandpskerala/JunctionBot)
+* [ForwardBot](https://github.com/rahulps1000/ForwardBot)
+* [telegram-message-forwarder-bot](https://github.com/viperadnan-git/telegram-message-forwarder-bot)
 
 # CLI cloning Tools [Forks]
 
-| Repo Name | SA Support | Status | Commit Frequency 
-|-|:-:|-|-|
-| [AndreVuillemot/gclone](https://github.com/AndreVuillemot/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/AndreVuillemot/gclone) | ![](https://img.shields.io/github/commit-activity/m/AndreVuillemot/gclone)
-| [dogbutcat/gclone](https://github.com/dogbutcat/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/dogbutcat/gclone) | ![](https://img.shields.io/github/commit-activity/m/dogbutcat/gclone)
-| [l3v11/gclone](https://github.com/l3v11/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/l3v11/gclone) | ![](https://img.shields.io/github/commit-activity/m/l3v11/gclone)
-| [hsj51/gclone](https://github.com/hsj51/gclone) | ✔ | ![](https://img.shields.io/github/last-commit/hsj51/gclone) | ![](https://img.shields.io/github/commit-activity/m/hsj51/gclone)
+* [AndreVuillemot/gclone](https://github.com/AndreVuillemot/gclone) - Has SA Support
+* [dogbutcat/gclone](https://github.com/dogbutcat/gclone) - Has SA Support
+* [l3v11/gclone](https://github.com/l3v11/gclone) - Has SA Support
+* [hsj51/gclone](https://github.com/hsj51/gclone) - Has SA Support
+
