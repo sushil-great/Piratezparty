@@ -4,6 +4,7 @@
 | App Name | Windows | MacOS | Linux | Android | iOS | Web | CLI
 |-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Rclone Browser](https://github.com/kapitainsky/RcloneBrowser) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
+| [Rclone For Android](https://github.com/x0b/rcx) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
 | [Airexplorer](https://www.airexplorer.net/en) | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ❌ |
 | [Expandrive](https://www.expandrive.com) | ✔ | ✔ | ✔ | ❌ | ❌ | ❌ | ❌ |
 | [Strongsync](https://www.expandrive.com/strongsync) | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -27,7 +28,7 @@
 | [cloudhq](https://www.cloudhq.net) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
 | [cloudevo](https://www.evorim.com/en/cloudevo) | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ❌ |
 | [s3browser](https://s3browser.com) | ✔ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
+| [Mixplorer](https://mixplorer.com/) \| [Xda Form thread](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691) | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ |
 | [mover](https://mover.io) | ❌ | ❌ | ❌ | ❌ | ❌ | ✔ | ❌ |
 
 ## CLI TOOLS
