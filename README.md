@@ -114,6 +114,7 @@
 * **[MediaManagers](Guides/MediaManager-Guides.md)**
 * **[Torrents](Guides/Torrent-Guides.md)**
 * **[Android](Guides/Android-Related-Guides.md)**
+* **[Gdrive](Google-Drive-Guides.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
