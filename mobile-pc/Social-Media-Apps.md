@@ -1,111 +1,68 @@
-
-
-
-
-
-
-
-
-
-
-
 # Discord
-## Android
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [Aliucord](https://github.com/Aliucord/Aliucord) | ![Last Commit](https://img.shields.io/github/last-commit/Aliucord/Aliucord) | ![Freq](https://img.shields.io/github/commit-activity/m/Aliucord/Aliucord) |
-| [Bluecord](https://bluesmods.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-
-## Desktop
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | ![Last Commit](https://img.shields.io/github/last-commit/BetterDiscord/BetterDiscord) | ![Freq](https://img.shields.io/github/commit-activity/m/BetterDiscord/BetterDiscord) |
-| [PowerCord](https://powercord.dev/) | ![Last Commit](https://img.shields.io/github/last-commit/powercord-org/powercord) | ![Freq](https://img.shields.io/github/commit-activity/m/powercord-org/powercord)
+* [Aliucord](https://github.com/Aliucord/Aliucord) - Android
+* [Bluecord](https://bluesmods.com/) - Android
+* [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Desktop
+* [PowerCord](https://powercord.dev/) - Desktop
 
 # Telegram
 ## Android
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [Telegram](https://github.com/DrKLO/Telegram) | ![Last Commit](https://img.shields.io/github/last-commit/DrKLO/Telegram) | ![Freq](https://img.shields.io/github/commit-activity/m/DrKLO/Telegram) |
-| [NekoX](https://github.com/NekoX-Dev/NekoX) | ![Last Commit](https://img.shields.io/github/last-commit/NekoX-Dev/NekoX) | ![Freq](https://img.shields.io/github/commit-activity/m/NekoX-Dev/NekoX) |
-| [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | ![Last Commit](https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS) | ![Freq](https://img.shields.io/github/commit-activity/m/Telegram-FOSS-Team/Telegram-FOSS) |
-| [Forkgram](https://github.com/Forkgram/TelegramAndroid) | ![Last Commit](https://img.shields.io/github/last-commit/Forkgram/TelegramAndroid) | ![Freq](https://img.shields.io/github/commit-activity/m/Forkgram/TelegramAndroid) |
-| [CatogramX](https://github.com/CatogramX/CatogramX) | ![Last Commit](https://img.shields.io/github/last-commit/CatogramX/CatogramX) | ![Freq](https://img.shields.io/github/commit-activity/m/CatogramX/CatogramX) |
-| [PlusMessenger](https://plusmessenger.org) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [TelegramX](https://t.me/tgx_log) | ![Last Commit](https://img.shields.io/github/last-commit/TGX-Android/tdlib) | ![Freq](https://img.shields.io/github/commit-activity/m/TGX-Android/tdlib) |
-| [Nekogram](https://nekogram.app/) | ![Last Commit](https://badgen.net/gitlab/last-commit/Nekogram/Nekogram) | ![Freq](https://img.shields.io/github/commit-activity/m/tehcneko/nekogram-files) |
-| [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [iMe Messenger](https://github.com/imemessenger/iMe-Android) | ![Last Commit](https://img.shields.io/github/last-commit/imemessenger/iMe-Android) | ![Freq](https://img.shields.io/github/commit-activity/m/imemessenger/iMe-Android) |
-| [BGram](https://github.com/BGramApp/BGramFiles) | ![Last Commit](https://img.shields.io/github/last-commit/BGramApp/BGramFiles) | ![Freq](https://img.shields.io/github/commit-activity/m/BGramApp/BGramFiles) |
-| [Graphmessenger](https://www.graphmessenger.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [Aka](https://play.google.com/store/apps/details?id=org.aka.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [OwlGram](https://github.com/OwlGramDev/OwlGram) | ![Last Commit](https://img.shields.io/github/last-commit/OwlGramDev/OwlGram) | ![Freq](https://img.shields.io/github/commit-activity/m/OwlGramDev/OwlGram) |
-| [NinjaGram](https://play.google.com/store/apps/details?id=me.ninjagram.messenger) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [Telegraher](https://github.com/nikitasius/Telegraher) | ![Last Commit](https://img.shields.io/github/last-commit/nikitasius/Telegraher) | ![Freq](https://img.shields.io/github/commit-activity/m/nikitasius/Telegraher) |
-| [ExtraGram](https://github.com/exteraSquad/exteraGram) | ![Last Commit](https://img.shields.io/github/last-commit/exteraSquad/exteraGram) | ![Freq](https://img.shields.io/github/commit-activity/m/exteraSquad/exteraGram) |
-| [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) | ![Last Commit](https://img.shields.io/github/last-commit/Telegram-FOSS-Team/Telegram-FOSS) | ![Freq](https://img.shields.io/github/commit-activity/m/Telegram-FOSS-Team/Telegram-FOSS) |
-| [Catogram](https://github.com/Catogram/Catogram) | ![Last Commit](https://img.shields.io/github/last-commit/Catogram/Catogram) | ![Freq](https://img.shields.io/github/commit-activity/m/Catogram/Catogram) |
-| [Nagram](https://github.com/nextalone/nagram) | ![Last Commit](https://img.shields.io/github/last-commit/nextalone/nagram) | ![Freq](https://img.shields.io/github/commit-activity/m/nextalone/nagram) |
-
-## iOS
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [Telegram](https://github.com/TelegramMessenger/Telegram-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/TelegramMessenger/Telegram-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/TelegramMessenger/Telegram-iOS) |
-| [iMe Messenger](https://github.com/imemessenger/iMe-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/imemessenger/iMe-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/imemessenger/iMe-iOS) |
-| [Postufgram](https://github.com/Postuf/Telegram-iOS-Double-Bottom-Postufgram) | ![Last Commit](https://img.shields.io/github/last-commit/Postuf/Telegram-iOS-Double-Bottom-Postufgram) | ![Freq](https://img.shields.io/github/commit-activity/m/Postuf/Telegram-iOS-Double-Bottom-Postufgram) |
-| [nicegram](https://github.com/nicegram/Telegram-iOS) | ![Last Commit](https://img.shields.io/github/last-commit/nicegram/Telegram-iOS) | ![Freq](https://img.shields.io/github/commit-activity/m/nicegram/Telegram-iOS) |
-
-## Desktop
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [Telegram](http://github.com/telegramdesktop/tdesktop) | ![Last Commit](https://img.shields.io/github/last-commit/telegramdesktop/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/telegramdesktop/tdesktop) |
-| [Kotatogram](http://github.com/kotatogram/kotatogram-desktop) | ![Last Commit](https://img.shields.io/github/last-commit/kotatogram/kotatogram-desktop) | ![Freq](https://img.shields.io/github/commit-activity/m/kotatogram/kotatogram-desktop) |
-| [Unigram](https://github.com/UnigramDev/Unigram) | ![Last Commit](https://img.shields.io/github/last-commit/UnigramDev/Unigram) | ![Freq](https://img.shields.io/github/commit-activity/m/UnigramDev/Unigram) |
-| [64Gram](https://github.com/TDesktop-x64) | ![Last Commit](https://img.shields.io/github/last-commit/TDesktop-x64/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/TDesktop-x64/tdesktop) |
-| [Forkgram](https://github.com/Forkgram/tdesktop) | ![Last Commit](https://img.shields.io/github/last-commit/Forkgram/tdesktop) | ![Freq](https://img.shields.io/github/commit-activity/m/Forkgram/tdesktop) |
+* [Telegram Android](https://github.com/DrKLO/Telegram) - Android
+* [Telegram IOS](https://github.com/TelegramMessenger/Telegram-iOS) - IOS
+* [Telegram Desktop](http://github.com/telegramdesktop/tdesktop) - Desktop
+* [NekoX](https://github.com/NekoX-Dev/NekoX) - Android
+* [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Android
+* [Forkgram Android](https://github.com/Forkgram/TelegramAndroid) - Android
+* [Forkgram Desktop](https://github.com/Forkgram/tdesktop) - Desktop
+* [CatogramX](https://github.com/CatogramX/CatogramX) - Android
+* [PlusMessenger](https://plusmessenger.org) - Android
+* [TelegramX](https://t.me/tgx_log) - Android
+* [Nekogram](https://nekogram.app/) - Android
+* [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger) - Android
+* [iMe Messenger Android](https://github.com/imemessenger/iMe-Android) - Android
+* [iMe Messenger IOS](https://github.com/imemessenger/iMe-iOS) - IOS
+* [BGram](https://github.com/BGramApp/BGramFiles) - Android
+* [Graphmessenger](https://www.graphmessenger.com/) - Android
+* [Aka](https://play.google.com/store/apps/details?id=org.aka.messenger) - Android
+* [OwlGram](https://github.com/OwlGramDev/OwlGram) - Android
+* [NinjaGram](https://play.google.com/store/apps/details?id=me.ninjagram.messenger) - Android
+* [Telegraher](https://github.com/nikitasius/Telegraher) - Android
+* [ExtraGram](https://github.com/exteraSquad/exteraGram) - Android
+* [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Android
+* [Catogram](https://github.com/Catogram/Catogram) - Android
+* [Nagram](https://github.com/nextalone/nagram) - Android
+* [Postufgram](https://github.com/Postuf/Telegram-iOS-Double-Bottom-Postufgram) - IOS
+* [nicegram](https://github.com/nicegram/Telegram-iOS) - IOS
+* [Kotatogram](http://github.com/kotatogram/kotatogram-desktop) - Desktop
+* [Unigram](https://github.com/UnigramDev/Unigram) - Desktop
+* [64Gram](https://github.com/TDesktop-x64) - Desktop
 
 # Reddit
-## Android
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) | ![Last Commit](https://img.shields.io/github/last-commit/Docile-Alligator/Infinity-For-Reddit) | ![Freq](https://img.shields.io/github/commit-activity/m/Docile-Alligator/Infinity-For-Reddit) |
-| [Dawn](https://github.com/Tunous/Dawn) | ![Last Commit](https://img.shields.io/github/last-commit/Tunous/Dawn) | ![Freq](https://img.shields.io/github/commit-activity/m/Tunous/Dawn) |
-| [Slide](https://github.com/Haptic-Apps/Slide) | ![Last Commit](https://img.shields.io/github/last-commit/Haptic-Apps/Slide) | ![Freq](https://img.shields.io/github/commit-activity/m/Haptic-Apps/Slide) |
-| [Boost](https://boostforreddit.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [Relay](https://play.google.com/store/apps/details?id=free.reddit.news) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [Joey](https://play.google.com/store/apps/details?id=o.o.joey) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [Baconreader](https://baconreader.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [RedReader](https://github.com/QuantumBadger/RedReader) | ![Last Commit](https://img.shields.io/github/last-commit/QuantumBadger/RedReader) | ![Freq](https://img.shields.io/github/commit-activity/m/QuantumBadger/RedReader) |
+* [Infinity](https://github.com/Docile-Alligator/Infinity-For-Reddit) - Android
+* [Dawn](https://github.com/Tunous/Dawn) - Android
+* [Slide](https://github.com/Haptic-Apps/Slide) - Android
+* [Boost](https://boostforreddit.com/) - Android
+* [Relay](https://play.google.com/store/apps/details?id=free.reddit.news) - Android
+* [Sync](https://play.google.com/store/apps/details?id=com.laurencedawson.reddit_sync) - Android
+* [Joey](https://play.google.com/store/apps/details?id=o.o.joey) - Android
+* [Baconreader](https://baconreader.com/) - Android
+* [RedReader](https://github.com/QuantumBadger/RedReader) - Android
 
 
 # Instagram
-## Android
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [Instander](https://thedise.me/instander/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [AeroInsta](https://aeroinsta.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+* [Instander](https://thedise.me/instander/) - Android
+* [AeroInsta](https://aeroinsta.com/) - Android
 
 # Twitter
-## Android
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [AeroWitter](https://aerowitter.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [Harpy](https://github.com/robertodoering/harpy) | ![Last Commit](https://img.shields.io/github/last-commit/robertodoering/harpy) | ![Freq](https://img.shields.io/github/commit-activity/m/robertodoering/harpy) |
+* [AeroWitter](https://aerowitter.com/) - Android
+* [Harpy](https://github.com/robertodoering/harpy) - Android
 
 
 # Whatsapp
-## Android
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [WhatsApp AERO](https://whatsaero.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [YMWhatsApp+](https://ymwhatsapp.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [BETALABS](http://deltalabsproject.blogspot.com/) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
-| [Fouad WhatsApp](http://Down.fouadmods.com) | ![Last Commit](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) | ![Freq](https://img.shields.io/badge/Source-Closed%20Source-blueviolet) |
+* [WhatsApp AERO](https://whatsaero.com/) - Android
+* [YMWhatsApp+](https://ymwhatsapp.com/) - Android
+* [BETALABS](http://deltalabsproject.blogspot.com/) - Android
+* [Fouad WhatsApp](http://Down.fouadmods.com) - Android
 
 
 # Signal
-## Android
-| App Name | Status | Commit Frequency |
-| - | - | - |
-| [Molly](https://github.com/mollyim/mollyim-android) | ![Last Commit](https://img.shields.io/github/last-commit/mollyim/mollyim-android) | ![Freq](https://img.shields.io/github/commit-activity/m/mollyim/mollyim-android) |
+* [Molly](https://github.com/mollyim/mollyim-android) - Android

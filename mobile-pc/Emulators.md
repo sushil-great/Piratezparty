@@ -1,35 +1,27 @@
 ## Android Emulators
-| App Name | Windows | MacOS | Linux
-|-|:-:|:-:|:-:|
-| [BlueStacks](https://www.bluestacks.com) | ✔ | ✔ | ❌ |
-| [NoxPlayer](https://www.bignox.com) | ✔ | ✔ | ❌ |
-| [MEmu](https://www.memuplay.com) | ✔ | ❌ | ❌ |
-| [LDPlayer](https://www.ldplayer.net) | ✔ | ❌ | ❌ |
-| [Genymotion](https://www.genymotion.com) | ✔ | ✔ | ✔ |
-| [Anbox](https://anbox.io) | ❌ | ❌ | ✔ |
-| [Waydroid](https://waydro.id) | ❌ | ❌ | ✔ |
+* [BlueStacks](https://www.bluestacks.com) - Windows/MacOS
+* [NoxPlayer](https://www.bignox.com) - Windows/MacOS
+* [MEmu](https://www.memuplay.com) - Windows
+* [LDPlayer](https://www.ldplayer.net) - Windows
+* [Genymotion](https://www.genymotion.com)  (<span style="color:red">PAID!!</span> $0.5/hour) - Windows/MacOS/Linux
+* [Anbox](https://anbox.io) - Linux
+* [Waydroid](https://waydro.id) - Linux
 
 ## Android Operating Systems (OS)
-| App Name | Windows | MacOS | Linux
-|-|:-:|:-:|:-:|
-| [PrimeOS](https://primeos.in) | ✔ | ✔ | ✔ |
-| [RemixOS](https://www.fosshub.com/Remix-OS.html) | ✔ | ✔ | ✔ |
-| [PhoenixOS](http://www.phoenixos.com/en_US/phoenixos) | ✔ | ✔ | ✔ |
+* [PrimeOS](https://primeos.in) - Windows/MacOS/Linux
+* [RemixOS](https://www.fosshub.com/Remix-OS.html) - Windows/MacOS/Linux
+* [PhoenixOS](http://www.phoenixos.com/en_US/phoenixos) - Windows/MacOS/Linux
 
 ### PheonixOS Active Mods/Forks
-| App Name | Windows | MacOS | Linux
-|-|:-:|:-:|:-:|
-| [DROCK OS](https://drocksl.blogspot.com/) | ✔ | ✔ | ✔ |
-| [AbstregoOS](https://discord.com/invite/ZqvYu6mEjb) | ✔ | ✔ | ✔ |
-| [POSROG](https://posrog.my.id) <sup> [TG](https://t.me/posrogchannel)| ✔ | ✔ | ✔ |
-| [POS DarkMatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) | ✔ | ✔ | ✔ |
-| [Thanos POS](https://t.me/thanosphd3) <sup> [YT](https://www.youtube.com/channel/UCR_1iKHYPKQk8ratPkCPP5w)| ✔ | ✔ | ✔ |
+* [DROCK OS](https://drocksl.blogspot.com/) - Windows/MacOS/Linux
+* [AbstregoOS](https://discord.com/invite/ZqvYu6mEjb) - Windows/MacOS/Linux
+* [POSROG](https://posrog.my.id) <sup> [TG](https://t.me/posrogchannel) - Windows/MacOS/Linux
+* [POS DarkMatter](https://supreme-gamers.com/r/phoenixos-darkmatter-supercharged-for-everyone.2/) - Windows/MacOS/Linux
+* [Thanos POS](https://t.me/thanosphd3) \| [YT Channel](https://www.youtube.com/channel/UCR_1iKHYPKQk8ratPkCPP5w) - Windows/MacOS/Linux
 
 ## Android Cloud Emulators
-| App Name | Starting Price | Windows | MacOS | Linux
-|-|:-:|:-:|:-:|:-:|
-| [BlueStacks X](https://x.bluestacks.com) | Free | ✔ | ❌ | ❌ |
-| [Genymotion](https://www.genymotion.com) | $0.5/hour | ✔ | ✔ | ✔ |
+* [BlueStacks X](https://x.bluestacks.com) - Windows
+* [Genymotion](https://www.genymotion.com)  (<span style="color:red">PAID!!</span> $0.5/hour) - Windows/MacOS/Linux
 
 ## Extras
 - [MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu) - Allows to integrate Magisk root into Android Emulators.
