@@ -30,8 +30,7 @@
 * [BlackPlayer](https://play.google.com/store/apps/details?id=com.musicplayer.blackplayerfree) - Android
 * [MediaMonkey](https://www.mediamonkey.com/) - Android/Desktop
 * [Aimp](https://www.aimp.ru/) - Android/Desktop
-* [Veezee-android](https://github.com/veezee-music/veezee-android) - Android
-* [Veezee-web](https://github.com/veezee-music/veezee-web) - Desktop
+* Veezee [Android](https://github.com/veezee-music/veezee-android)/[Web](https://github.com/veezee-music/veezee-web) - Android/Web
 * [Nukeop](https://github.com/nukeop/nuclear) - Desktop
 * [Dopamine](https://github.com/digimezzo/dopamine-windows) - Desktop
 * [Apple Music for Windows](https://github.com/imxeno/apple-music-windows) - Desktop
