@@ -6,20 +6,16 @@
 
 # Telegram
 ## Android
-* [Telegram Android](https://github.com/DrKLO/Telegram) - Android
-* [Telegram IOS](https://github.com/TelegramMessenger/Telegram-iOS) - IOS
-* [Telegram Desktop](http://github.com/telegramdesktop/tdesktop) - Desktop
+* Telegram [Android](https://github.com/DrKLO/Telegram)/[IOS](https://github.com/TelegramMessenger/Telegram-iOS)/[Desktop](http://github.com/telegramdesktop/tdesktop) - Android/IOS/Desktop
 * [NekoX](https://github.com/NekoX-Dev/NekoX) - Android
 * [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Android
-* [Forkgram Android](https://github.com/Forkgram/TelegramAndroid) - Android
-* [Forkgram Desktop](https://github.com/Forkgram/tdesktop) - Desktop
+* Forkgram [Android](https://github.com/Forkgram/TelegramAndroid)/[Desktop](https://github.com/Forkgram/tdesktop) - Android/Desktop
 * [CatogramX](https://github.com/CatogramX/CatogramX) - Android
 * [PlusMessenger](https://plusmessenger.org) - Android
 * [TelegramX](https://t.me/tgx_log) - Android
 * [Nekogram](https://nekogram.app/) - Android
 * [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger) - Android
-* [iMe Messenger Android](https://github.com/imemessenger/iMe-Android) - Android
-* [iMe Messenger IOS](https://github.com/imemessenger/iMe-iOS) - IOS
+* iMe Messenger [Android](https://github.com/imemessenger/iMe-Android)/[IOS](https://github.com/imemessenger/iMe-iOS) - Android/IOS
 * [BGram](https://github.com/BGramApp/BGramFiles) - Android
 * [Graphmessenger](https://www.graphmessenger.com/) - Android
 * [Aka](https://play.google.com/store/apps/details?id=org.aka.messenger) - Android
