@@ -99,7 +99,6 @@
 * **[Anime / Manga](mobile-pc/Anime-Manga-Apps.md)**
 * **[Mods / Cracks](mobile-pc/Mods-Cracks.md)**
 * **[Music](mobile-pc/Music-Apps.md)**
-* **[Light Novels](mobile-pc/LightNovel-Apps.md)**
 * **[Social Media](mobile-pc/Social-Media-Apps.md)**
 * **[Video](mobile-pc/Video.md)**
 * **[Android Emulators](mobile-pc/Emulators.md)**
@@ -107,6 +106,7 @@
 * **[Tracking Apps](mobile-pc/Tracking-Apps.md)**
 * **[Readers](mobile-pc/Reader.md)**
 * **[Movies/Series](mobile-pc/Movie-Series-Apps.md)**
+
 
 
 
