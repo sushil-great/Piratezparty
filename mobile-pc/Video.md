@@ -16,16 +16,30 @@
 
 ### Scripts & Extension
 * [Privacy Redirect](https://github.com/SimonBrazell/privacy-redirect) - A simple web extension that redirects Twitter, YouTube, Instagram & Google Maps requests to privacy friendly alternatives.
-
 * [Simple YouTube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass) - A simple userscript to bypass YouTube's age verification and watch age restricted videos without having to sign in.
 * [SponserBlock](https://github.com/ajayyy/SponsorBlock) | [Website](https://sponsor.ajay.app/) - open-source crowdsourced browser extension to skip sponsor segments in YouTube videos.
 * [ImprovedTube](https://github.com/code4charity/YouTube-Extension) | [Website](https://improvedtube.com/) - Lightweight extension to improve your view & content discovery.
 
-# [Kodi](https://kodi.tv/)
-### Addons
-*  
 
 
+
+
+
+
+
+## [Media Managers/Players]
+ 
+* [Kodi](https://kodi.tv/) - Kodi is a free and open source media player application developed by the Kodi Foundation.
+* Kodi Addons
+> * [r/KodiAddons](https://www.reddit.com/r/addons4kodi)
+* [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats.
+* [MPV](https://mpv.io/) - Customizable multimedia player with scripting support.
+> Mpv script collection
+> * [Wiki/User-Script](https://github.com/mpv-player/mpv/wiki/User-Scripts)
+> * [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv)
+> * [CogentRedTester/mpv-scripts](https://github.com/CogentRedTester/mpv-scripts)
+> * [jonniek/mpv-scripts](https://github.com/jonniek/mpv-scripts)
+> * [Mpv-Script-Directory](https://nudin.github.io/mpv-script-directory/)
 
 
 
