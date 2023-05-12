@@ -1,22 +1,23 @@
 ## Download Managers
-* [Turbo DM](https://github.com/inbasic/turbo-download-manager-v2/) - Windows/MacOS/Linux/Android
-* [FDM](https://www.freedownloadmanager.org) - Windows/MacOS/Linux/Android
-* [AriaNg](http://ariang.mayswind.net) - Windows/MacOS/Linux/Android
-* [JDownloader 2](https://jdownloader.org/jdownloader2) [Beta](https://beta.jdownloader.org) - Windows/MacOS/Linux
-* [DownZemAll](https://setvisible.github.io/DownZemAll) [Github](https://github.com/setvisible/DownZemAll) - Windows/MacOS/Linux
-* [Motrix](https://motrix.app) [Github](https://github.com/agalwood/Motrix) - Windows/MacOS/Linux
-* [WFDownloader](https://www.wfdownloader.xyz) - Windows/MacOS/Linux
-* [Persepolis DM](https://persepolisdm.github.io) [Github](https://github.com/persepolisdm/persepolis) - Windows/MacOS/Linux
-* [NeatDownloadManager](https://www.neatdownloadmanager.com) - Windows/MacOS
-* [FireDM](https://github.com/firedm/FireDM) - Windows/Linux
-* [Xtreme DM](https://xtremedownloadmanager.com) [Github](https://github.com/subhra74/xdm) - Windows/Linux
-* [uGet](http://ugetdm.com) [Source](https://sourceforge.net/p/urlget/uget2/ci/master/tree) - Windows/Linux/Android
-* [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) [GitHub](https://github.com/erickutcher/httpdownloader) - Windows
-* [Internet DM](https://www.internetdownloadmanager.com) - Windows
-* [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Windows
-* [AM Downloader](https://github.com/antikmozib/AM-Downloader) - Windows
-* [Ant DM](https://antdownloadmanager.com) - Windows
-* [Download Navi](https://play.google.com/store/apps/details?id=com.tachibana.downloader) [Github](https://github.com/TachibanaGeneralLaboratories/download-navi) - Android
-* [Aria2App](https://github.com/devgianlu/Aria2App) - Android
-* [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Android
-* [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Android
+
+-   [Turbo DM](https://github.com/inbasic/turbo-download-manager-v2/) - Windows/MacOS/Linux/Android
+-   [FDM](https://www.freedownloadmanager.org) - Windows/MacOS/Linux/Android
+-   [AriaNg](http://ariang.mayswind.net) - Windows/MacOS/Linux/Android
+-   [JDownloader 2](https://jdownloader.org/jdownloader2) [Beta](https://beta.jdownloader.org) - Windows/MacOS/Linux
+-   [DownZemAll](https://setvisible.github.io/DownZemAll) [Github](https://github.com/setvisible/DownZemAll) - Windows/MacOS/Linux
+-   [Motrix](https://motrix.app) [Github](https://github.com/agalwood/Motrix) - Windows/MacOS/Linux
+-   [WFDownloader](https://www.wfdownloader.xyz) - Windows/MacOS/Linux
+-   [Persepolis DM](https://persepolisdm.github.io) [Github](https://github.com/persepolisdm/persepolis) - Windows/MacOS/Linux
+-   [NeatDownloadManager](https://www.neatdownloadmanager.com) - Windows/MacOS
+-   [FireDM](https://github.com/firedm/FireDM) - Windows/Linux
+-   [Xtreme DM](https://xtremedownloadmanager.com) [Github](https://github.com/subhra74/xdm) - Windows/Linux
+-   [uGet](http://ugetdm.com) [Source](https://sourceforge.net/p/urlget/uget2/ci/master/tree) - Windows/Linux/Android
+-   [HTTP Downloader](https://erickutcher.github.io/#HTTP_Downloader) [GitHub](https://github.com/erickutcher/httpdownloader) - Windows
+-   [Internet DM](https://www.internetdownloadmanager.com) - Windows
+-   [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Windows
+-   [AM Downloader](https://github.com/antikmozib/AM-Downloader) - Windows
+-   [Ant DM](https://antdownloadmanager.com) - Windows
+-   [Download Navi](https://play.google.com/store/apps/details?id=com.tachibana.downloader) [Github](https://github.com/TachibanaGeneralLaboratories/download-navi) - Android
+-   [Aria2App](https://github.com/devgianlu/Aria2App) - Android
+-   [1DM](https://play.google.com/store/apps/details?id=idm.internet.download.manager) - Android
+-   [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) - Android
