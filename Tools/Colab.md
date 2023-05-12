@@ -14,6 +14,8 @@
 
 * [T0rr3nts-t0-G00gl3-Dr1v3](https://github.com/jericjan/Torrents-to-Google-Drive) - This is a Google Colab notebook with QBittorrent and Rclone, which can download torrents to Google Drive.
 
+* [Any-file-to-GoogleDrive](https://github.com/menukaonline/Any-file-to-Google-Drive) - This is a Google Colab notebook with Jdownloader and Rclone, which can download any file to Google Drive.
+
 * [Ytplaylist YoutubeDL](https://colab.research.google.com/github/aftabkh505/Ytplaylist/blob/master/styleYoutubedl.ipynb) - Download YouTube Videos and Playlist.
 
 * [Youtube-dl Toolbox](https://colab.research.google.com/github/online6731/youtube-dl-toolbox/blob/main/youtube_dl_toolbox.ipynb) - Video + Playlist Downloder Simple Mode.
