@@ -30,7 +30,7 @@
 ## [Media Managers/Players]
  
 * [Kodi](https://kodi.tv/) - Kodi is a free and open source media player application developed by the Kodi Foundation.
-* Kodi Addons
+> Kodi Addons
 > * [r/KodiAddons](https://www.reddit.com/r/addons4kodi)
 * [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats.
 * [MPV](https://mpv.io/) - Customizable multimedia player with scripting support.
@@ -41,5 +41,10 @@
 > * [jonniek/mpv-scripts](https://github.com/jonniek/mpv-scripts)
 > * [Mpv-Script-Directory](https://nudin.github.io/mpv-script-directory/)
 
+
+
+
+# For More:
+#### [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
 
 
