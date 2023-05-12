@@ -1,97 +1,97 @@
 # Manga
 
-* [Mango-dl](https://github.com/Gyro7/mangodl) - An easy-to-use cli tool for downloading manga.
+-   [Mango-dl](https://github.com/Gyro7/mangodl) - An easy-to-use cli tool for downloading manga.
 
-* [Simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader) - Simple manga downloader written in python.
+-   [Simple-manga-downloader](https://github.com/Kanjirito/simple-manga-downloader) - Simple manga downloader written in python.
 
-* [Mangadl-bash](https://github.com/Akianonymus/mangadl-bash) - Search and batch download mangas straight in terminal.
+-   [Mangadl-bash](https://github.com/Akianonymus/mangadl-bash) - Search and batch download mangas straight in terminal.
 
-* [Manga2mobi](https://github.com/KevCui/manga2mobi) - Download manga/comic and convert it to mobi file for Kindle.
+-   [Manga2mobi](https://github.com/KevCui/manga2mobi) - Download manga/comic and convert it to mobi file for Kindle.
 
-* [Mangapy](https://github.com/alemar11/mangapy) - Manga Downloader.
+-   [Mangapy](https://github.com/alemar11/mangapy) - Manga Downloader.
 
-* [ScrapScan](https://github.com/Mr-Monster-0248/ScrapScan) - Python script to scrap Manga scans online and convert them as PDF.
+-   [ScrapScan](https://github.com/Mr-Monster-0248/ScrapScan) - Python script to scrap Manga scans online and convert them as PDF.
 
-* [Mdownloader](https://github.com/Rudoal/mdownloader) - MangaDex downloader using python. Forked from the repo linked.
+-   [Mdownloader](https://github.com/Rudoal/mdownloader) - MangaDex downloader using python. Forked from the repo linked.
 
-* [Manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader.
+-   [Manga-py](https://github.com/manga-py/manga-py) - Universal manga downloader.
 
-* [Nice-pferd](https://github.com/augustin64/nice-pferd) - Manga scans reader and downloader for when you get offline.
+-   [Nice-pferd](https://github.com/augustin64/nice-pferd) - Manga scans reader and downloader for when you get offline.
 
-* [Furb](https://github.com/TheBoringDude/furb) - Manga Chapter Downloader.
+-   [Furb](https://github.com/TheBoringDude/furb) - Manga Chapter Downloader.
 
-* [Manga-Chapter](https://github.com/fakesimo/manga-chapter-downloader) - FoOlSlide downloader.
+-   [Manga-Chapter](https://github.com/fakesimo/manga-chapter-downloader) - FoOlSlide downloader.
 
-* [Mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖.
+-   [Mangadesk](https://github.com/darylhjd/mangadesk) - Terminal client for MangaDex 📖.
 
-* [MangaReaderScraper](https://github.com/superDross/MangaReaderScraper) - Search and download mangas from the command line.
+-   [MangaReaderScraper](https://github.com/superDross/MangaReaderScraper) - Search and download mangas from the command line.
 
-* [Mango](https://github.com/hkalexling/Mango) - Mango is a self-hosted manga server and web reader.
+-   [Mango](https://github.com/hkalexling/Mango) - Mango is a self-hosted manga server and web reader.
 
-* [FMD2](https://github.com/dazedcat19/FMD2) - This is an active fork of the Free Manga Downloader which is a free open source application written in Object Pascal for managing and downloading manga from various websites.
+-   [FMD2](https://github.com/dazedcat19/FMD2) - This is an active fork of the Free Manga Downloader which is a free open source application written in Object Pascal for managing and downloading manga from various websites.
 
-* [Mass-Manga-Downloader](https://github.com/stefmmm/Mass-Manga-Downloader) - Download Mangas From websites.
+-   [Mass-Manga-Downloader](https://github.com/stefmmm/Mass-Manga-Downloader) - Download Mangas From websites.
 
-* [Manga-cli](https://github.com/notprash/manga-cli) - Script to read manga from cli.
+-   [Manga-cli](https://github.com/notprash/manga-cli) - Script to read manga from cli.
 
-* [7USTIN/manga-cli](https://github.com/7USTIN/manga-cli) - 📖 Bash script for reading mangas via the terminal.
+-   [7USTIN/manga-cli](https://github.com/7USTIN/manga-cli) - 📖 Bash script for reading mangas via the terminal.
 
 # Comics
 
-* [AutoBook](https://github.com/umjammer/K-AutoBook) - Comics download script.
+-   [AutoBook](https://github.com/umjammer/K-AutoBook) - Comics download script.
 
-* [Comics-Downloader](https://github.com/Girbons/comics-downloader) - Tool to download comics and manga in pdf/epub/cbr/cbz from a website.
+-   [Comics-Downloader](https://github.com/Girbons/comics-downloader) - Tool to download comics and manga in pdf/epub/cbr/cbz from a website.
 
-* [ComicMaker](https://github.com/Gunjan933/comicMaker) - ComicMaker is a command line tool to download Comics and Manga from various Manga and Comic sites easily.
+-   [ComicMaker](https://github.com/Gunjan933/comicMaker) - ComicMaker is a command line tool to download Comics and Manga from various Manga and Comic sites easily.
 
-* [Comic-dl](https://github.com/Xonshiz/comic-dl) - Comic-dl is a command line tool to download manga and comics from various comic and manga sites.
+-   [Comic-dl](https://github.com/Xonshiz/comic-dl) - Comic-dl is a command line tool to download manga and comics from various comic and manga sites.
 
-* [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomic downloader.
+-   [Webcomix](https://github.com/J-CPelletier/webcomix) - Webcomic downloader.
 
-* [Comics-dl](https://github.com/The-Eye-Team/Comics-DL) - Comics Archiver.
+-   [Comics-dl](https://github.com/The-Eye-Team/Comics-DL) - Comics Archiver.
 
-* [Tapas-Comic-Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - This is a downloader to download whole comics from https://tapas.io/.
+-   [Tapas-Comic-Downloader](https://github.com/TilCreator/Tapas-Comic-Downloader) - This is a downloader to download whole comics from https://tapas.io/.
 
-* [Comic2pdf](https://github.com/thomasherzog/comic2pdf) - Comic2pdf converts comic book format to pdf.
+-   [Comic2pdf](https://github.com/thomasherzog/comic2pdf) - Comic2pdf converts comic book format to pdf.
 
 # Novels
 
-* [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Novel-Grabber can download novels from pretty much any webnovel and lightnovel site.
+-   [Novel-Grabber](https://github.com/Flameish/Novel-Grabber) - Novel-Grabber can download novels from pretty much any webnovel and lightnovel site.
 
-* [LightNovel-Crawler](https://github.com/dipu-bd/lightnovel-crawler) - Download and generate e-books from online sources.
+-   [LightNovel-Crawler](https://github.com/dipu-bd/lightnovel-crawler) - Download and generate e-books from online sources.
 
-* [Novel-2-EBook](https://github.com/EternalTrail/Novel-2-EBook) - Python program to download novels available on Wuxia World and other sites as E-Books.
+-   [Novel-2-EBook](https://github.com/EternalTrail/Novel-2-EBook) - Python program to download novels available on Wuxia World and other sites as E-Books.
 
-* [Mknovel](https://github.com/subchen/mknovel) - Download web novel and pack.
+-   [Mknovel](https://github.com/subchen/mknovel) - Download web novel and pack.
 
 # Reader
 
-* [Adolla](https://github.com/AdollaApp/Adolla) - Manga reader for every device with a web browser.
+-   [Adolla](https://github.com/AdollaApp/Adolla) - Manga reader for every device with a web browser.
 
-* [Komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support.
+-   [Komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs with API and OPDS support.
 
-* [Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server.
+-   [Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server.
 
-* [Ame-Reader](https://github.com/lijandrew/ame-reader) - In-browser manga & comic reader.
+-   [Ame-Reader](https://github.com/lijandrew/ame-reader) - In-browser manga & comic reader.
 
-* [Kthoom](https://github.com/codedread/kthoom) - Comic Book Reader in the Browser.
+-   [Kthoom](https://github.com/codedread/kthoom) - Comic Book Reader in the Browser.
 
-* [Mangareader](https://github.com/g-fb/mangareader) - Qt manga reader for local files.
+-   [Mangareader](https://github.com/g-fb/mangareader) - Qt manga reader for local files.
 
-* [OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron.
+-   [OpenComic](https://github.com/ollm/OpenComic) - Comic and Manga reader, written with Node.js and using Electron.
 
-* [Iizume-mobile](https://github.com/theluckyegg/iizume-mobile) - free and open source mobile application for browsing and reading manga.
+-   [Iizume-mobile](https://github.com/theluckyegg/iizume-mobile) - free and open source mobile application for browsing and reading manga.
 
-* [FoOlSlideX](https://github.com/saintly2k/FoOlSlideX) - The new, most powerful Comic- & Manga-Reader ever created by the human race.
+-   [FoOlSlideX](https://github.com/saintly2k/FoOlSlideX) - The new, most powerful Comic- & Manga-Reader ever created by the human race.
 
-* [Mango](https://github.com/hkalexling/Mango) - Mango is a self-hosted manga server and web reader.
+-   [Mango](https://github.com/hkalexling/Mango) - Mango is a self-hosted manga server and web reader.
 
-* [Calibre-web](https://github.com/janeczku/calibre-web) - 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database.
+-   [Calibre-web](https://github.com/janeczku/calibre-web) - 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database.
 
-* [LANraragi](https://github.com/Difegue/LANraragi) - Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
+-   [LANraragi](https://github.com/Difegue/LANraragi) - Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.
 
-* [Tanoshi](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions.
+-   [Tanoshi](https://github.com/faldez/tanoshi) - Selfhosted web manga reader with extensions.
 
-* [Villain](https://github.com/btzr-io/Villain) - A free and open source web-based comic book reader.
+-   [Villain](https://github.com/btzr-io/Villain) - A free and open source web-based comic book reader.
 
-* [Ubooquity](https://vaemendis.net/ubooquity/) - Read your ebooks and comics on your favorite device, wherever you go.
+-   [Ubooquity](https://vaemendis.net/ubooquity/) - Read your ebooks and comics on your favorite device, wherever you go.
