@@ -88,6 +88,9 @@
 * **[Social Media](Tools/Social-Media-Tools.md)**
 * **[Cloning Tools](Tools/Cloning-Tools.md)**
 * **[CLI Tools](Tools/CLI-Tools.md)**
+* **[Debug Tools](Tools/Debug-Tools.md)**
+* **[CyberSecurity Tools](Tools/Cyber-Security-Tools.md)**
+* **[Misc Tools](Tools/Misc-Tools.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -182,6 +185,7 @@
 * **[Photos / Fonts](Misc/Photo-Fonts.md)**
 * **[Note Taking](Misc/Note-Taking.md)**
 * **[Root Tools](Misc/Root-Tools.md)**
+* **[Android OS](Misc/Android-OS.md)**
 * **[Opendirectories](Misc/Opendirectories.md)**
 * **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
 * **[Pastebin Services](Misc/Pastebin-Services.md)**
