@@ -25,7 +25,7 @@
     <li><a href="#-Awesome-Collection">🤩 Awesome-Collection</a></li>
     <li><a href="#-Telegram">📣 Telegram</a></li>
     <li><a href="#-Miscellaneous">🎢 Miscellaneous</a></li>
-    <li><a href="#-From Other Indexes">🤩 From Other Indexes</a></li>
+    <li><a href="#-From-Other-Indexes">🤩 From Other Indexes</a></li>
     <li><a href="#-QnA">✨ QnA</a></li>
     <li><a href="#-License">👮‍♂️ License</a></li>
     <li><a href="#-Disclaimer">⚠ Disclaimer</a></li>
