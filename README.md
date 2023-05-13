@@ -100,6 +100,7 @@
 -   **[Music](mobile-pc/Music-Apps.md)**
 -   **[Social Media](mobile-pc/Social-Media-Apps.md)**
 -   **[Video](mobile-pc/Video.md)**
+-   **[Operating Systems](mobile-pc/Operating-Systems.md)**
 -   **[Android Emulators](mobile-pc/Emulators.md)**
 -   **[Download Managers](mobile-pc/Download-Managers.md)**
 -   **[Tracking Apps](mobile-pc/Tracking-Apps.md)**
@@ -153,7 +154,6 @@
 -   **[Photos / Fonts](Misc/Photo-Fonts.md)**
 -   **[Note Taking](Misc/Note-Taking.md)**
 -   **[Root Tools](Misc/Root-Tools.md)**
--   **[Android OS](Misc/Android-OS.md)**
 -   **[Opendirectories](Misc/Opendirectories.md)**
 -   **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
 -   **[Pastebin Services](Misc/Pastebin-Services.md)**
