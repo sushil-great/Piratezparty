@@ -25,6 +25,7 @@
     <li><a href="#-Awesome-Collection">🤩 Awesome-Collection</a></li>
     <li><a href="#-Telegram">📣 Telegram</a></li>
     <li><a href="#-Miscellaneous">🎢 Miscellaneous</a></li>
+    <li><a href="#-From Other Indexes">🤩 From Other Indexes</a></li>
     <li><a href="#-QnA">✨ QnA</a></li>
     <li><a href="#-License">👮‍♂️ License</a></li>
     <li><a href="#-Disclaimer">⚠ Disclaimer</a></li>
@@ -121,7 +122,7 @@
 
 ---
 
-## 🤩 Awesome-Collection
+## 💎 Awesome-Collection
 
 -   **[General](Awesome-Collection/General-Awesome-Collection.md)**
 -   **[Warez](Awesome-Collection/Warez-Collection.md)**
@@ -131,11 +132,6 @@
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ---
-
-
-
-
-
 
 ## 📣 Telegram
 
@@ -164,6 +160,14 @@
 -   **[Gdrive Index](Misc/Gdrive-Index.md)**
 -   **[Discover Alternatives](Misc/Discover-Alternatives.md)**
 -   **[Random Things](Misc/Random.md)**
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+---
+
+## 🤩 From Other Indexes
+
+#### [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
