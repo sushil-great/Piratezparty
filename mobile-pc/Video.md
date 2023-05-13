@@ -38,7 +38,3 @@
     > -   [CogentRedTester/mpv-scripts](https://github.com/CogentRedTester/mpv-scripts)
     > -   [jonniek/mpv-scripts](https://github.com/jonniek/mpv-scripts)
     > -   [Mpv-Script-Directory](https://nudin.github.io/mpv-script-directory/)
-
-# For More:
-
-#### [johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software)
