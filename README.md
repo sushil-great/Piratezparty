@@ -167,7 +167,8 @@
 
 ## 🤩 From Other Indexes
 
-#### [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
+- **[pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) | [My Fork](https://github.com/Piratezparty/awesome-privacy)**
+- **[johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) | [My Fork](https://github.com/Piratezparty/awesome-free-software)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
