@@ -104,7 +104,6 @@
 -   [topeuropix](https://topeuropix.site/)
 -   [soapgate](https://soapgate.org/)
 -   [azm](https://azm.to/)
--   [hdm](https://hdm.to/)
 -   [onionplay](https://onionplay.is/)
 -   [openloadmov](https://openloadmov.net/)
 -   [ww1.m4ufree](https://ww1.m4ufree.com/)
