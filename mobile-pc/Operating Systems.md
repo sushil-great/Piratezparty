@@ -2,3 +2,4 @@
 - [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
 - [PureOS](https://pureos.net/) - FSF endorsed derivative of Debian. (Multiple licenses)
 - [LineageOS](https://lineageos.org/) - Android distribution for phones and tablets and successor of CyanogenMod. (Multiple licenses)
+- [DivestOS](https://divestos.org/) - Long-term support for end-of-life Android devices. It is a vastly diverged unofficial soft fork of LineageOS.
