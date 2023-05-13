@@ -20,10 +20,9 @@
     <li><a href="#-Entertainment">🍿 Entertainment</a></li>
     <li><a href="#-Reading-Education">📚 Reading & Education</a></li>
     <li><a href="#-Tools">🔨 Tools</a></li>
-    <li><a href="#-Mobile & PC">💻 Software</a></li>
+    <li><a href="#-Software">💻 Software</a></li>
     <li><a href="#-Guides">📔 Guides</a></li>
     <li><a href="#-Awesome-Collection">🤩 Awesome-Collection</a></li>
-    <li><a href="#-NSFW">🔞 NSFW</a></li>
     <li><a href="#-Telegram">📣 Telegram</a></li>
     <li><a href="#-Miscellaneous">🎢 Miscellaneous</a></li>
     <li><a href="#-Inspiration-Purpose">✨ Inspiration Purpose</a></li>
@@ -133,15 +132,10 @@
 
 ---
 
-## 🔞 NSFW
 
--   **[Prun](NSFW/Prun.md)**
--   **[Hemtai](NSFW/hemtai.md)**
--   **[Pornhwa](NSFW/Pornhwa.md)**
 
-<p align="right">(<a href="#top">↥ back to top</a>)</p>
 
----
+
 
 ## 📣 Telegram
 
