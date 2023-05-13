@@ -138,6 +138,7 @@
 -   [ymovies](https://ymovies.to/)
 -   [shibflix](https://shibflix.com/)
 -   [JustChill](https://justchill.tv/)
+-   [Goku](https://goku.sx/)
 
 # ► English/Hollywood Content (DDL)
 
