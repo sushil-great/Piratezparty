@@ -20,13 +20,13 @@
     <li><a href="#-Entertainment">🍿 Entertainment</a></li>
     <li><a href="#-Reading-Education">📚 Reading & Education</a></li>
     <li><a href="#-Tools">🔨 Tools</a></li>
-    <li><a href="#-Mobile & PC">💻 Software</a></li>
+    <li><a href="#-Software">💻 Software</a></li>
     <li><a href="#-Guides">📔 Guides</a></li>
     <li><a href="#-Awesome-Collection">🤩 Awesome-Collection</a></li>
-    <li><a href="#-NSFW">🔞 NSFW</a></li>
     <li><a href="#-Telegram">📣 Telegram</a></li>
     <li><a href="#-Miscellaneous">🎢 Miscellaneous</a></li>
-    <li><a href="#-Inspiration-Purpose">✨ Inspiration Purpose</a></li>
+    <li><a href="#-From Other Indexes">🤩 From Other Indexes</a></li>
+    <li><a href="#-QnA">✨ QnA</a></li>
     <li><a href="#-License">👮‍♂️ License</a></li>
     <li><a href="#-Disclaimer">⚠ Disclaimer</a></li>
   </ol>
@@ -122,22 +122,12 @@
 
 ---
 
-## 🤩 Awesome-Collection
+## 💎 Awesome-Collection
 
 -   **[General](Awesome-Collection/General-Awesome-Collection.md)**
 -   **[Warez](Awesome-Collection/Warez-Collection.md)**
 -   **[Reddit](Awesome-Collection/Awesome-Reddit.md)**
 -   **[Weeb Index](Awesome-Collection/Weeb-Index.md)**
-
-<p align="right">(<a href="#top">↥ back to top</a>)</p>
-
----
-
-## 🔞 NSFW
-
--   **[Prun](NSFW/Prun.md)**
--   **[Hemtai](NSFW/hemtai.md)**
--   **[Pornhwa](NSFW/Pornhwa.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -175,16 +165,27 @@
 
 ---
 
+## 🤩 From Other Indexes
+
+- **[pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) | [My Fork](https://github.com/Piratezparty/awesome-privacy)**
+- **[johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) | [My Fork](https://github.com/Piratezparty/awesome-free-software)**
+
+<p align="right">(<a href="#top">↥ back to top</a>)</p>
+
+---
+
 ```
 END OF INDEX
 ```
 
 ---
 
-## ✨ Inspiration/Purpose
+## ✨ QnA
 
-I like to find different interesting links and stuff on the internet but over the years, due to lack of time, I have been unable to explore much, so I decided to batch up all my collections and make yet another index as a farewell gift. If you want to keep this project alive, please consider making a Pull Request.
-
+#### Why i Started
+- I like to find different interesting links and stuff on the internet but over the years, due to lack of time, I have been unable to explore much, so I decided to batch up all my collections and make yet another index as a farewell gift. If you want to keep this project alive, please consider making a Pull Request.
+#### Going Forward
+- The original plan was to jot down my knowledge in this index, but as we all know, human knowledge is very limited. Therefore, I decided to take a different approach by incorporating content from other awesome indexes and refining it with my own knowledge, as well as the pull requests I receive. It's no longer just about me; it's about all of us, and this is now our project.
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ---

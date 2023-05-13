@@ -46,15 +46,15 @@
 
 ## Desktop
 
-[My Personal List](https://github.com/SnekNOTSnake/my-personal-list) - Windows/Linux/MacOS
-[MALCLient](https://github.com/Drutol/MALClient) - Windows
+- [My Personal List](https://github.com/SnekNOTSnake/my-personal-list) - Windows/Linux/MacOS
+- [MALCLient](https://github.com/Drutol/MALClient) - Windows
 
 # Books
 
-[Dante](https://play.google.com/store/apps/details?id=at.shockbytes.dante) - Android/IOS
-[Goodreads](https://www.goodreads.com/) - Android/IOS
-[Literal.club](https://literal.club/) - Android/IOS
+- [Dante](https://play.google.com/store/apps/details?id=at.shockbytes.dante) - Android/IOS
+- [Goodreads](https://www.goodreads.com/) - Android/IOS
+- [Literal.club](https://literal.club/) - Android/IOS
 
 # Games
 
-[Stash](https://stash.games/) - Android/IOS
+- [Stash](https://stash.games/) - Android/IOS
