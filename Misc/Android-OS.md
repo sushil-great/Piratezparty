@@ -1,2 +1,0 @@
--   [LineageOS](https://lineageos.org/) - A free and open-source operating system for various devices, based on the Android mobile platform.
--   [DivestOS](https://divestos.org/) - Long-term support for end-of-life Android devices. It is a vastly diverged unofficial soft fork of LineageOS.
