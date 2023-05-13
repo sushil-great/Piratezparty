@@ -11,6 +11,7 @@
 -   [Wwwhere](http://wwwhere.io/)
 -   [Opensourcebuilders](https://opensource.builders/)
 -   [Producthunt](https://www.producthunt.com/)
+-   [G2](https://www.g2.com/)
 -   [Libraries](https://libraries.io/)
 -   [Sourceforge](https://sourceforge.net/)
 -   [Fosshub](https://www.fosshub.com/)
