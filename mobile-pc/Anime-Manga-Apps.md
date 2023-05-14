@@ -43,7 +43,7 @@
 -   [Mangato](https://github.com/riimuru/Mangato) - Android
 -   [Kotatsu](https://github.com/nv95/Kotatsu) - Android
 -   [Kinoko](https://github.com/gsioteam/kinoko) - Android
--   [Tachidesk-Server](https://github.com/Suwayomi/Tachidesk-Server) - Desktop
+-   [Tachidesk-JUI](https://github.com/Suwayomi/Tachidesk-JUI) - Desktop
 -   [Hakuneko](https://github.com/manga-download/hakuneko) - Desktop
 -   [Houdoku](https://github.com/xgi/houdoku) - Desktop
 -   [Fludex](https://github.com/Riktam-Santra/Fludex) - Desktop
@@ -52,6 +52,7 @@
 -   [Zetsu](https://apps.apple.com/us/app/zetsu-by-orion/id1510161371) - IOS
 -   [MangaMax](https://apps.apple.com/us/app/apple-store/id1558957618) - IOS
 -   [Aidoku](https://github.com/Aidoku/Aidoku) - IOS
+-   [Komikku](https://valos.gitlab.io/Komikku/) - Linux
 
 ## Tachiyomi Forks
 
