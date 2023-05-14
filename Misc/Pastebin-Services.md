@@ -56,3 +56,4 @@
 -   [Zpaste](https://zpaste.net/)
 -   [Bin.piracy](https://bin.piracy.moe/)
 -   [Privatebin](https://privatebin.info/) | [Directory](https://privatebin.info/directory/)
+-   [0wx.org](https://www.0wx.org/0wx/?show=paste)
