@@ -99,7 +99,8 @@
 -   **[Mods / Cracks](mobile-pc/Mods-Cracks.md)**
 -   **[Music](mobile-pc/Music-Apps.md)**
 -   **[Social Media](mobile-pc/Social-Media-Apps.md)**
--   **[Video](mobile-pc/Video.md)**
+-   **[Video Apps](mobile-pc/Video-Apps.md)**
+-   **[Audio Apps](mobile-pc/Audio-Apps.md)**
 -   **[Operating Systems](mobile-pc/Operating-Systems.md)**
 -   **[Android Emulators](mobile-pc/Emulators.md)**
 -   **[Download Managers](mobile-pc/Download-Managers.md)**
