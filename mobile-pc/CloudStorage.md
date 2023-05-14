@@ -8,3 +8,5 @@
 - [Gdrive](drive.google.com) - 15GB free.
 - [Box](box.com) - 10GB free.
 - [Blackblaze](Blackblaze.com) - First 10GB free.
+- [Filen](https://filen.io/) - 10GB free.
+- [Storj](https://www.storj.io/) - 25GB free, cryptocurrency blockchain based platform.
