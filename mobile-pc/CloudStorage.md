@@ -1,0 +1,10 @@
+- [Mega](https://mega.nz) - 20GB space for free.
+- [Dropbox](https://www.dropbox.com) - Dropbox Basic accounts offer 2 GB of storage space for free.
+- [Mediafire](https://www.mediafire.com/) - 10GB Free/Up to 4GB per file.You can get Up to 50GB free with bonuses.
+- [Onedrive](https://onedrive.live.com/) - offers 5 GB of storage space free of charge (You also get 15 GB of free Outlook.com email storage which is separate from your Microsoft cloud storage) with 50 GB, 1 TB, and 5 TB storage options available either separately or with Office 365 subscriptions.
+- [pcloud](https://www.pcloud.com/) - 10gb free but they occasionally drop yearly codes (500gb free storage for a year).
+- [sync](https://www.sync.com/) - 5GB free.
+- [icedrive](https://icedrive.net/) - 10GB free.
+- [Gdrive](drive.google.com) - 15GB free.
+- [Box](box.com) - 10GB free.
+- [Blackblaze](Blackblaze.com) - First 10GB free.
