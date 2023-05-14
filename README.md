@@ -103,7 +103,7 @@
 -   **[Operating Systems](mobile-pc/Operating-Systems.md)**
 -   **[Android Emulators](mobile-pc/Emulators.md)**
 -   **[CloudStorage](mobile-pc/CloudStorage.md)**
--   **[FileHosters](mobile-pc/FileHosters)**
+-   **[FileHosters](mobile-pc/FileHosters.md)**
 -   **[Download Managers](mobile-pc/Download-Managers.md)**
 -   **[Tracking Apps](mobile-pc/Tracking-Apps.md)**
 -   **[Readers](mobile-pc/Reader.md)**
