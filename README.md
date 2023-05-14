@@ -97,7 +97,6 @@
 
 -   **[Anime / Manga](mobile-pc/Anime-Manga-Apps.md)**
 -   **[Mods / Cracks](mobile-pc/Mods-Cracks.md)**
--   **[Music](mobile-pc/Music-Apps.md)**
 -   **[Social Media](mobile-pc/Social-Media-Apps.md)**
 -   **[Video Apps](mobile-pc/Video-Apps.md)**
 -   **[Audio Apps](mobile-pc/Audio-Apps.md)**
