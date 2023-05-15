@@ -10,3 +10,6 @@
 - [Blackblaze](Blackblaze.com) - First 10GB free.
 - [Filen](https://filen.io/) - 10GB free.
 - [Storj](https://www.storj.io/) - 25GB free, cryptocurrency blockchain based platform.
+- [Internxt](https://internxt.com/) - 10GB free.
+- [kDrive](https://www.infomaniak.com/en/kdrive) - 15GB free.
+- [Tresorit](https://tresorit.com/) - 3GB free.
