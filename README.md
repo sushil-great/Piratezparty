@@ -40,7 +40,6 @@
 -   **[Vpn](Privacy/VPN.md)**
 -   **[Antivirus](Privacy/Antivirus.md)**
 -   **[Clear Digital Footprint](Privacy/Clear-Digital-Footprint.md)**
--   **[Privacy-guides](Privacy/Privacy-guides.md)**
 -   **[Misc 🛠](Privacy/Misc.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
@@ -120,6 +119,10 @@
 -   **[Torrents](Guides/Torrent-Guides.md)**
 -   **[Android](Guides/Android-Related-Guides.md)**
 -   **[Gdrive](Guides/Google-Drive-Guides.md)**
+-   **[Media Guides](Guides/Media-Guides.md)**
+-   **[Privacy Guides](Guides/Privacy-Guides.md)**
+-   **[Programming Guides](Guides/Programming-Guides.md)**
+-   **[Misc Guides](Guides/Misc-Guides.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
