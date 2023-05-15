@@ -10,6 +10,7 @@
 -   [Rnbxclusive](https://rnbxclusive.xyz)
 -   [Flactor](https://flactor.ru/) - _Torrent_
 -   [Maamusiq](https://maamusiq.com/) - _Telugu Albums_
+-   [FreeMP3Download](https://free-mp3-download.net/) - can download mp3 (320 kbps) or FLAC, use VPN if getting error.
 
 #### [iTunes Plus AAC M4A]
 
