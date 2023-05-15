@@ -16,6 +16,9 @@
 - [How to host your own Mastodon Server on Linode](https://www.linode.com/blog/devops/mastodon-server-linode-marketplace/)
 - [how to setup websites, email servers, chat servers and everything in between](https://landchad.net/)
 - [Free VPS Method in 2023](https://graph.org/FREE-VPS-METHOD-2023-05-15)
+- [How to use many of Azure Cloud Services for FREE](https://www.youtube.com/watch?v=EDADrteGBnY)
 
-# Online Anonimity
+# Online Anonymity
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
+- [Firefox Hardening Guide](https://github.com/arkenfox/user.js)
+- [Brave Hardening Guide](https://code-cktn.org/CHEF-KOCH/Brave-Browser-Hardening)
