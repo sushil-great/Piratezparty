@@ -52,6 +52,8 @@
 
 -   [Archived Things](https://sometimes-archives-things.github.io/archived-things/)
 
+-   [Ayumi Megui x264 Encoding Setting Guide HD Quality](https://ayumilove.net/ayumilove-megui-x264-encoding-settings-guide-hd-quality/)
+
 # Ffmpeg Guides
 
 -   [ffmpeg.org/ffmpeg-all](https://ffmpeg.org/ffmpeg-all.html#) - _ffmpeg documentation_
