@@ -38,7 +38,7 @@
 
 -   [HandBrake – H.265 NVEnc 1080p Ripping Chart and Guidelines](https://www.google.com/amp/s/www.ryananddebi.com/2020/10/04/handbrake-h-265-nvenc-1080p-ripping-chart-and-guidelines/amp/)
 
--   [Encoding with StaxRip](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12)
+-   [HEVC Encoding with StaxRip settings for best compression](https://telegra.ph/HEVC-Encoding-with-StaxRip-Settings-for-best-compression-included-05-12)
 
 -   [Blog kageru](https://blog.kageru.moe/)
 
@@ -53,6 +53,8 @@
 -   [Archived Things](https://sometimes-archives-things.github.io/archived-things/)
 
 -   [Ayumi Megui x264 Encoding Setting Guide HD Quality](https://ayumilove.net/ayumilove-megui-x264-encoding-settings-guide-hd-quality/)
+
+-   [StaxRip Encoding Tutorial](https://staxrip.github.io/x265-encoding-tutorial/#configuring-the-video-encoder)
 
 # Ffmpeg Guides
 
