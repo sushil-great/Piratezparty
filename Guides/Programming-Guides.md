@@ -26,3 +26,6 @@ Books
  (https://www.amazon.com/Mastering-Regular-Expressions-Jeffrey-Friedl/dp/0596528124)- Regular Expressions Cookbook
  (https://www.amazon.com/Regular-Expressions-Cookbook-Solutions-Programming/dp/1449319432)- Regular Expression Pocket Reference
  (https://www.amazon.com/Regular-Expression-Pocket-Reference-Expressions/dp/0596514271)- Awesome Regex (https://learnbyexample.github.io/books/#python-re-gex)
+
+# Shell Scripting 
+- Computing from the Command Line (https://learnbyexample.github.io/cli-computing/) - by Sundeep Aggarwal.
