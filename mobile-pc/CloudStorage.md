@@ -15,3 +15,4 @@
 - [Tresorit](https://tresorit.com/) - 3GB free.
 - [LinkBox](https://www.linkbox.to/) - LinkBox offers upto 50GB of permanent storage.
 - [TeraBox](https://www.terabox.com/) - Free Cloud Storage Up To 1TB (it have privacy concerns , don't store anything personal).
+- [Blomp](https://www.blomp.com/) - Free 20-200 GB storage
