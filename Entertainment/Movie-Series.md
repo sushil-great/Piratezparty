@@ -63,6 +63,7 @@
 -   [betamoviez](https://betamoviez.xyz/)
 -   [mirrorbd](https://mirrorbd.one/)
 -   [holamovies](https://holamovies.org/)
+-   [bollymaza](https://ww1.bollymaza.click/)
 
 # ► Hollywood Content (streaming)
 
@@ -157,11 +158,9 @@
 -   [seriesvault](https://seriesvault.win/)
 -   [medeberiyaa](https://medeberiyaa.com/)
 -   [tfp](https://www.tfp.is/)
--   [tinymkv](https://tinymkv.xyz/)
 -   [lightdl](https://lightdl.xyz/)
 -   [rmz](http://rmz.cr/)
 -   [privatemoviez](https://privatemoviez.cloud/)
--   [moviedl.bubbleapps](https://moviedl.bubbleapps.io/)
 -   [gophie](https://gophie.cam/)
 -   [mkvking](https://mkvking.net/)
 -   [primewire](https://www.primewire.ag/)
@@ -177,3 +176,8 @@
 -   [sc0rp](https://www.300mbunited.me/)
 -   [sanet](https://sanet.ws/)
 -   [nima4k](https://nima4k.org/)
+-   [warezforums](https://warezforums.com/)
+-   [dirtywarez](https://forum.dirtywarez.com/)
+-   [sharebb](https://sharebb.me/)
+-   [adit-hd](https://adit-hd.com/)
+-   [worldscinema](https://worldscinema.org/)
