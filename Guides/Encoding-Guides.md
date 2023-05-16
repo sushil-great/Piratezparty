@@ -56,6 +56,8 @@
 
 -   [StaxRip Encoding Tutorial](https://staxrip.github.io/x265-encoding-tutorial/#configuring-the-video-encoder)
 
+-   [Megui Wiki](https://en.wikibooks.org/wiki/MeGUI)
+
 # Ffmpeg Guides
 
 -   [ffmpeg.org/ffmpeg-all](https://ffmpeg.org/ffmpeg-all.html#) - _ffmpeg documentation_
