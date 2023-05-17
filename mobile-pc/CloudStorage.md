@@ -16,3 +16,4 @@
 - [LinkBox](https://www.linkbox.to/) - LinkBox offers upto 50GB of permanent storage.
 - [TeraBox](https://www.terabox.com/) - Free Cloud Storage Up To 1TB (it have privacy concerns , don't store anything personal).
 - [Blomp](https://www.blomp.com/) - Free 20-200GB storage
+- [Degoo](https://www.degoo.com/) - Free 20 GB storage
