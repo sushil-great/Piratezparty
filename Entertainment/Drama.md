@@ -18,6 +18,10 @@
 
 -   [mkvdrama](https://mkvdrama.com/)
 -   [dramaday](https://dramaday.net/)
--   [kingdrakor](https://kingdrakor.work/)
+-   [kingdrakor](https://kingdrakor.shop/)
 -   [doramax264](https://doramax264.com/)
--   [tvfilmkr](https://www.tvfilmkr)
+-   [bagikuy](https://bagikuy.com/)
+-   [dramahd](https://dramahd.me/)
+-   [dramasdrive](https://dramas-drive.sujalgoel.me/0:/)
+-   [minidrama](https://minidrama.net/)
+-   [sinflixrentry](https://rentry.co/sinflix)
