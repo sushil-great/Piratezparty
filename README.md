@@ -191,7 +191,7 @@ END OF INDEX
 #### Why i Started
 - I like to find different interesting links and stuff on the internet but over the years, due to lack of time, I have been unable to explore much, so I decided to batch up all my collections and make yet another index as a farewell gift. If you want to keep this project alive, please consider making a Pull Request.
 #### Going Forward
-- The original plan was to jot down my knowledge in this index, but as we all know, human knowledge is very limited. Therefore, I decided to take a different approach by incorporating content from other awesome indexes and refining it with my own knowledge, as well as the pull requests I receive. It's no longer just about me; it's about all of us, and this is now our project
+- The original plan was to jot down my knowledge in this index, but as we all know, human knowledge is very limited. Therefore, I decided to take a different approach by incorporating content from other awesome indexes and refining it with my own knowledge, as well as the pull requests I receive.
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ---
