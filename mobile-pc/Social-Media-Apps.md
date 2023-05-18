@@ -1,10 +1,10 @@
 # Discord
 
 -   [Aliucord](https://github.com/Aliucord/Aliucord) - Android
--   [Bluecord](https://bluesmods.com/) - Android
--   [Vendetta](https://vendetta.vercel.app/) - Android
--   [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Desktop
--   [PowerCord](https://powercord.dev/) - Desktop
+-   [Bluecord](https://github.com/bluemods/Bluecord) | [Website](https://bluesmods.com/) - Android
+-   [Vendetta](https://github.com/vendetta-mod) | [Website](https://vendetta.vercel.app/) - Android
+-   [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | [Website](https://betterdiscord.app/) - Desktop
+-   [PowerCord](https://github.com/powercord-org) | [Website](https://powercord.dev/) - Desktop
 
 # Telegram
 
