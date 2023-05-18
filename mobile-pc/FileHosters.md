@@ -5,8 +5,8 @@ This list contains file hosting services which are free to use. Some of them may
 
 | File Hoster | Link |
 | ------ | ------ |
-| MediaFire | https://app.mediafire.com/myfiles |
-| Catbox | https://catbox.moe] |
+| MediaFire | https://app.mediafire.com|
+| Catbox | https://catbox.moe |
 | BayFiles | https://bayfiles.com |
 | MEGA | https://mega.nz |
 | PixelDrain | https://pixeldrain.com |
