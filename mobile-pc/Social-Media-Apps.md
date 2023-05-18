@@ -2,6 +2,7 @@
 
 -   [Aliucord](https://github.com/Aliucord/Aliucord) - Android
 -   [Bluecord](https://bluesmods.com/) - Android
+-   [Vendetta](https://vendetta.vercel.app/) - Android
 -   [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Desktop
 -   [PowerCord](https://powercord.dev/) - Desktop
 
