@@ -41,3 +41,4 @@
     > - [mpv-gui](https://github.com/mpvnet-player/mpv-gui) - mpv-gui is a experimental GUI for the mpv command line player.
     > - [ImPlay](https://github.com/tsl0922/ImPlay) - ImPlay is a Cross-Platform Desktop Media Player, built on top of mpv and ImGui.
     > - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
+- [SyncPlay](https://syncplay.pl/) - Syncplay keeps your media players in sync so that you can watch videos with your friends.
