@@ -12,12 +12,10 @@ _Always Use An AdBlocker! We Recommend uBlock Origin Browser extension_
 
 -   [FitGirl Repacks](https://fitgirl-repacks.site/)
 -   [Masquerade Repacked](https://masquerade.site/)
--   [Steam Unlocked](https://steamunlocked.net/)
 -   [1337x](https://1337x.to/)
 -   [RARBG](https://rarbg.to)
 -   [DODI RePacks](http://dodi-repacks.site/)
 -   [CrackHub - Scene](https://scene.crackhub.site/)
--   [SteamRip](https://steamrip.com/)
 -   [ElAmigos Repacks](https://elamigos.site/)
 -   [ScOOter Repacks](https://scooter-repacks.site/)
 -   [GAMESDRIVE](https://gamesdrive.net/)
