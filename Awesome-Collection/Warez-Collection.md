@@ -23,6 +23,7 @@
 **6. Awesome Piracy**
 
 -   [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/)
+-   [awesome-piracyv2](https://github.com/Shakil-Shahadat/awesome-piracy)
 
 **7. Warezz.now.sh**
 
