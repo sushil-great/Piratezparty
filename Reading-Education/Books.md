@@ -1,7 +1,8 @@
 # ► Ebooks
 
+-   [Anna's Archive](https://annas-archive.org/search)
 -   [mobilism](https://forum.mobilism.org)
--   [libgen](https://libgen.pw)
+-   [libgen](https://libgen.rs)
 -   [snewd](https://snewd.com)
 -   [z-lib](https://z-lib.org/)
 -   [pdfroom](https://pdfroom.com)
@@ -23,6 +24,9 @@
 -   [bookyards](https://bookyards.com/en)
 -   [getfreeebooks](https://getfreeebooks.com)
 -   [digitalbook](https://www.digitalbook.io)
+-   [standardebooks](https://standardebooks.org)
+-   [ebook-hunter](https://ebook-hunter.org/)
+-   [theanarchistlibrary](https://theanarchistlibrary.org/search)
 
 # ► Audiobooks
 
@@ -34,3 +38,4 @@
 -   [xaudiobooks](https://xaudiobooks.com) (DDL)
 -   [hpaudiobooks](hpaudiobooks.club) (Online)
 -   [audiobookbay](http://audiobookbay.nl/) (DDL)
+
