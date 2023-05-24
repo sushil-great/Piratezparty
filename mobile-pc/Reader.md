@@ -5,7 +5,7 @@
 -   [KybookReader](http://kybook-reader.com/index.html) - iOS
 -   [Calibre](https://github.com/kovidgoyal/calibre) - Desktop | calibre is an e-book manager. It can view, convert, edit and catalog e-books in all of the major e-book formats. ⭐
 -   [SumatraPDF](https://github.com/sumatrapdfreader/sumatrapdf) | [Website](http://www.sumatrapdfreader.org/) - Windows
--   [Koodo-Reader](https://github.com/troyeguo/koodo-reader)
+-   [Koodo-Reader](https://github.com/troyeguo/koodo-reader) - cross-platform
 
 # Novel Reader/Manager
 
