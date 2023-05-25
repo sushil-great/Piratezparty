@@ -1,9 +1,10 @@
 # Discord
 
 -   [Aliucord](https://github.com/Aliucord/Aliucord) - Android
--   [Bluecord](https://bluesmods.com/) - Android
--   [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) - Desktop
--   [PowerCord](https://powercord.dev/) - Desktop
+-   [Bluecord](https://github.com/bluemods/Bluecord) | [Website](https://bluesmods.com/) - Android
+-   [Vendetta](https://github.com/vendetta-mod) | [Website](https://vendetta.vercel.app/) - Android
+-   [BetterDiscord](https://github.com/BetterDiscord/BetterDiscord) | [Website](https://betterdiscord.app/) - Desktop
+-   [PowerCord](https://github.com/powercord-org) | [Website](https://powercord.dev/) - Desktop
 
 # Telegram
 
@@ -25,7 +26,7 @@
 -   [OwlGram](https://github.com/OwlGramDev/OwlGram) - Android
 -   [NinjaGram](https://play.google.com/store/apps/details?id=me.ninjagram.messenger) - Android
 -   [Telegraher](https://github.com/nikitasius/Telegraher) - Android
--   [ExtraGram](https://github.com/exteraSquad/exteraGram) - Android
+-   [exteraGram](https://github.com/exteraSquad/exteraGram) - Android
 -   [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Android
 -   [Catogram](https://github.com/Catogram/Catogram) - Android
 -   [Nagram](https://github.com/nextalone/nagram) - Android
@@ -34,6 +35,7 @@
 -   [Kotatogram](http://github.com/kotatogram/kotatogram-desktop) - Desktop
 -   [Unigram](https://github.com/UnigramDev/Unigram) - Desktop
 -   [64Gram](https://github.com/TDesktop-x64) - Desktop
+-   [CherryGram](https://github.com/arsLan4k1390/Cherrygram) - Android
 
 # Reddit
 

@@ -25,7 +25,7 @@
     <li><a href="#-Awesome-Collection">🤩 Awesome-Collection</a></li>
     <li><a href="#-Telegram">📣 Telegram</a></li>
     <li><a href="#-Miscellaneous">🎢 Miscellaneous</a></li>
-    <li><a href="#-From Other Indexes">🤩 From Other Indexes</a></li>
+    <li><a href="#-From-Other-Indexes">🤩 From Other Indexes</a></li>
     <li><a href="#-QnA">✨ QnA</a></li>
     <li><a href="#-License">👮‍♂️ License</a></li>
     <li><a href="#-Disclaimer">⚠ Disclaimer</a></li>
@@ -40,7 +40,6 @@
 -   **[Vpn](Privacy/VPN.md)**
 -   **[Antivirus](Privacy/Antivirus.md)**
 -   **[Clear Digital Footprint](Privacy/Clear-Digital-Footprint.md)**
--   **[Privacy-guides](Privacy/Privacy-guides.md)**
 -   **[Misc 🛠](Privacy/Misc.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
@@ -97,10 +96,13 @@
 
 -   **[Anime / Manga](mobile-pc/Anime-Manga-Apps.md)**
 -   **[Mods / Cracks](mobile-pc/Mods-Cracks.md)**
--   **[Music](mobile-pc/Music-Apps.md)**
 -   **[Social Media](mobile-pc/Social-Media-Apps.md)**
--   **[Video](mobile-pc/Video.md)**
+-   **[Video Apps](mobile-pc/Video-Apps.md)**
+-   **[Audio Apps](mobile-pc/Audio-Apps.md)**
+-   **[Operating Systems](mobile-pc/Operating-Systems.md)**
 -   **[Android Emulators](mobile-pc/Emulators.md)**
+-   **[CloudStorage](mobile-pc/CloudStorage.md)**
+-   **[FileHosters](mobile-pc/FileHosters.md)**
 -   **[Download Managers](mobile-pc/Download-Managers.md)**
 -   **[Tracking Apps](mobile-pc/Tracking-Apps.md)**
 -   **[Readers](mobile-pc/Reader.md)**
@@ -117,6 +119,10 @@
 -   **[Torrents](Guides/Torrent-Guides.md)**
 -   **[Android](Guides/Android-Related-Guides.md)**
 -   **[Gdrive](Guides/Google-Drive-Guides.md)**
+-   **[Media Guides](Guides/Media-Guides.md)**
+-   **[Privacy Guides](Guides/Privacy-Guides.md)**
+-   **[Programming Guides](Guides/Programming-Guides.md)**
+-   **[Misc Guides](Guides/Misc-Guides.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -153,11 +159,11 @@
 -   **[Photos / Fonts](Misc/Photo-Fonts.md)**
 -   **[Note Taking](Misc/Note-Taking.md)**
 -   **[Root Tools](Misc/Root-Tools.md)**
--   **[Android OS](Misc/Android-OS.md)**
 -   **[Opendirectories](Misc/Opendirectories.md)**
 -   **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
 -   **[Pastebin Services](Misc/Pastebin-Services.md)**
 -   **[Gdrive Index](Misc/Gdrive-Index.md)**
+-   **[Crypto](Misc/Crypto.md)**
 -   **[Discover Alternatives](Misc/Discover-Alternatives.md)**
 -   **[Random Things](Misc/Random.md)**
 
@@ -185,7 +191,7 @@ END OF INDEX
 #### Why i Started
 - I like to find different interesting links and stuff on the internet but over the years, due to lack of time, I have been unable to explore much, so I decided to batch up all my collections and make yet another index as a farewell gift. If you want to keep this project alive, please consider making a Pull Request.
 #### Going Forward
-- The original plan was to jot down my knowledge in this index, but as we all know, human knowledge is very limited. Therefore, I decided to take a different approach by incorporating content from other awesome indexes and refining it with my own knowledge, as well as the pull requests I receive. It's no longer just about me; it's about all of us, and this is now our project.
+- The original plan was to jot down my knowledge in this index, but as we all know, human knowledge is very limited. Therefore, I decided to take a different approach by incorporating content from other awesome indexes and refining it with my own knowledge, as well as the pull requests I receive.
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ---
