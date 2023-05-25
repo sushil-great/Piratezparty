@@ -3,7 +3,7 @@
 ### Frontend + other apps
 
 -   [NewPipe](https://github.com/TeamNewPipe/NewPipe) ⭐
--   [Vanced](https:https://www.reddit.com/r/vanced)
+-   ~~[Vanced](https:https://www.reddit.com/r/vanced)~~ (outdated go for Revanced)
 -   [SkyTube](https://github.com/SkyTubeTeam/SkyTube) - Copylefted libre / open source YouTube player for Android.
 -   [Youtubedl Android](https://github.com/yausername/youtubedl-android) - youtube-dl for android.
 -   [NewPipe x SponsorBlock](https://github.com/polymorphicshade/newpipe) - NewPipe x SponsorBlock x Return YouTube Dislike.
@@ -27,18 +27,24 @@
 
 -   [Kodi](https://kodi.tv/) - Kodi is a free and open source media player application developed by the Kodi Foundation.
     > #### Kodi Addons
+    >
     > -   [r/KodiAddons](https://www.reddit.com/r/addons4kodi)
 -   [VLC](http://www.videolan.org/vlc/) - Multimedia player that supports a variety of audio and video formats.
 -   [MPV](https://mpv.io/) - Customizable multimedia player with scripting support.
+
     > #### Mpv script collection
+    >
     > -   [Wiki/User-Script](https://github.com/mpv-player/mpv/wiki/User-Scripts)
     > -   [CogentRedTester/mpv-scripts](https://github.com/CogentRedTester/mpv-scripts)
     > -   [jonniek/mpv-scripts](https://github.com/jonniek/mpv-scripts)
     > -   [Mpv-Script-Directory](https://nudin.github.io/mpv-script-directory/)
 
-    > #### MPV Based Projects 
-    > - [mpv.net](https://github.com/mpvnet-player/mpv.net) - mpv.net is a modern media player for Windows that works just like mpv.
-    > - [mpv-gui](https://github.com/mpvnet-player/mpv-gui) - mpv-gui is a experimental GUI for the mpv command line player.
-    > - [ImPlay](https://github.com/tsl0922/ImPlay) - ImPlay is a Cross-Platform Desktop Media Player, built on top of mpv and ImGui.
-    > - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
-- [SyncPlay](https://syncplay.pl/) - Syncplay keeps your media players in sync so that you can watch videos with your friends.
+    > #### MPV Based Projects
+    >
+    > -   [mpv.net](https://github.com/mpvnet-player/mpv.net) - mpv.net is a modern media player for Windows that works just like mpv.
+    > -   [mpv-gui](https://github.com/mpvnet-player/mpv-gui) - mpv-gui is a experimental GUI for the mpv command line player.
+    > -   [ImPlay](https://github.com/tsl0922/ImPlay) - ImPlay is a Cross-Platform Desktop Media Player, built on top of mpv and ImGui.
+    > -   [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
+
+-   [SyncPlay](https://syncplay.pl/) - Syncplay keeps your media players in sync so that you can watch videos with your friends.
+-   [Just (Video) Player](https://github.com/moneytoo/Player) - Open Source Android Video player, uses ExoPlayer's ffmpeg extension with all its audio formats enabled (it can handle even special formats like AC3, EAC3, DTS, DTS HD, TrueHD etc.).
