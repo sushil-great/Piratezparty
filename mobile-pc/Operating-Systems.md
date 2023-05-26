@@ -9,4 +9,4 @@
 # OS Tools / Softwares / App
 
 -   [Ventoy](https://github.com/ventoy/Ventoy) - lightweight but powerful, Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
--   [balenaEtcher](https://etcher.balena.io/) - Ventoy alt., Flash OS images to SD cards & USB drives, safely and easily.
+
