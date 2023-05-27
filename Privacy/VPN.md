@@ -23,3 +23,11 @@
 -   [VpnHood](https://github.com/vpnhood/VpnHood) - VpnHood is a hybrid VPN, captures all packets throw a packet filter driver, same as many other VPNs but establishes connections like a socks proxy without any fingerprint.
 
 -   [DSVPN](https://github.com/jedisct1/dsvpn) - Dead Simple VPN - small (~25 KB), works out of the box, run a single-line command on the server and a similar one on the client and you're done.
+
+-   [Amnezia](https://en.amnezia.org/) - Amnezia is a VPN client with the key feature of deploying your own VPN server on you virtual server.
+
+-   [n2n](https://github.com/ntop/n2n) = n2n is a light VPN software which makes it easy to create virtual networks bypassing intermediate firewalls.
+
+-   [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - An IPsec VPN encrypts your network traffic, so that nobody between you and the VPN server can eavesdrop on your data as it travels via the Internet. This is especially useful when using unsecured networks, e.g. at coffee shops, airports or hotel rooms.
+
+-   [Outline](https://getoutline.org/) - Outline makes it easy to create a VPN server, giving anyone access to the free and open internet.
