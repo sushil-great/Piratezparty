@@ -61,6 +61,7 @@
 -   [Rapidapi](https://rapidapi.com/hub)
 -   [Landofdev](https://landof.dev/)
 -   [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
+-   [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 **11. r/Android Wiki**
 

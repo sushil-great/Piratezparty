@@ -107,7 +107,7 @@
 -   **[Tracking Apps](mobile-pc/Tracking-Apps.md)**
 -   **[Readers](mobile-pc/Reader.md)**
 -   **[Movies/Series](mobile-pc/Movie-Series-Apps.md)**
--   **[Misc Software](mobile-pc/Misc-Software.md)**
+-   **[Misc App/Software](mobile-pc/Misc-App-Software.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -149,6 +149,8 @@
 -   **[Drama](Telegram/Drama-TG.md)**
 -   **[Books](Telegram/Books-TG.md)**
 -   **[Courses](Telegram/Courses-TG.md)**
+-   **[Tech](Telegram/Tech.md)**
+-   **[Misc](Telegram/Misc.md)** 
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 

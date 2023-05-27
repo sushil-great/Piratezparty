@@ -1,3 +1,7 @@
+# CLI tools
+
+-   [ASCII Clip](https://github.com/leinstay/asciiclip) - CLI tool that applies an ASCII filter to video or image (Create ASCII Art from video/image) ⭐
+
 # Extension to CLI terminals
 
 -   [Oh My Posh](https://ohmyposh.dev/) - Customize your prompt theme for anyshell
