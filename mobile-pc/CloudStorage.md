@@ -17,3 +17,4 @@
 - [TeraBox](https://www.terabox.com/) - Free Cloud Storage Up To 1TB (it have privacy concerns , don't store anything personal).
 - [Blomp](https://www.blomp.com/) - Free 20-200GB storage
 - [Degoo](https://www.degoo.com/) - Free 20 GB storage
+- [Skiff Drive](https://skiff.com/drive) - Free 10 GB storage, Private & End-to-End Encrypted Drive; Optional Decentralized IPFS Storage
