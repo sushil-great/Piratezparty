@@ -4,6 +4,8 @@
 
 -   [Pandora](https://github.com/hckpls/pandora) - Another cool cyber stuff awesome collection, **but it is not upto date**
 
+- [CyberSecurity Search Engine - Cheatsheets, Tools & Resources](https://hero.page/cybersecurity) - Cybersecurity spaces with lots of resources
+
 # Tools
 
 -   [CyberSecurity Tools](../Tools/Cyber-Security-Tools.md) - Checkout this tool .md file from this repo (it is also linked in tools section of readme so dedicated file)

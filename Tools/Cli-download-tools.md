@@ -10,10 +10,6 @@
 
 -   [PyLoad](https://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
 
--   [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites.
-
--   [Yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
-
 -   [Bezzad-Downloader](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 
 -   [Thedevsaddam-dl](https://github.com/thedevsaddam/dl) - Command-line file downloader tool.
@@ -21,6 +17,12 @@
 -   [Sponge](https://github.com/spypunk/sponge) - Sponge is a website crawler and links downloader command-line tool.
 
 -   [ListDownload](https://github.com/Alfystar/listDownload) - Python script to download multiple file in parallel thread.
+
+## Youtube Downloader
+
+-   [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites.
+
+-   [Yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 
 ## Course Downloader
 

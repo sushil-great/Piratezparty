@@ -13,4 +13,18 @@
 
 # Android
 
-- [Thunder](https://github.com/anujd64/Thunder) - An Android app to stream and download your media stored in Google Drive(require setup Google Drive index website) in an Awesome way !!
+-   [Thunder ⚡️](https://github.com/anujd64/Thunder) - An Android app to stream and download your media stored in Google Drive(require setup Google Drive index website) in an Awesome way !!
+
+    > ⚡️ [Getting Started](https://github.com/anujd64/Thunder#-getting-started-)
+    >
+    > ⚡️ Features : [More](https://github.com/anujd64/Thunder#-features-)
+    >
+    > -   Stream and Download media directly
+    > -   Add to watchlist
+    > -   Import/Export for database
+    > -   Support GdIndex, GoIndex, MapleIndex, SimpleProgram
+    > -   New Release On Home
+    >
+    > 🔗 [Telegram Support Group](https://t.me/+p-ODqJeW-6FjNTI1)
+    >
+    > ⚡️Download: [Release](https://github.com/anujd64/Thunder/releases)

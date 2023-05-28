@@ -75,7 +75,7 @@
 
 -   **[Entertainment Tools](Tools/Entertainment-Tools.md)**
 -   **[Audio Tools](Tools/Audio-Tools.md)**
--   **[Downloaders](Tools/Cli-download-tools.md)**
+-   **[CLI Downloaders](Tools/Cli-download-tools.md)**
 -   **[Encoding Tools](Tools/Encoding-Tools.md)**
 -   **[Reading](Tools/Reading-Tools.md)**
 -   **[Colab](Tools/Colab.md)**
