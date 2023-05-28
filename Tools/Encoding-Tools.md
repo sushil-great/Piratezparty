@@ -1,6 +1,8 @@
 -   [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
--   [Ffmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+-   [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
+
+-   [FFmpeg-nonfree-builds](https://github.com/AnimMouse/ffmpeg-autobuild) - Automated nonfree builds of FFmpeg for Windows with additional libraries/dependencies include fdk-aac. besides thatif u want stable version (https://github.com/AnimMouse/ffmpeg-stable-autobuild)
 
 -   [FastFlix](https://github.com/cdgriffith/FastFlix) - FastFlix is a free GUI for HEVC and AV1 encoding, GIF/WebP creation, and more.
 
@@ -29,3 +31,7 @@
 -   [Mkvtoolnix](https://mkvtoolnix.download/) - MKVToolNix is a set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
 
 -   [Makemkv](https://www.makemkv.com/) - MakeMKV is a format converter, otherwise called "transcoder". It converts the video clips from proprietary (and usually encrypted) disc into a set of MKV files, preserving most information but not changing it in any way.
+
+-   [Hybrid](https://www.selur.de/) - Hybrid is a multi platform (Linux/Mac OS X/Windows) Qt based frontend for a bunch of other tools which can convert nearly every input to x265/x264/Xvid/VP8 + ac3/ogg/mp3/aac/flac inside an mp4/m2ts/mkv/webm container, a Blu-ray or an AVCHD structure.
+
+-   [NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes) - NotEnoughAV1Encodes is a small GUI Handler for aomenc, rav1e and SVT-AV1 (AV1). NotEnoughAV1Encodes is a tool to make encoding easier and faster for AV1 encoders. It splits the Source Video into multiple chunks and encode them parallel with the same given settings. At the end it will Concatenate the chunks into a single video.
