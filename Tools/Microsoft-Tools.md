@@ -12,7 +12,7 @@
 # Activators for Windows / Office
 
 - ⭐ [KMS_VL_ALL_AIO](https://github.com/abbodi1406/KMS_VL_ALL_AIO/) - Abbodi 1406 KMS Smart Activation Script.
-- ⭐ [Mass Activation Scripts)](https://github.com/massgravel/Microsoft-Activation-Scripts/)
+- ⭐ [Mass Activation Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts/)
 - ⭐ [abbodi1406/Batutil](https://github.com/abbodi1406/BatUtil/) - Abbodi 1406  utilities.
 - ⭐ [Windows 10 Activation Guide](https://rentry.co/ActivateWin10) | [Discord](https://discord.gg/nWWfBMtBSk)
 - ⭐ [r/piracy win10upgrade-activation](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
