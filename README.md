@@ -79,6 +79,7 @@
 -   **[Encoding Tools](Tools/Encoding-Tools.md)**
 -   **[Reading](Tools/Reading-Tools.md)**
 -   **[Colab](Tools/Colab.md)**
+-   **[Microsoft Tools](Tools/Microsoft-Tools.md)**
 -   **[Torrents](Tools/Torrent-Tools.md)**
 -   **[Media Managers](Tools/MediaManagers-Tools.md)**
 -   **[Social Media](Tools/Social-Media-Tools.md)**
@@ -123,6 +124,7 @@
 -   **[Media Guides](Guides/Media-Guides.md)**
 -   **[Privacy Guides](Guides/Privacy-Guides.md)**
 -   **[Programming Guides](Guides/Programming-Guides.md)**
+-   **[Microsoft Guides](Guides/Microsoft-Guides.md)**
 -   **[Misc Guides](Guides/Misc-Guides.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
