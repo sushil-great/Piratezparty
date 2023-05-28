@@ -165,6 +165,7 @@
 -   **[Opendirectories](Misc/Opendirectories.md)**
 -   **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
 -   **[Pastebin Services](Misc/Pastebin-Services.md)**
+-   **[Browser Extensions/UserScripts](Misc/Browser-Extensions-UserScripts.md)**
 -   **[Gdrive Index](Misc/Gdrive-Index.md)**
 -   **[Crypto](Misc/Crypto.md)**
 -   **[Discover Alternatives](Misc/Discover-Alternatives.md)**

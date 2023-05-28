@@ -41,3 +41,7 @@
 -   [Patreon-downloader](https://github.com/TheOnlyBeardedBeast/patreon-downloader) - A patreon file downloader.
 
 -   [Patreon-downloader](https://github.com/sneat/patreon-downloader) - Download media and attachments from Patreon pages.
+
+## Reddit Downloader
+
+-   [bdfr (Bulk Downloader for Reddit)](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Python Based Open-Source, This is a tool to download submissions or submission data from Reddit. It can be used to archive data or even crawl Reddit to gather research data. The BDFR is flexible and can be used in scripts if needed through an extensive command-line interface.
