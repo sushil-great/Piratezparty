@@ -1,6 +1,12 @@
+# Many kinds of tracking apps
+
+-   [Obtanium](https://github.com/ImranR98/Obtainium) - Open-Source Tracker that allow you tracks,get notified and update new releases of open-source apps/tools or releases from github/gitlab releases(some close source also releases on github releases feature) ⭐
+-   [AnyTracker](https://anytracker.org/) (95%+ PAID, free is if name)- Tracks any things, whatever it is someone social media profile like twitter user, a price change track on amazon product(or if product available currently to buy or not), News, Currency/Crypto Chart, etc.
+    > Its free version provide very less feature that you will hate, you can use MODDED version if you find only.IF do find dont forget to share with friends!
+
 # Anime
 
--   [Anlib](https://play.google.com/store/apps/details?id=com.revolgenx.anilib) - Android 
+-   [Anlib](https://play.google.com/store/apps/details?id=com.revolgenx.anilib) - Android
 -   [AL-chan](https://play.google.com/store/apps/details?id=com.zen.alchan) - Android
 -   [Teigai](https://play.google.com/store/apps/details?id=com.Tegaki.anime) - Android
 -   [Otraku](https://github.com/lotusgate/otraku) - Android
@@ -11,8 +17,8 @@
 -   [AnYme](https://github.com/zunjae/AnYme) - Android
 -   [MAL](https://myanimelist.net/) - Web/Android/IOS
 -   [MALClient](https://github.com/Drutol/MALClient) - Android
--   [Katarogu](https://play.google.com/store/apps/details?id=com.apoorvaditya.katarogu) - Android 
--   [Livechart](https://www.livechart.me/) | [App](https://play.google.com/store/apps/details?id=me.livechart.android) - Web/Android 
+-   [Katarogu](https://play.google.com/store/apps/details?id=com.apoorvaditya.katarogu) - Android
+-   [Livechart](https://www.livechart.me/) | [App](https://play.google.com/store/apps/details?id=me.livechart.android) - Web/Android
 -   [Kitsu](https://kitsu.io/explore/anime) - Web/Android
 -   [Komori](https://play.google.com/store/apps/details?id=app.komori) - Android
 -   [Anilist](https://anilist.co/apps) - Web/Android/IOS
@@ -43,15 +49,15 @@
 
 ## Desktop
 
-- [My Personal List](https://github.com/SnekNOTSnake/my-personal-list) - Windows/Linux/MacOS
-- [MALCLient](https://github.com/Drutol/MALClient) - Windows
+-   [My Personal List](https://github.com/SnekNOTSnake/my-personal-list) - Windows/Linux/MacOS
+-   [MALCLient](https://github.com/Drutol/MALClient) - Windows
 
 # Books
 
-- [Dante](https://play.google.com/store/apps/details?id=at.shockbytes.dante) - Android/IOS
-- [Goodreads](https://www.goodreads.com/) - Android/IOS
-- [Literal.club](https://literal.club/) - Android/IOS
+-   [Dante](https://play.google.com/store/apps/details?id=at.shockbytes.dante) - Android/IOS
+-   [Goodreads](https://www.goodreads.com/) - Android/IOS
+-   [Literal.club](https://literal.club/) - Android/IOS
 
 # Games
 
-- [Stash](https://stash.games/) - Android/IOS
+-   [Stash](https://stash.games/) - Android/IOS

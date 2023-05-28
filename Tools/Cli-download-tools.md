@@ -10,10 +10,6 @@
 
 -   [PyLoad](https://pyload.net/) - Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web.
 
--   [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites.
-
--   [Yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
-
 -   [Bezzad-Downloader](https://github.com/bezzad/Downloader) - Fast and reliable multipart downloader with asynchronous progress events for .NET applications.
 
 -   [Thedevsaddam-dl](https://github.com/thedevsaddam/dl) - Command-line file downloader tool.
@@ -21,6 +17,12 @@
 -   [Sponge](https://github.com/spypunk/sponge) - Sponge is a website crawler and links downloader command-line tool.
 
 -   [ListDownload](https://github.com/Alfystar/listDownload) - Python script to download multiple file in parallel thread.
+
+## Youtube Downloader
+
+-   [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites.
+
+-   [Yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 
 ## Course Downloader
 
@@ -39,3 +41,7 @@
 -   [Patreon-downloader](https://github.com/TheOnlyBeardedBeast/patreon-downloader) - A patreon file downloader.
 
 -   [Patreon-downloader](https://github.com/sneat/patreon-downloader) - Download media and attachments from Patreon pages.
+
+## Reddit Downloader
+
+-   [bdfr (Bulk Downloader for Reddit)](https://github.com/aliparlakci/bulk-downloader-for-reddit) - Python Based Open-Source, This is a tool to download submissions or submission data from Reddit. It can be used to archive data or even crawl Reddit to gather research data. The BDFR is flexible and can be used in scripts if needed through an extensive command-line interface.

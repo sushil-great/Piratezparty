@@ -75,7 +75,7 @@
 
 -   **[Entertainment Tools](Tools/Entertainment-Tools.md)**
 -   **[Audio Tools](Tools/Audio-Tools.md)**
--   **[Downloaders](Tools/Cli-download-tools.md)**
+-   **[CLI Downloaders](Tools/Cli-download-tools.md)**
 -   **[Encoding Tools](Tools/Encoding-Tools.md)**
 -   **[Reading](Tools/Reading-Tools.md)**
 -   **[Colab](Tools/Colab.md)**
@@ -107,6 +107,7 @@
 -   **[Tracking Apps](mobile-pc/Tracking-Apps.md)**
 -   **[Readers](mobile-pc/Reader.md)**
 -   **[Movies/Series](mobile-pc/Movie-Series-Apps.md)**
+-   **[Misc App/Software](mobile-pc/Misc-App-Software.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -148,6 +149,8 @@
 -   **[Drama](Telegram/Drama-TG.md)**
 -   **[Books](Telegram/Books-TG.md)**
 -   **[Courses](Telegram/Courses-TG.md)**
+-   **[Tech](Telegram/Tech.md)**
+-   **[Misc](Telegram/Misc.md)** 
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -162,6 +165,7 @@
 -   **[Opendirectories](Misc/Opendirectories.md)**
 -   **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
 -   **[Pastebin Services](Misc/Pastebin-Services.md)**
+-   **[Browser Extensions/UserScripts](Misc/Browser-Extensions-UserScripts.md)**
 -   **[Gdrive Index](Misc/Gdrive-Index.md)**
 -   **[Crypto](Misc/Crypto.md)**
 -   **[Discover Alternatives](Misc/Discover-Alternatives.md)**
@@ -173,8 +177,8 @@
 
 ## 🤩 From Other Indexes
 
-- **[pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) | [My Fork](https://github.com/Piratezparty/awesome-privacy)**
-- **[johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) | [My Fork](https://github.com/Piratezparty/awesome-free-software)**
+-   **[pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) | [My Fork](https://github.com/Piratezparty/awesome-privacy)**
+-   **[johnjago/awesome-free-software](https://github.com/johnjago/awesome-free-software) | [My Fork](https://github.com/Piratezparty/awesome-free-software)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
@@ -189,9 +193,12 @@ END OF INDEX
 ## ✨ QnA
 
 #### Why i Started
-- I like to find different interesting links and stuff on the internet but over the years, due to lack of time, I have been unable to explore much, so I decided to batch up all my collections and make yet another index as a farewell gift. If you want to keep this project alive, please consider making a Pull Request.
+
+-   I like to find different interesting links and stuff on the internet but over the years, due to lack of time, I have been unable to explore much, so I decided to batch up all my collections and make yet another index as a farewell gift. If you want to keep this project alive, please consider making a Pull Request.
+
 #### Going Forward
-- The original plan was to jot down my knowledge in this index, but as we all know, human knowledge is very limited. Therefore, I decided to take a different approach by incorporating content from other awesome indexes and refining it with my own knowledge, as well as the pull requests I receive.
+
+-   The original plan was to jot down my knowledge in this index, but as we all know, human knowledge is very limited. Therefore, I decided to take a different approach by incorporating content from other awesome indexes and refining it with my own knowledge, as well as the pull requests I receive.
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
 ---

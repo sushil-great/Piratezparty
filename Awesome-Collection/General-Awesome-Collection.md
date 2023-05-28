@@ -61,6 +61,7 @@
 -   [Rapidapi](https://rapidapi.com/hub)
 -   [Landofdev](https://landof.dev/)
 -   [Free Software Directory](https://directory.fsf.org/wiki/Main_Page)
+-   [Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 **11. r/Android Wiki**
 
@@ -143,3 +144,7 @@
 -   [awesome-pt](https://github.com/sabersalv/awesome-pt)
 -   [awesome-torrent-resources](https://github.com/HDVinnie/awesome-torrent-resources)
 -   [trackerslist](https://github.com/ngosang/trackerslist)
+
+**26. Apps support Material You theme**
+
+-   [Material-You-app-list](https://github.com/sysworx/Material-You-app-list)

@@ -54,12 +54,19 @@
 -   [Instander](https://thedise.me/instander/) - Android
 -   [AeroInsta](https://aeroinsta.com/) - Android
 
+## Useful tools for instagram
+
+-   [Instaloader](https://github.com/instaloader/instaloader) - CLI based tool for instagram, Download everything from Instagram - comments, reels, stories, feeds, captions and more
+
 # Twitter
 
 -   [AeroWitter](https://aerowitter.com/) - Android
 -   [Harpy](https://github.com/robertodoering/harpy) - Android
 
 # Whatsapp
+> Using whatsapp will not allow google backup, you have to do local backup (one happen before google backup when try to do google one) and then delete whatsapp mod and install normal, normal will look for local backup but sometimes miss/fail so be careful.
+
+> same way to transfer data to mod version
 
 -   [WhatsApp AERO](https://whatsaero.com/) - Android
 -   [YMWhatsApp+](https://ymwhatsapp.com/) - Android
