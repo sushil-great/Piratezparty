@@ -26,8 +26,22 @@
 
 -   [Amnezia](https://en.amnezia.org/) - Amnezia is a VPN client with the key feature of deploying your own VPN server on you virtual server.
 
--   [n2n](https://github.com/ntop/n2n) = n2n is a light VPN software which makes it easy to create virtual networks bypassing intermediate firewalls.
+-   [n2n](https://github.com/ntop/n2n) - n2n is a light VPN software which makes it easy to create virtual networks bypassing intermediate firewalls.
 
 -   [ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - An IPsec VPN encrypts your network traffic, so that nobody between you and the VPN server can eavesdrop on your data as it travels via the Internet. This is especially useful when using unsecured networks, e.g. at coffee shops, airports or hotel rooms.
 
 -   [Outline](https://getoutline.org/) - Outline makes it easy to create a VPN server, giving anyone access to the free and open internet.
+
+-   [Nebula](https://github.com/slackhq/nebula) - A scalable overlay networking tool with a focus on performance, simplicity and security
+
+-   [Pritunl](https://pritunl.com/) - Enterprise Distributed OpenVPN and IPsec Server
+
+-   [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.
+
+-   [ZeroTier](https://www.zerotier.com/) - Peer-to-peer multi-platform VPN
+
+-   [Mysterium Network](https://www.mysterium.network/) - Open-source VPN client and server software. It can be used to sell your spare bandwidth for cryptocurrency.
+
+-   [tinc](https://tinc-vpn.org/) - Peer-to-peer VPN software with mesh routing.
+
+-   [Shadowsocks](https://shadowsocks.org/) - Secure SOCKS proxy used in China for bypassing the Great Firewall.
