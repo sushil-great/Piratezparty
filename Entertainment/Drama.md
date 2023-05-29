@@ -34,3 +34,5 @@
 -   [minidrama](https://minidrama.net/)
 -   [sinflixrentry](https://rentry.co/sinflix)
 -   [kmdl](https://kmdlbd.tk/)
+-   [torrentsir](http://torrentsir106.com/)(Torrent)
+-   [torrentqq](http://torrentqq.net/)(Torrent)
