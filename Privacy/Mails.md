@@ -1,4 +1,4 @@
-# ► Gamil Alternatives
+# ► Gmail Alternatives
 
 - ⭐ [ProtonMail](https://proton.me/mail)
 - ⭐ [Tutanota](https://tutanota.com/)
