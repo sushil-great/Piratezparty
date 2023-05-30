@@ -54,10 +54,6 @@
 -   [Instander](https://thedise.me/instander/) - Android
 -   [AeroInsta](https://aeroinsta.com/) - Android
 
-## Useful tools for instagram
-
--   [Instaloader](https://github.com/instaloader/instaloader) - CLI based tool for instagram, Download everything from Instagram - comments, reels, stories, feeds, captions and more
-
 # Twitter
 
 -   [AeroWitter](https://aerowitter.com/) - Android
