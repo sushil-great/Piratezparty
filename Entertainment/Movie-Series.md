@@ -155,7 +155,7 @@
 -   [2ddl](https://2ddl.ms/)
 -   [ddlvalley](https://www.ddlvalley.me/)
 -   [scnsrc](https://www.scnsrc.me/)
--   [PSArips](https://psa.pm/)
+-   [PSArips](https://psa.re/)
 -   [movieparadise](https://movieparadise.org/)
 -   [seriesvault](https://seriesvault.win/)
 -   [medeberiyaa](https://medeberiyaa.com/)
