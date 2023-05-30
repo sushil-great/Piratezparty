@@ -69,6 +69,7 @@
 
 ## Streaming (720p)
 
+-   [Fmovies](https://fmovieslinks.com/) (Masterlink)
 -   [sflix](https://sflix.pro/home)
 -   [HDToday](https://hdtoday.cc/)
 -   [Katus](https://katus.su/)
@@ -121,6 +122,7 @@
 
 ## Streaming (1080p)
 
+-   [Fmovies](https://fmovieslinks.com/) (Masterlink)
 -   [sflix](https://sflix.pro/home)
 -   [HDToday](https://hdtoday.cc/)
 -   [Katus](https://katus.su/)
