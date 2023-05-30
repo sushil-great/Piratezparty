@@ -28,6 +28,7 @@
 - [Tempail](https://tempail.com/en/)
 - [Yepmail](https://yepmail.co/)
 - [Mintemail](https://www.mintemail.com/)
+- [cs.email](https://www.cs.email/)
 
 # ► Email Aliases
 
