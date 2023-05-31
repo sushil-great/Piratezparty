@@ -1,5 +1,7 @@
 -   [Handbrake](https://handbrake.fr/) - HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.
 
+-   [Frederickding Handbrake Build](https://frederickding.gitlab.io/HandBrake/) - HandBrake Development Builds Builds with FDK for low-complexity AAC
+
 -   [FFmpeg](https://ffmpeg.org/) - A complete, cross-platform solution to record, convert and stream audio and video.
 
 -   [FFmpeg-nonfree-builds](https://github.com/AnimMouse/ffmpeg-autobuild) - Automated nonfree builds of FFmpeg for Windows with additional libraries/dependencies include fdk-aac. besides thatif u want stable version (https://github.com/AnimMouse/ffmpeg-stable-autobuild)
