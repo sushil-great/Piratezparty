@@ -69,6 +69,7 @@
 
 ## Streaming (720p)
 
+-   [Fmovies](https://fmovieslinks.com/) (Masterlink)
 -   [sflix](https://sflix.pro/home)
 -   [HDToday](https://hdtoday.cc/)
 -   [Katus](https://katus.su/)
@@ -121,6 +122,7 @@
 
 ## Streaming (1080p)
 
+-   [Fmovies](https://fmovieslinks.com/) (Masterlink)
 -   [sflix](https://sflix.pro/home)
 -   [HDToday](https://hdtoday.cc/)
 -   [Katus](https://katus.su/)
@@ -153,7 +155,7 @@
 -   [2ddl](https://2ddl.ms/)
 -   [ddlvalley](https://www.ddlvalley.me/)
 -   [scnsrc](https://www.scnsrc.me/)
--   [PSArips](https://psa.pm/)
+-   [PSArips](https://psa.re/)
 -   [movieparadise](https://movieparadise.org/)
 -   [seriesvault](https://seriesvault.win/)
 -   [medeberiyaa](https://medeberiyaa.com/)
