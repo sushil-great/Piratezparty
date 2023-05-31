@@ -4,7 +4,7 @@
 
 -   [Pandora](https://github.com/hckpls/pandora) - Another cool cyber stuff awesome collection, **but it is not upto date**
 
-- [CyberSecurity Search Engine - Cheatsheets, Tools & Resources](https://hero.page/cybersecurity) - Cybersecurity spaces with lots of resources
+-   [CyberSecurity Search Engine - Cheatsheets, Tools & Resources](https://hero.page/cybersecurity) - Cybersecurity spaces with lots of resources
 
 # CyberSecurity Tools
 
@@ -22,8 +22,9 @@
 
 ## Misc 😓
 
+-   [CyberChef](https://gchq.github.io/CyberChef/) | [Github](https://github.com/gchq/CyberChef/) - CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser.
+    > credit : [TryHackMe Advent of Cyber 4](https://tryhackme.com/room/adventofcyber4) Task 12(Day 7)
 -   [ProjectDiscovery](https://github.com/projectdiscovery) | [Community](https://projectdiscovery.io/#/community) - Open-Source CyberSec company aim to develop security tools (builds tools to detect and remediate vulnerabilities across your modern tech stack.)
-
 
 # Vulnerable VM for practice (or just VM based stuff...)
 
