@@ -85,7 +85,6 @@
 -   **[Cloning Tools](Tools/Cloning-Tools.md)**
 -   **[CLI Tools](Tools/CLI-Tools.md)**
 -   **[Debug Tools](Tools/Debug-Tools.md)**
--   **[CyberSecurity Tools](Tools/Cyber-Security-Tools.md)**
 -   **[Misc Tools](Tools/Misc-Tools.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
@@ -150,7 +149,7 @@
 -   **[Books](Telegram/Books-TG.md)**
 -   **[Courses](Telegram/Courses-TG.md)**
 -   **[Tech](Telegram/Tech.md)**
--   **[Misc](Telegram/Misc.md)** 
+-   **[Misc](Telegram/Misc.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 
