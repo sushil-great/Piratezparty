@@ -1,4 +1,4 @@
-# Recommended Places to start your Mods/Cracks Journey (By Owner of index (encrypted identity : `ai` ai captain `sensor`))
+# Recommended Places to start your Mods/Cracks Journey
 
 ## Mobile
 
@@ -25,9 +25,9 @@
 2. Browse with uBlock Origin at all times to block popups and ads, thus avoiding any malicious downloads.
 
 3. Is this release/file safe?
-   If you have any doubt you can run it in VM Or Sandbox to test it. For android you can use shelter (https://github.com/PeterCxy/Shelter)or Island (https://github.com/oasisfeng/island/) and stuff like that as well.
+   If you have any doubt you can run it in VM Or Sandbox to test it. For android you can use [shelter](https://github.com/PeterCxy/Shelter) or [Island](https://github.com/oasisfeng/island/) and stuff like that as well.
 
-4. Read this for better understanding of how to avoid viruses - Thesis On Zero Day Cracked Software, Games & Online Scanner Virus Detection (https://onehack.us/t/thesis-on-zero-day-cracked-software-games-online-scanner-virus-detection/96856)
+4. Read this for better understanding of how to avoid viruses - [Thesis On Zero Day Cracked Software, Games & Online Scanner Virus Detection](https://onehack.us/t/thesis-on-zero-day-cracked-software-games-online-scanner-virus-detection/96856)
 
 # Websites for Mod apks(DDL)
 
