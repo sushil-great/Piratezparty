@@ -17,7 +17,6 @@
 -   [eztv](https://eztv.io/)
 -   [torrentgalaxy](https://torrentgalaxy.to/)
 -   [torrentdownloads](https://www.torrentdownloads.me/)
--   [rarbg](https://rarbg.to/)
 -   [torrent](https://torrent.tm/)
 -   [Ytszone](https://Yts.zone)
 -   [rutracker](http://rutracker.net/)
