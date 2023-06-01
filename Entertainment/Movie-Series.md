@@ -168,7 +168,7 @@
 -   [primewire](https://www.primewire.ag/)
 -   [watchsomuch](https://watchsomuch.com/)
 -   [moviesnation](https://moviesnation.vip/)
--   [Movieslegacy](http://Movieslegacy.com)
+-   [Movieslegacy](https://movieslegacy.site/)
 -   [x265lk](https://x265lk.com/)
 -   [Scnlog](https://scnlog.me/)
 -   [themoviesmod](https://themoviesmod.xyz/)
