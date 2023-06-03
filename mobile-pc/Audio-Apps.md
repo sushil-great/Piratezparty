@@ -33,6 +33,7 @@
 -   [Shuttle](https://github.com/timusus/Shuttle) - Android 
 -   [canaree](https://github.com/ologe/canaree-music-player) - Android 
 -   [Auxio](https://github.com/OxygenCobalt/Auxio) - Android 
+-   [Musicolet](https://play.google.com/store/apps/details?id=in.krosbits.musicolet) - Android | Multiple queues supported.
 -   [S2 Music Player](https://play.google.com/store/apps/details?id=com.simplecityapps.shuttle) - Android 
 -   [Pulse Music](https://play.google.com/store/apps/details?id=com.hardcodecoder.pulse) - Android 
 -   [Stellio](https://stellio.ru/en) - Android 
