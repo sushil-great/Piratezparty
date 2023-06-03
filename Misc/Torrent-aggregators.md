@@ -30,5 +30,6 @@
 -   [top10torrent](https://top10torrent.xyz/)
 -   [bitsearch](https://bitsearch.to/)
 -   [knaben](https://knaben.eu/)
+-   [nyaa](http://nyaa.si/)
 
 **[For more visit r/torrents](https://www.reddit.com/r/torrents)**
