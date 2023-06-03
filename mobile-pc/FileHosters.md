@@ -27,3 +27,4 @@ This list contains file hosting services which are free to use. Some of them may
 - [KrakenFiles](https://krakenfiles.com) - 500mb per file, Files needs to be downloaded once in 90days to stay active.
 - [Letsupload](https://letsupload.io/) - Each file you upload must be less than 15 GB in size for free, file get's deleted after 15days.
 - [Filetransfer](https://filetransfer.io/) - 6gb per file, Files gets deleted after 21days.
+- [GoFile](https://gofile.io/) - free file sharing and storage platform. You can store and share your content without any limit.
