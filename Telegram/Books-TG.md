@@ -5,7 +5,6 @@
 -   [BooksThief](https://t.me/BooksThief)
 -   [bookz4u](https://t.me/bookz4u)
 -   [BooksBag](https://t.me/BooksBag)
--   [BooksLog](https://t.me/BooksLog)
 -   [booksnow](https://t.me/booksnow)
 -   [eBookCafe](https://t.me/eBookCafe)
 -   [booksmania](https://t.me/booksmania)
