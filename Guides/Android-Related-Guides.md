@@ -8,6 +8,7 @@
 -   [xda-developers Custom Rom Guide](https://www.xda-developers.com/how-to-install-custom-rom-android/amp/)
 -   [Android Geeks Custom Rom Guide](https://www.androidgreek.com/beginners-guide-installing-custom-roms-in-2021/)
 -   [LineageOS Installation Docs for different devices](https://wiki.lineageos.org/)
+-   [Installing GrapheneOS the Easy Way](https://graph.org/Installing-GrapheneOS-the-Easy-Way-06-05)
 
 # Reverse Engineering
 
