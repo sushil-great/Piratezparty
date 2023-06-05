@@ -3,7 +3,6 @@
 -   [scihubot](https://t.me/scihubot)
 -   [Ebooks254](https://t.me/Ebooks254)
 -   [BooksThief](https://t.me/BooksThief)
--   [OxfordBookworms](https://t.me/OxfordBookworms)
 -   [bookz4u](https://t.me/bookz4u)
 -   [best_bookshelf](https://t.me/best_bookshelf)
 -   [BooksFree4U](https://t.me/BooksFree4U)
