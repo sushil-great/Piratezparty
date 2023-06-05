@@ -2,7 +2,6 @@
 
 -   [scihubot](https://t.me/scihubot)
 -   [Ebooks254](https://t.me/Ebooks254)
--   [mfmixebooks](https://t.me/mfmixebooks)
 -   [BooksThief](https://t.me/BooksThief)
 -   [OxfordBookworms](https://t.me/OxfordBookworms)
 -   [bookz4u](https://t.me/bookz4u)
