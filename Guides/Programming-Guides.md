@@ -38,3 +38,8 @@ Books
 # Shell Scripting
 
 -   [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) - by Sundeep Aggarwal.
+
+# Misc
+
+-   [A guide for programmers using Git about what to do when things go wrong.](https://github.com/k88hudson/git-flight-rules)
+-   [Python based CHATGPT with Sorry Ethics Message Bypass](https://graph.org/Python-based-CHATGPT-with-Sorry-Ethics-Message-Bypass-06-05)
