@@ -27,3 +27,5 @@
 - [Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) | [Video Tutorial by Distrotube](https://youtu.be/r4CyUAFMUcY)
 - [Guide to Binning [Zero-to-Hero]](https://telegra.ph/Guide-to-Binning-Zero-to-Hero-04-23)
 - [Indexing your OneDrive](https://ovi.swo.moe/) | [Onedrive Indexing Example](https://drive.swo.moe/)
+- [how to download 100's GB files to free pcloud without using extra bandwidth (you can also unzip files in cloud, pcloud OP)](https://graph.org/how-to-download-100s-GB-files-to-free-pcloud-without-using-extra-bandwidth-you-can-also-unzip-files-in-cloud-pcloud-OP-06-05)
+- [Unlock Fireship.io (https://fireship.io/) premium courses free](https://graph.org/Unlock-Fireshipio-httpsfireshipio-premium-courses-free-06-05)
