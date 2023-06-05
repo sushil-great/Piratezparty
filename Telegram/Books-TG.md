@@ -11,7 +11,6 @@
 -   [eBookCafe](https://t.me/eBookCafe)
 -   [booksmania](https://t.me/booksmania)
 -   [BOOK_HOUSE_INTERNATIONAL](https://t.me/BOOK_HOUSE_INTERNATIONAL)
--   [Edu_Books](https://t.me/Edu_Books)
 -   [BookCrush](https://t.me/BookCrush)
 -   [AudiobooksArchive](https://t.me/AudiobooksArchive)
 -   [ebooks](https://t.me/ebooks)
