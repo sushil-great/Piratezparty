@@ -24,7 +24,6 @@
 # Stock Photo's and wallpaper Channels
 
 -   [freestockphotos](https://t.me/freestockphotos)
--   [Shuttersto](https://t.me/Shuttersto)
 -   [shutterstockpremium](https://t.me/shutterstockpremium)
 -   [shutter](https://t.me/shutter)
 -   [shutterstock_c](https://t.me/shutterstock_c)
