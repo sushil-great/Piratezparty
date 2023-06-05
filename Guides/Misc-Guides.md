@@ -17,3 +17,7 @@
 - [how to setup websites, email servers, chat servers and everything in between](https://landchad.net/)
 - [Free VPS Method in 2023](https://graph.org/FREE-VPS-METHOD-2023-05-15)
 - [How to use many of Azure Cloud Services for FREE](https://www.youtube.com/watch?v=EDADrteGBnY)
+
+# Web
+- [How to capture whole webpage without any extension?](https://graph.org/How-to-capture-whole-webpage-without-any-extension-06-05)
+- [How to Download anything from Envanto Elements.](https://elements.wp.solar/)
