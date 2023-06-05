@@ -2,6 +2,7 @@
 
 -   [xda-developers rooting guide](https://www.xda-developers.com/root/amp/)
 -   [Lifewire's Android Rooting Guide](https://www.lifewire.com/rooting-an-android-device-4048396)
+-   [LSPosed Framework](https://github.com/LSPosed/LSPosed)
 
 # Custom ROM
 
