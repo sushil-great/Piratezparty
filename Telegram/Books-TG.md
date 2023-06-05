@@ -4,7 +4,6 @@
 -   [Ebooks254](https://t.me/Ebooks254)
 -   [BooksThief](https://t.me/BooksThief)
 -   [bookz4u](https://t.me/bookz4u)
--   [BooksFree4U](https://t.me/BooksFree4U)
 -   [BooksBag](https://t.me/BooksBag)
 -   [BooksLog](https://t.me/BooksLog)
 -   [booksnow](https://t.me/booksnow)
