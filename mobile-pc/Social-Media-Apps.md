@@ -36,6 +36,7 @@
 -   [Unigram](https://github.com/UnigramDev/Unigram) - Desktop
 -   [64Gram](https://github.com/TDesktop-x64) - Desktop
 -   [CherryGram](https://github.com/arsLan4k1390/Cherrygram) - Android
+-   [OctoGram](https://github.com/OctoGramApp/OctoGram) - Android
 
 # Reddit
 
