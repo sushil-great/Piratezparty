@@ -16,6 +16,5 @@
 -   [AudiobooksArchive](https://t.me/AudiobooksArchive)
 -   [eng_books](https://t.me/eng_books)
 -   [ebooks](https://t.me/ebooks)
--   [open_ebooks](https://t.me/open_ebooks)
 -   [LightNovelArchives](https://t.me/LightNovelArchives)
 -   [NovelsArchive](https://t.me/NovelsArchive)
