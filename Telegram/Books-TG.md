@@ -23,6 +23,5 @@
 -   [open_ebooks](https://t.me/open_ebooks)
 -   [Audiobookclassic](https://t.me/Audiobookclassic)
 -   [Audio_books](https://t.me/Audio_books)
--   [blarkhive](https://t.me/blarkhive)
 -   [LightNovelArchives](https://t.me/LightNovelArchives)
 -   [NovelsArchive](https://t.me/NovelsArchive)
