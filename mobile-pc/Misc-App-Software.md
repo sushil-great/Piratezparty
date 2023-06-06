@@ -1,5 +1,7 @@
 # Android
 
+-   [Termux Monet](https://github.com/HardcodedCat/termux-monet) - **Termux-Monet** is a unofficial, modified fork of Termux, an Android terminal application and Linux environment, with Monet Theming Implementations. ⭐
+    > Monet means Material You theme!!
 -   [Mathematics](https://play.google.com/store/apps/details?id%3Dde.daboapps.mathematics) (Android app name) - Calculator with many cool stuff related to math like graph and it calculates algreba, function, formula, etc. ⭐
 -   [anemo](https://github.com/2bllw8/anemo) | [Fdroid](https://f-droid.org/packages/exe.bbllw8.anemo/) - A open-source Local private storage for Android
     > Anemo is a private local storage utility application for android. Instead of being a stand-alone file manager user interface, it hooks into various components of Android making it feel like a native part of the operative system. Moreover it provides ways for the user to export contents from other apps and save them as files.

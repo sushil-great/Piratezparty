@@ -2,6 +2,9 @@
 
 -   [Build Yor Own X](https://github.com/codecrafters-io/build-your-own-x) - This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. "Master programming by recreating your favorite technologies from scratch.⭐️
 
+-   [CodeImage](https://codeimage.dev/) - A tool to manage and beautify your code screenshots ⭐
+-   [OneCompiler](https://onecompiler.com/) - OneCompiler is a free online compiler. It helps users to write, run and share code online for more than 60 programming languages & databases, Including all popular ones like Java, Python, MySQL, C, C++, NodeJS, Javascript, Groovy, Jshell & HTML
+
 ## Documentation
 
 -   [Zeal Docs](https://zealdocs.org/) - Zeal software is an offline documentation browser for software developers.

@@ -22,7 +22,9 @@
 
 -   [Youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites.
 
--   [Yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
+    > Get daily builds from [this fork](https://github.com/ytdl-patched/youtube-dl)
+
+-   [Yt-dlp ⭐](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 
 ## Course Downloader
 
