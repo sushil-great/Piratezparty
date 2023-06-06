@@ -7,3 +7,7 @@
 • [24-archive](https://24-archive.com/) - Cached view of any page through Google, Yahoo, Bing, Waybackmachine etc.
 
 • [ratbg-archive](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
+
+• [rarbg-dump-index](https://rarbg.best/)
+
+• [rarbg-on-ipfs](https://ipfs.io/ipfs/QmbpRxBZ5HDZDVRoeAU8xFYnoP4r5eGCxdkmfFW3JbA6mq/)
