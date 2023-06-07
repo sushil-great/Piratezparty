@@ -37,3 +37,5 @@
 -   [Hybrid](https://www.selur.de/) - Hybrid is a multi platform (Linux/Mac OS X/Windows) Qt based frontend for a bunch of other tools which can convert nearly every input to x265/x264/Xvid/VP8 + ac3/ogg/mp3/aac/flac inside an mp4/m2ts/mkv/webm container, a Blu-ray or an AVCHD structure.
 
 -   [NotEnoughAV1Encodes](https://github.com/Alkl58/NotEnoughAV1Encodes) - NotEnoughAV1Encodes is a small GUI Handler for aomenc, rav1e and SVT-AV1 (AV1). NotEnoughAV1Encodes is a tool to make encoding easier and faster for AV1 encoders. It splits the Source Video into multiple chunks and encode them parallel with the same given settings. At the end it will Concatenate the chunks into a single video.
+
+-   [eac3to](https://forum.doom9.org/showthread.php?t=125966) - eac3to is an audio/video processing software with focus on new generation HD formats, Blu-ray and HD DVD. It is able to make audio conversions among many formats and various other tasks as well.

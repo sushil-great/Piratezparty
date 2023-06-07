@@ -11,12 +11,10 @@
 -   [Wallpapers_Phone_Mobile](https://t.me/Wallpapers_Phone_Mobile/)
 -   [wallpap](https://t.me/wallpap/)
 -   [Anime_WallpapersHD](https://t.me/Anime_WallpapersHD/)
--   [wallpaper_profilei](https://t.me/wallpaper_profilei/)
 -   [wallpapers](https://t.me/wallpapers/)
 -   [Full_HD_4K_wallpapers](https://t.me/Full_HD_4K_wallpapers/)
 -   [animewallpaperss](https://t.me/animewallpaperss/)
 -   [wallpaperscraftcom](https://t.me/wallpaperscraftcom/)
--   [WallpapersGram4kt](https://t.me/WallpapersGram4K/)
 -   [WallpapersGram](https://t.me/WallpapersGram/)
 -   [mmwalls](https://t.me/mmwalls)
 -   [AnimeWallpapers](https://t.me/AnimeWallpapers)
@@ -24,7 +22,6 @@
 # Stock Photo's and wallpaper Channels
 
 -   [freestockphotos](https://t.me/freestockphotos)
--   [Shuttersto](https://t.me/Shuttersto)
 -   [shutterstockpremium](https://t.me/shutterstockpremium)
 -   [shutter](https://t.me/shutter)
 -   [shutterstock_c](https://t.me/shutterstock_c)

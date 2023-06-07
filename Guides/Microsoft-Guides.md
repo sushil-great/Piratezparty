@@ -6,3 +6,5 @@
 
 - [Clean install Microsoft Office](https://rentry.org/CLEAN-INSTALL-MICROSOFT-OFFICE)
 
+- [Guide to Auto renew Msft E5 Developer subcription](https://graph.org/Guide-for-renewing-MSFT-E5-Dev-subscription-using-GitHub-Actions-03-25-2) | Note : this method can make your github account suspended.
+

@@ -17,3 +17,15 @@
 - [how to setup websites, email servers, chat servers and everything in between](https://landchad.net/)
 - [Free VPS Method in 2023](https://graph.org/FREE-VPS-METHOD-2023-05-15)
 - [How to use many of Azure Cloud Services for FREE](https://www.youtube.com/watch?v=EDADrteGBnY)
+
+# Web
+- [How to capture whole webpage without any extension?](https://graph.org/How-to-capture-whole-webpage-without-any-extension-06-05)
+- [How to Download anything from Envanto Elements.](https://elements.wp.solar/)
+- [How to Activate Do Not Disturb for your Phone Number to block unwanted unsolicited and spam calls.](https://beebom.com/how-activate-dnd-jio-airtel-vi-bsnl-india/)
+- [IDM Trial Resetter Bat Script](https://graph.org/IDM-Trial-Resetter-Bat-Script-06-05)
+- [Dotfiles: Best Way to Store in a Bare Git Repository](https://graph.org/Dotfiles-Best-Way-to-Store-in-a-Bare-Git-Repository-06-05)
+- [Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) | [Video Tutorial by Distrotube](https://youtu.be/r4CyUAFMUcY)
+- [Guide to Binning [Zero-to-Hero]](https://telegra.ph/Guide-to-Binning-Zero-to-Hero-04-23)
+- [Indexing your OneDrive](https://ovi.swo.moe/) | [Onedrive Indexing Example](https://drive.swo.moe/)
+- [how to download 100's GB files to free pcloud without using extra bandwidth (you can also unzip files in cloud, pcloud OP)](https://graph.org/how-to-download-100s-GB-files-to-free-pcloud-without-using-extra-bandwidth-you-can-also-unzip-files-in-cloud-pcloud-OP-06-05)
+- [Unlock Fireship.io (https://fireship.io/) premium courses free](https://graph.org/Unlock-Fireshipio-httpsfireshipio-premium-courses-free-06-05)
