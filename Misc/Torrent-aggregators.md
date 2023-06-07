@@ -26,5 +26,6 @@
 -   [torrentqq](https://torrentqq.net)
 -   [yggtorrent](https://yggtorrent.do/)
 -   [torrentsir](http://torrentsir106.com/)
+-   [solidtorrents](https://solidtorrents.to/)
 
 **[For more visit r/torrents](https://www.reddit.com/r/torrents)**
