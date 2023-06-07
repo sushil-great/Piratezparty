@@ -86,6 +86,7 @@
 -   **[Social Media](Tools/Social-Media-Tools.md)**
 -   **[Cloning Tools](Tools/Cloning-Tools.md)**
 -   **[CLI Tools](Tools/CLI-Tools.md)**
+-   **[Programming Tools](Tools/Programming-Tools.md)**
 -   **[Debug Tools](Tools/Debug-Tools.md)**
 -   **[Misc Tools](Tools/Misc-Tools.md)**
 
