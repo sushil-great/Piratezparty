@@ -135,3 +135,7 @@
 **33. Web-Indexer**
 
 -   [Web-Indexer](https://oshekharo.github.io/Web-Indexer/) | [Piracyindex](https://piracy-index.ml) | [GitHub Link](https://github.com/OshekharO/Web-Indexer)
+
+**34. Everything Adobe Piracy**
+
+- [r/GenP/wiki](https://www.reddit.com/r/GenP/wiki/index/)
