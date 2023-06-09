@@ -16,3 +16,12 @@
 # Tracker
 
 -   [Léon – The URL Cleaner](https://github.com/svenjacobs/leon) - Open-Source url cleaner.Removes tracking & other redundant parameters from shared URLs
+
+# Miscs
+
+-   [Hat 🎓](https://hat.sh/) - Encrypt and Decrypt files securely in your browser.⭐
+-   [LibreWolf](https://librewolf.net/) - A custom version of Firefox, focused on privacy, security and freedom.
+
+    > Window, Mac & Linux 😁, no android 😥
+
+    -   [How to Connect the KeePassXC Password Manager to LibreWolf in Linux?](../Guides/Linux-Related-Guides.md#how-to-connect-the-keepassxc-password-manager-to-librewolf-in-linux)

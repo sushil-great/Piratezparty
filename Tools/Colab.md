@@ -2,6 +2,8 @@
 
 -   [Torrent Drive Telegram Bot Using Colab](https://github.com/ogkunald/Torrent-Drive-Telegram-Bot-Using-Colab) - Simple Torrent to GDrive Telegram bot using colab.
 
+-   [Clone Chat Telegram Colab](https://github.com/Drrivao/Clonechat-Telegram-Colab) - 💬 Clone telegram channels with Google Collaboratory
+
 -   [RcloneLab](https://github.com/acamposxp/RcloneLab/network/members) - rclone GUI, qBittorrent and rTorrent on Google Colaboratory.
 
 -   [MiXLab](https://github.com/shirooo39/MiXLab) - MiXLab is a mix of multiple amazing Colab Notebooks found on the internet.

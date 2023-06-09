@@ -13,6 +13,9 @@
 
 -   [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides **[userscripts](#browser-userscripts)** support for browsers. It works on browsers with WebExtensions support.
 
+-   [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
+    (Save as pdf pages, or a single HD image)
+
 # Browser UserScripts
 
 > ViolentMoneky is a extension that will enable userscript support in browser
@@ -45,3 +48,5 @@
     -   Odysee ➝ Librarian
     -   TikTok ➝ ProxiTok
     -   Quora ➝ Quetre
+
+-   [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites....

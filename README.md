@@ -121,11 +121,13 @@
 -   **[MediaManagers](Guides/MediaManager-Guides.md)**
 -   **[Torrents](Guides/Torrent-Guides.md)**
 -   **[Android](Guides/Android-Related-Guides.md)**
+-   **[Linux](Guides/Linux-Related-Guides.md)**
 -   **[Gdrive](Guides/Google-Drive-Guides.md)**
 -   **[Media Guides](Guides/Media-Guides.md)**
 -   **[Privacy Guides](Guides/Privacy-Guides.md)**
 -   **[Programming Guides](Guides/Programming-Guides.md)**
 -   **[Microsoft Guides](Guides/Microsoft-Guides.md)**
+-   **[Builds Guides](Guides/Builds-Guides.md)**
 -   **[Misc Guides](Guides/Misc-Guides.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>

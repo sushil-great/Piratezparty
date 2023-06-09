@@ -3,6 +3,18 @@
 -   [asciiclip](https://github.com/leinstay/asciiclip) - CLI tool that applies an ASCII filter to video or image (Create ASCII Art from video/image) ⭐
 -   [greenclip](https://github.com/erebe/greenclip) - Clipboard manager intregated with [rofi](https://github.com/DaveDavenport/rofi)
 
+## Window
+
+-   [Nircmd](https://www.nirsoft.net/utils/nircmd.html) - This command line tool allows us to modify Windows in ways that we normally aren’t able to. Launch the `nircmd.exe` file and it will ask to copy itself to the Windows directory.
+
+    > Example:
+
+    > Remove the taskbar:
+    > `nircmd.exe win trans class Shell_TrayWnd 256`
+
+    > Restore it with:
+    > `nircmd.exe win trans class Shell_TrayWnd 255`
+
 # CLI Intregations
 
 -   [askai](https://t.me/c/1574965898/781/35341) - Command Line Interface for OpenAi ChatGPT
