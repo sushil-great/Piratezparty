@@ -2,6 +2,16 @@
 
 -   [Build Yor Own X](https://github.com/codecrafters-io/build-your-own-x) - This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. "Master programming by recreating your favorite technologies from scratch.⭐️
 
+
+## Documentation
+
+-   [Zeal Docs](https://zealdocs.org/) - Zeal software is an offline documentation browser for software developers.
+
+    > Window, Linux and Mac
+
+-   [DevDocs](https://devdocs.io/) - DevDocs combines multiple API documentations in a fast, organized, and searchable interface. **It contains mostly every language documentation at one place. And allow offline documentation download feature for selected languages** ⭐
+    > Website based so can also use in mobile
+
 # Learn Regex
 
 -   [RegexLearn](https://regexlearn.com/) / [RegexOne ⭐️](https://regexone.com/) - Step by step guide

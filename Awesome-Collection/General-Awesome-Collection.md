@@ -148,3 +148,6 @@
 **26. Apps support Material You theme**
 
 -   [Material-You-app-list](https://github.com/sysworx/Material-You-app-list)
+
+**27. [Curations](https://www.curations.tech/)** - Curations curates amazing services and categorizes them. Superb UI, even better collection.
+Giving you the best resources to learn and grow as a developer, designer, entrepreneur or whoever you are. We are a community of people who are passionate about learning and sharing knowledge.

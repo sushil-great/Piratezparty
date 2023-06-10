@@ -86,8 +86,8 @@
 -   **[Social Media](Tools/Social-Media-Tools.md)**
 -   **[Cloning Tools](Tools/Cloning-Tools.md)**
 -   **[CLI Tools](Tools/CLI-Tools.md)**
+-   **[Programming Tools](Tools/Programming-Tools.md)**
 -   **[Debug Tools](Tools/Debug-Tools.md)**
--   **[CyberSecurity Tools](Tools/Cyber-Security-Tools.md)**
 -   **[Misc Tools](Tools/Misc-Tools.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
@@ -121,11 +121,13 @@
 -   **[MediaManagers](Guides/MediaManager-Guides.md)**
 -   **[Torrents](Guides/Torrent-Guides.md)**
 -   **[Android](Guides/Android-Related-Guides.md)**
+-   **[Linux](Guides/Linux-Related-Guides.md)**
 -   **[Gdrive](Guides/Google-Drive-Guides.md)**
 -   **[Media Guides](Guides/Media-Guides.md)**
 -   **[Privacy Guides](Guides/Privacy-Guides.md)**
 -   **[Programming Guides](Guides/Programming-Guides.md)**
 -   **[Microsoft Guides](Guides/Microsoft-Guides.md)**
+-   **[Builds Guides](Guides/Builds-Guides.md)**
 -   **[Misc Guides](Guides/Misc-Guides.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
@@ -153,7 +155,7 @@
 -   **[Books](Telegram/Books-TG.md)**
 -   **[Courses](Telegram/Courses-TG.md)**
 -   **[Tech](Telegram/Tech.md)**
--   **[Misc](Telegram/Misc.md)** 
+-   **[Misc](Telegram/Misc.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
 

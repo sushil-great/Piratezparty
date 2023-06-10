@@ -18,3 +18,15 @@
 -   [Android Reverse Engineering Guide](https://bernhard-another.gitbooks.io/owasp-mstg-summit-edition/content/0x05c-Reverse-Engineering-and-Tampering.html)
 -   [How To Reverse Engineer Using Advanced Apk Tool](https://www.c-sharpcorner.com/article/how-to-reverse-engineer-using-advanced-apk-tool/)
 -   [ApkEditorPr0](https://t.me/ApkEditorPr0) - _Best Place to learn modding/Android reverse engineering_
+
+-   **Some useful places to learn smali(use to mod apps.modify apps using smali)**
+
+    > Credit : ReVanced Discord [this](https://discord.com/channels/952946952348270622/1064146420631867432) forum post participates (guy who made this post and revanced team member who help (both shared mixed))
+
+    -   StackOverFlow Question with answer of list : [What's the best way to learn Smali (and how/when to use Dalvik VM opcodes)?](https://stackoverflow.com/questions/5656804/whats-the-best-way-to-learn-smali-and-how-when-to-use-dalvik-vm-opcodes)
+
+    -   Github repo wiki : https://github.com/JesusFreke/smali/wiki
+
+    -   Debug app using smali tutorial blog but PC based : [Static analysis and debugging on Android using Smalidea, JDWP and ADB.](https://fullstackhero.medium.com/static-analysis-and-debugging-on-android-using-smalidea-jdwp-and-adb-c4c18d68abf2)
+
+    -   Another useful resource of debug app using smali but PC based : [Debugging 3rd party apps, part II: Android](https://danylokos.github.io/0x02/)

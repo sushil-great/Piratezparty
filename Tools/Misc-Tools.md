@@ -1,6 +1,7 @@
 # Window
 
 -   [wininstall](https://winstall.app/) - Bulk install Windows apps quickly with Windows Package Manager.
+-   [SuperF4](https://stefansundin.github.io/superf4/) - SuperF4 kills the foreground program when you press Ctrl+Alt+F4. This is different from when you press Alt+F4. When you press Alt+F4, the program can refuse to quit. Windows only asks the program to quit, and lets it decide for itself what to do.
 
 # RSS
 
