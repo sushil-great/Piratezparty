@@ -34,6 +34,6 @@
 -   [how to download 100's GB files to free pcloud without using extra bandwidth (you can also unzip files in cloud, pcloud OP)](https://graph.org/how-to-download-100s-GB-files-to-free-pcloud-without-using-extra-bandwidth-you-can-also-unzip-files-in-cloud-pcloud-OP-06-05)
 -   [Unlock Fireship.io (https://fireship.io/) premium courses free](https://graph.org/Unlock-Fireshipio-httpsfireshipio-premium-courses-free-06-05)
 
-# Misc
+# JDownloader Guides 
 
 -   **[Full JDownloader 2 Installation & Debloating (Removing Built-in Ads) Guide](https://github.com/Ori5000/ori5000.github.io/blob/main/jdownloader2.md)**
