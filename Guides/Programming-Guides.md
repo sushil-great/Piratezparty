@@ -2,6 +2,7 @@
 
 -   [Build Yor Own X](https://github.com/codecrafters-io/build-your-own-x) - This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. "Master programming by recreating your favorite technologies from scratch.⭐️
 
+-   [Open Source Guide](https://opensource.guide/) - A guide to open-source development by github
 
 ## Documentation
 
@@ -53,3 +54,4 @@ Books
 
 -   [A guide for programmers using Git about what to do when things go wrong.](https://github.com/k88hudson/git-flight-rules)
 -   [Python based CHATGPT with Sorry Ethics Message Bypass](https://graph.org/Python-based-CHATGPT-with-Sorry-Ethics-Message-Bypass-06-05)
+-   [Twitter Thread "5 Cool ML Github Repos that will help you learn ML and imrove skill" By Akshay](https://twitter.com/akshay_pachaar/status/1622936617181904899)
