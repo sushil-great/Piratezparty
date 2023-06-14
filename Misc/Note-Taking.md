@@ -1,2 +1,0 @@
--   [Obsidian](https://obsidian.md/)
--   [Logseq](https://logseq.com/)

@@ -165,7 +165,7 @@
 
 -   **[CyberSecurity Stuff](Misc/CyberSecurity-Stuff.md)**
 -   **[Photos / Fonts](Misc/Photo-Fonts.md)**
--   **[Note Taking](Misc/Note-Taking.md)**
+-   **[PKMS (Personal Knowledge Management System)](Misc/PKMS.md)** (Note taking, Journals, etc. )
 -   **[Root Tools](Misc/Root-Tools.md)**
 -   **[Opendirectories](Misc/Opendirectories.md)**
 -   **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
