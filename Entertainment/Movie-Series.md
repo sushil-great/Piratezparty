@@ -100,7 +100,6 @@
 ## Streaming (HD)
 
 -   [themoviebay](https://www.themoviebay.net/)
--   [soap2day](http://soap2day.to/)
 -   [www2.smilestv](https://www2.smilestv.net/)
 -   [vikv](https://vikv.net/)
 -   [putlocker-new](https://putlocker-new.site/)
