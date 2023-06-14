@@ -1,6 +1,7 @@
 # Telegram channel for Tech related stuff
 
 -   [InternetGuideBook](https://t.me/internetguidebook) - Shares lots of cool online tools and guides
+-   [Agam Tech Tricks](https://t.me/agamtechtricks/) - Shares lots of cool stuff/
 
 ## Tech News on Telegram
 

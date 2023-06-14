@@ -1,5 +1,6 @@
 # Browser Extensions
 
+-   [Link Hints ⭐](https://addons.mozilla.org/en-US/firefox/addon/linkhints/) - An extension that adds hints to links so that you can open them with your keyboard
 -   [LibRedirect](https://github.com/libredirect/browser_extension) | [FireFox addons store](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) -
     > manual install on chrome not availabe in chrome webstore, for that they provide instruction if you dont know how to install manually and also .zip download here : https://libredirect.github.io/download_chromium.html
 -   [NopeCHA: CAPTCHA Solver](https://addons.mozilla.org/en-US/firefox/addon/noptcha/?utm_source%3Daddons.mozilla.org%26utm_medium%3Dreferral%26utm_content%3Dsearch) | [Chrome web store](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo) - A firefox extension for bypassing any type of captcha
@@ -50,3 +51,5 @@
     -   Quora ➝ Quetre
 
 -   [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites....
+
+-   [LinkVertise Bypass](https://greasyfork.org/en/scripts/446709-linkvertise-bypass-by-amboss-dev) - UserScript to Bypass LinkVertise links and some other short-link urls.

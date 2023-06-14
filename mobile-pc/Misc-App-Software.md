@@ -13,6 +13,12 @@
 -   [Shell](https://nilesoft.org/) | [Report/track issues on issue repo](https://github.com/moudey/shell)(NO open source ig ) - Powerful manager for Windows File Explorer context menu(right click menu)(many features added in context menu).
 -   [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - 🔍 A Quick file search & app launcher for Windows with community-made plugins
 -   [PowerToys](https://github.com/microsoft/PowerToys) - Increase your productivity with a range of tools for windows
+-   [JaxCore](https://github.com/Jax-Core/JaxCore) - JaxCore is a collection of utility modules designed to improve your desktop experience and increase your productivity. Core is a configuration hub that allows for quick access to settings, updates, and new releases.
+    -   JaxCore (configuration hub) acts as a settings menu for all JaxCore modules, while providing continuous support for patch / feature updates. It also allows you to access other modules more quickly!
+-   [Microsoft ~~Software~~ OS Download List](https://ave9858.github.io/msdl/) - Actually Microsoft all OS Download list not Software
+- [Microsoft Office Electron](https://github.com/agam778/MS-Office-Electron) - This project is basically a Unofficial Desktop wrapper for the web version of Microsoft 365, which is free but with some basic limits.
+(In readme developer say he wanted to use Microsoft 365 on my Linux system with a native experience, so he made this)
+> cc: https://t.me/agamtechtricks/5770 
 
 # Apple 🍎 ( IOS & MacOS)
 
