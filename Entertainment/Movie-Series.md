@@ -136,7 +136,7 @@
 -   [hdmovie8](https://hdmovie8.com/)
 -   [ymovies](https://ymovies.to/)
 -   [shibflix](https://shibflix.com/)
--   [JustChill](https://justchill.tv/)
+-   [JustChill](https://justchill.tv/) - requires Google or Discord Account for Logging in or Streaming
 -   [Goku](https://goku.sx/)
 
 # ► English/Hollywood Content (DDL)
