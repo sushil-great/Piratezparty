@@ -17,6 +17,11 @@
 
 -   [Privatezilla](https://github.com/builtbybel/privatezilla) - Disable privacy risky window services and removes bloatware from window, for more info read repo.
 
+# Android
+
+-   [UrlChecker](https://github.com/TrianguloY/UrlChecker) - an android app that shows you URLs that are about to be opened, also supports modules that manipulates and checks the URL
+    > Scan, Clean, Remove Queries, etc.
+
 # Tracker
 
 -   [Léon – The URL Cleaner](https://github.com/svenjacobs/leon) - Open-Source url cleaner.Removes tracking & other redundant parameters from shared URLs

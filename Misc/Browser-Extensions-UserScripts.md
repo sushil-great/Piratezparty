@@ -15,7 +15,8 @@
 -   [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides **[userscripts](#browser-userscripts)** support for browsers. It works on browsers with WebExtensions support.
 
 -   [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
-    (Save as pdf pages, or a single HD image)
+
+-   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) | [FireFox addons store](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) - As you can see, YouTubers post a ridiculous amount of annoying shorts daily. This extension can hide those shorts, and it has many more features. Simply it's like ReVanced for desktops.
 
 # Browser UserScripts
 
