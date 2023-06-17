@@ -22,15 +22,14 @@ _Always Use An AdBlocker! We Recommend uBlock Origin Browser extension_
 -   [GAMESDRIVE](https://gamesdrive.net/)
 -   [SteamRIP](https://steamrip.com/)
 -   [Minecraft Java Edition](https://skmedix.pl/downloads/)
--   [Small Games](small-games.info) (Russian)
--   [Kaoskrew](kaoskrew.org)
--   [Otxataba](otxataba.net)(Russian)
--   [Ova Games](ovagames.com)
--   [Compucalitv](compucalitv.com) (Spanish)
--   [Rihnogames.com](rihnogames.com)
--   [Elamigos](elamigos.site)
--   [GoG Games](gog-games.com)
--   [Tiny Repacks](tiny-repacks.win)
+-   [Kaoskrew](https://kaoskrew.org)
+-   [Otxataba](https://otxataba.net)(Russian)
+-   [Ova Games](https://ovagames.com)
+-   [Compucalitv](https://compucalitv.com) (Spanish)
+-   [Rihnogames](httpps://rihnogames.com)
+-   [Elamigos](https://elamigos.site)
+-   [GoG Games](https://gog-games.com)
+-   [Tiny Repacks](https://tiny-repacks.win)
 
 
 _NOTE: Take Note Of The Game Uploaders Name & Download From Trusted Releasers Or Releasers You Are Familiar With. If You Have No Idea, Then Go For FitGirl Repacks. ThePirateBay & KickAss Are Unreliable Sources!_
@@ -42,8 +41,7 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 -   [AN1](https://an1.com/)
 -   [Androreed](https://www.androeed.ru/)
 -   [Platin Mods](https://platinmods.com/)
--   [Mobilism](forum.mobilism.org/)
--   [Minecraft Pocket Edition](https://https://mcpedl.org/)
+-   [Mobilism](https://forum.mobilism.org/)
 -   [MCPE Planet](https://mcpe-planet.com/)
 
 
