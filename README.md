@@ -153,6 +153,7 @@
 -   **[Music](Telegram/Music-TG.md)**
 -   **[Cartoons](Telegram/Cartoons-TG.md)**
 -   **[Drama](Telegram/Drama-TG.md)**
+-   **[Games](Telegram/Games-TG.md)**
 -   **[Books](Telegram/Books-TG.md)**
 -   **[Courses](Telegram/Courses-TG.md)**
 -   **[Tech](Telegram/Tech.md)**
