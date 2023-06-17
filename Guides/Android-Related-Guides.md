@@ -6,6 +6,8 @@
 
 # Custom ROM
 
+-   [OpenAndroidInstaller ⭐](https://openandroidinstaller.org/) - Guide you step by step and help to install custom rom
+-   [Anarchy-Droid ⭐](https://anarchy-droid.com/) | [Github](https://github.com/amo13/Anarchy-Droid) - Your phone under your control, Help to install new customize ROM + install some useful tool with ROM such as MicroG, NewPipe, FDroid and ~~Aurora Store~~ (google banning aurora store user account)
 -   [xda-developers Custom Rom Guide](https://www.xda-developers.com/how-to-install-custom-rom-android/amp/)
 -   [Android Geeks Custom Rom Guide](https://www.androidgreek.com/beginners-guide-installing-custom-roms-in-2021/)
 -   [LineageOS Installation Docs for different devices](https://wiki.lineageos.org/)

@@ -88,6 +88,7 @@
 -   **[CLI Tools](Tools/CLI-Tools.md)**
 -   **[Programming Tools](Tools/Programming-Tools.md)**
 -   **[Debug Tools](Tools/Debug-Tools.md)**
+-   **[Reverse Engineering Tools](Tools/Reverse-Engineering-Tools.md)**
 -   **[Misc Tools](Tools/Misc-Tools.md)**
 
 <p align="right">(<a href="#top">↥ back to top</a>)</p>
@@ -166,7 +167,7 @@
 
 -   **[CyberSecurity Stuff](Misc/CyberSecurity-Stuff.md)**
 -   **[Photos / Fonts](Misc/Photo-Fonts.md)**
--   **[Note Taking](Misc/Note-Taking.md)**
+-   **[PKMS (Personal Knowledge Management System)](Misc/PKMS.md)** (Note taking, Journals, etc. )
 -   **[Root Tools](Misc/Root-Tools.md)**
 -   **[Opendirectories](Misc/Opendirectories.md)**
 -   **[Torrent Aggregators](Misc/Torrent-aggregators.md)**
