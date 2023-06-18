@@ -52,14 +52,20 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 
 ## Everything Minecraft
 
-### Minecraft Mods
+### Minecraft Bedrock/Pocket Edition
 - [MCPE Planet](https://mcpe-planet.com/) - Minecraft Bedrock Edition
+- [MCPEDL](https://mcpedl.org/downloading/) - Minecraft Bedrock Edition
 
 
 ### Minecraft Launchers
 - [GDLauncher](https://gdlauncher.com/)
 - [SkLauncher](https://skmedix.pl/)
 - [TitanLauncher](https://titan.mythicmc.org/)
+
+
+### Minecraft Resources(Skins,Maps,Textures,Etc)
+-
+-
 
 ## Free Games Notification [get notified when games are free on steam,epic games etc platforms]
 - [EGS_Free_Games](https://t.me/EGS_Free_Games)
