@@ -96,7 +96,7 @@
 -   [animebuzz](https://animebuzz.xyz/)
 -   [animeflix](https://animeflix.org.in/)
 -   [animesenpai4u](https://www.animesenpai4u.com/)
--   [NineEncodes](https://github.com/ankimy/NineEncodes)
+-   [9Encodes](https://github.com/9Encodes/9Encodes)
 
 # Torrent Websites
 
