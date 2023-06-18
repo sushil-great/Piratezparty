@@ -30,6 +30,7 @@
 - [couponscorpion](https://couponscorpion.com)
 - [discudemy](https://www.discudemy.com)
 - [realdiscount](https://www.real.discount/)
+- [techlinks](https://www.techlinks.in/udemy-free-coupons)
 - [100offdeal](https://100offdeal.online/)
 - [nptel](https://nptel.ac.in/)
 - [crunchlearn](https://www.crunchlearn.com/)
