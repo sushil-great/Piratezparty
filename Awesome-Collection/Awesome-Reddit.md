@@ -90,6 +90,8 @@
 
 -   [r/CrackWatch](https://www.reddit.com/r/CrackWatch) - _Subreddit for video game piracy news_
 
+-   [r/CrackSupport](https://www.reddit.com/r/CrackSupport/) - _Support regarding video game piracy_
+
 -   [r/opendirectories](https://www.reddit.com/r/opendirectories) - _Unprotected directories of pics, vids, music, software and otherwise interesting files_
 
 -   [r/fullmoviesonyoutube](https://www.reddit.com/r/fullmoviesonyoutube) - _Full Movies on YouTube_

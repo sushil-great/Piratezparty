@@ -1,3 +1,7 @@
+# Cryptography 🔐
+
+-   [Cryptomator](https://github.com/cryptomator/cryptomator) - A multi-platoform client-side tool that is use to store encrypted data(files/folder) on cloud storage such as google drive (decrypt on download)
+
 # Messanger
 
 -   [Anonymous Messenger](https://anonymousmessenger.ly/) - A P2P private anonymous and secure messenger that works over tor. It's also free and open source software.
@@ -12,6 +16,11 @@
 # Window
 
 -   [Privatezilla](https://github.com/builtbybel/privatezilla) - Disable privacy risky window services and removes bloatware from window, for more info read repo.
+
+# Android
+
+-   [UrlChecker](https://github.com/TrianguloY/UrlChecker) - an android app that shows you URLs that are about to be opened, also supports modules that manipulates and checks the URL
+    > Scan, Clean, Remove Queries, etc.
 
 # Tracker
 

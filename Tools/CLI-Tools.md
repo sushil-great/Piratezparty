@@ -3,6 +3,11 @@
 -   [asciiclip](https://github.com/leinstay/asciiclip) - CLI tool that applies an ASCII filter to video or image (Create ASCII Art from video/image) ⭐
 -   [greenclip](https://github.com/erebe/greenclip) - Clipboard manager intregated with [rofi](https://github.com/DaveDavenport/rofi)
 
+## Docker CLI Tools
+
+-   [InstaSub](https://github.com/AlexTeos/InstaSub) - Bot that allows you to subscribe to Instagram accounts in Telegram! And a lot of different tools for Instagram
+    > Termux can run this
+
 ## Window
 
 -   [Nircmd](https://www.nirsoft.net/utils/nircmd.html) - This command line tool allows us to modify Windows in ways that we normally aren’t able to. Launch the `nircmd.exe` file and it will ask to copy itself to the Windows directory.

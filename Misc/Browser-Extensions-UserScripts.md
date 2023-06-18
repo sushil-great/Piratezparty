@@ -1,5 +1,6 @@
 # Browser Extensions
 
+-   [Link Hints ⭐](https://addons.mozilla.org/en-US/firefox/addon/linkhints/) - An extension that adds hints to links so that you can open them with your keyboard
 -   [LibRedirect](https://github.com/libredirect/browser_extension) | [FireFox addons store](https://addons.mozilla.org/en-US/firefox/addon/libredirect/) -
     > manual install on chrome not availabe in chrome webstore, for that they provide instruction if you dont know how to install manually and also .zip download here : https://libredirect.github.io/download_chromium.html
 -   [NopeCHA: CAPTCHA Solver](https://addons.mozilla.org/en-US/firefox/addon/noptcha/?utm_source%3Daddons.mozilla.org%26utm_medium%3Dreferral%26utm_content%3Dsearch) | [Chrome web store](https://chrome.google.com/webstore/detail/nopecha-captcha-solver/dknlfmjaanfblgfdfebhijalfmhmjjjo) - A firefox extension for bypassing any type of captcha
@@ -14,7 +15,8 @@
 -   [ViolentMonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides **[userscripts](#browser-userscripts)** support for browsers. It works on browsers with WebExtensions support.
 
 -   [GoFullPage - Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) - Capture a screenshot of your current page in entirety and reliably—without requesting any extra permissions!
-    (Save as pdf pages, or a single HD image)
+
+-   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) | [FireFox addons store](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/) - As you can see, YouTubers post a ridiculous amount of annoying shorts daily. This extension can hide those shorts, and it has many more features. Simply it's like ReVanced for desktops.
 
 # Browser UserScripts
 
@@ -50,3 +52,5 @@
     -   Quora ➝ Quetre
 
 -   [IMDb-Scout-Mod](https://github.com/Purfview/IMDb-Scout-Mod) - Auto search for movie/series on torrent, usenet, ddl, subtitles, streaming, predb and other sites. Adds links to IMDb pages from hundreds various sites....
+
+-   [LinkVertise Bypass](https://greasyfork.org/en/scripts/446709-linkvertise-bypass-by-amboss-dev) - UserScript to Bypass LinkVertise links and some other short-link urls.
