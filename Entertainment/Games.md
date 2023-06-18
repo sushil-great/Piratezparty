@@ -64,8 +64,12 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 
 
 ### Minecraft Resources(Skins,Maps,Textures,Etc)
--
--
+- [Curseforge](curseforge.com/minecraft)
+- [MCPE-Planet.com](mcpe-planet.com)
+- [MCPEDL.ORG](mcpedl.org)
+- [MCPEDL.COM](mcpedl.com)
+- [Planet Minecraft](planetminecraft.com)
+- [Foxy NoTail](https://foxynotail.com/)
 
 ## Free Games Notification [get notified when games are free on steam,epic games etc platforms]
 - [EGS_Free_Games](https://t.me/EGS_Free_Games)
