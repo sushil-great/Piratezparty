@@ -18,3 +18,4 @@
 - [Blomp](https://www.blomp.com/) - Free 20-200GB storage
 - [Degoo](https://www.degoo.com/) - Free 20 GB storage
 - [Skiff Drive](https://skiff.com/drive) - Free 10 GB storage, Private & End-to-End Encrypted Drive; Optional Decentralized IPFS Storage
+- [Shadow Drive](https://shadow.tech/en-GB/drive) - Free 20 GB Storage, European Based, designed in partnership with Nextcloud
