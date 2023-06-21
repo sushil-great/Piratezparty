@@ -5,9 +5,9 @@
 - [pcloud](https://www.pcloud.com/) - 10gb free but they occasionally drop yearly codes (500gb free storage for a year).
 - [sync](https://www.sync.com/) - 5GB free.
 - [icedrive](https://icedrive.net/) - 10GB free.
-- [Gdrive](drive.google.com) - 15GB free.
-- [Box](box.com) - 10GB free.
-- [Blackblaze](Blackblaze.com) - First 10GB free.
+- [Gdrive](https://www.drive.google.com) - 15GB free.
+- [Box](https://www.box.com) - 10GB free.
+- [Blackblaze](https://www.blackblaze.com) - First 10GB free.
 - [Filen](https://filen.io/) - 10GB free.
 - [Storj](https://www.storj.io/) - 25GB free, cryptocurrency blockchain based platform.
 - [Internxt](https://internxt.com/) - 10GB free.
