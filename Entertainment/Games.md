@@ -23,6 +23,7 @@ _Always Use An AdBlocker! We Recommend uBlock Origin Browser extension_
 -  [ScOOter Repacks](https://scooter-repacks.site/)
 -  [GAMESDRIVE](https://gamesdrive.net/)
 -  [SteamRIP](https://steamrip.com/)
+-  [Small Games](https://small-games.info)(Russian)
 -  [Kaoskrew](https://kaoskrew.org)
 -  [Otxataba](https://otxataba.net)(Russian)
 -  [Ova Games](https://ovagames.com)
@@ -66,6 +67,10 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 -  [FreePcGames](https://play.google.com/store/apps/details?id=de.thegolem.freepcgames) - Application
 - [RSS OF Skidrow](https://t.me/LLPFDF)
 
+## Games On Sale
+
+- [CheapShark](https://www.cheapshark.com/)
+
 ## Some Reddits For Game & Related updates/help And News
 
 -  [CrackWatch](https://reddit.com/r/CrackWatch)
@@ -87,7 +92,7 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 -  [TitanLauncher](https://titan.mythicmc.org/)
 
 
-### Minecraft Resources(Skins,Maps,Textures,Etc)
+### Minecraft Resources(Skins,Maps,Textures,ToolsEtc)
 
 -  [Curseforge](curseforge.com/minecraft)
 -  [MCPE-Planet.com](mcpe-planet.com)
@@ -95,8 +100,13 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 -  [MCPEDL.COM](mcpedl.com)
 -  [Planet Minecraft](planetminecraft.com)
 -  [Foxy NoTail](https://foxynotail.com/)
+-  [Minecraft Tools](https://minecraft.tools/en/)
 
 ## Misc
+
+-  [HowLongToBeat](https://howlongtobeat.com/) - Game Lengths, Backlogs and more!
+-  [Google Play Games](https://play.google.com/googleplaygames) - Currently in Beta
+-  [Compress Games folder](https://github.com/IridiumIO/CompactGUI) - Compress Games/Folders in pc without affecting their functions.
 
 ## Specific Mod/Private server of Games
 
