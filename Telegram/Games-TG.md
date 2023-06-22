@@ -37,4 +37,4 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 
 - [IWannaPlay](@IWannaPlayBot) - Bot
 - [Games Repack](https://t.me/irgi_dlya_pc) - Channel For Games Repack
-- [Small  Games](https://t.me/SmallGamez)  - Official Channel of[Small Games](https://github/sushil-great/Piratezparty/blob/main/Entertainment/Games.md#L26)
+- [Small  Games](https://t.me/SmallGamez)  - Official Channel of [Small Games](https://github.com/SpamVerse/Piratezparty/blob/main/Entertainment/Games.md#L26)
