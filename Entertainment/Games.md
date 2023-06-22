@@ -53,6 +53,7 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 
 ## Emulators:
 -  [Launch Box](https://www.launchbox-app.com/) FrontEnd for Emulation
+-  [PS2 Emulator](https://play.google.com/store/apps/details?id=xyz.aethersx2.android) - BIOS For [PS2](https://www.retrostic.com/bios)
 
 ## Browser Based Games
 
@@ -65,7 +66,11 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 -  [Temporarilyfreegames](https://t.me/temporarilyfreegames)
 -  [r/freegames](https://www.reddit.com/r/freegames)
 -  [FreePcGames](https://play.google.com/store/apps/details?id=de.thegolem.freepcgames) - Application
-- [RSS OF Skidrow](https://t.me/LLPFDF)
+-  [RSS OF Skidrow](https://t.me/LLPFDF) - Channel
+-  [Free On Epic Games](https://t.me/FreeOnEpicGamesBot/) - Bot
+-  [Free On Epic Games bot](https://t.me/egsnotifier_bot/) - Bot
+-  [Free On Steam](https://t.me/FreeSteamOffers_Bot) - Bot
+-  [Free Games Notifier](https://play.google.com/store/apps/details?id=com.arioch.efgr) - Applicationx
 
 ## Games On Sale
 
