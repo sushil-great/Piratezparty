@@ -8,35 +8,35 @@
 
 # Telegram
 
-## Android
-
 -   Telegram [Android](https://github.com/DrKLO/Telegram)/[IOS](https://github.com/TelegramMessenger/Telegram-iOS)/[Desktop](http://github.com/telegramdesktop/tdesktop) - Android/IOS/Desktop
 -   [NekoX](https://github.com/NekoX-Dev/NekoX) - Android
 -   [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Android
 -   Forkgram [Android](https://github.com/Forkgram/TelegramAndroid)/[Desktop](https://github.com/Forkgram/tdesktop) - Android/Desktop
--   [CatogramX](https://github.com/CatogramX/CatogramX) - Android
--   [PlusMessenger](https://plusmessenger.org) - Android
--   [TelegramX](https://t.me/tgx_log) - Android
--   [Nekogram](https://nekogram.app/) - Android
--   [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger) - Android
--   iMe Messenger [Android](https://github.com/imemessenger/iMe-Android)/[IOS](https://github.com/imemessenger/iMe-iOS) - Android/IOS
--   [BGram](https://github.com/BGramApp/BGramFiles) - Android
--   [Graphmessenger](https://www.graphmessenger.com/) - Android
--   [Aka](https://play.google.com/store/apps/details?id=org.aka.messenger) - Android
--   [OwlGram](https://github.com/OwlGramDev/OwlGram) - Android
--   [NinjaGram](https://play.google.com/store/apps/details?id=me.ninjagram.messenger) - Android
+-   [TelegramX](https://t.me/tgx_log) | [GitHub](https://github.com/TGX-Android/Telegram-X) - Android
+-   [Nekogram](https://nekogram.app/) | [GitLab](https://gitlab.com/Nekogram/Nekogram) - Android
 -   [Telegraher](https://github.com/nikitasius/Telegraher) - Android
 -   [exteraGram](https://github.com/exteraSquad/exteraGram) - Android
--   [Telegram-FOSS](https://github.com/Telegram-FOSS-Team/Telegram-FOSS) - Android
--   [Catogram](https://github.com/Catogram/Catogram) - Android
 -   [Nagram](https://github.com/nextalone/nagram) - Android
--   [Postufgram](https://github.com/Postuf/Telegram-iOS-Double-Bottom-Postufgram) - IOS
--   [nicegram](https://github.com/nicegram/Telegram-iOS) - IOS
--   [Kotatogram](http://github.com/kotatogram/kotatogram-desktop) - Desktop
--   [Unigram](https://github.com/UnigramDev/Unigram) - Desktop
--   [64Gram](https://github.com/TDesktop-x64) - Desktop
+-   [Nnngram](https://github.com/PreviousAlone/Nnngram) - Android
+-   [Nullgram](https://github.com/qwq233/Nullgram) - Android
 -   [CherryGram](https://github.com/arsLan4k1390/Cherrygram) - Android
 -   [OctoGram](https://github.com/OctoGramApp/OctoGram) - Android
+-   AyuGram [Android](https://github.com/AyuGram/AyuGram4A )/[Desktop](https://github.com/AyuGram/AyuGramDesktop) - Android/Desktop
+-   [NinjaGram](https://play.google.com/store/apps/details?id=me.ninjagram.messenger) - Android (Outdated/Discontinued) (Closed source)
+-   [PlusMessenger](https://plusmessenger.org) - Android (Closed source)
+-   [TurboTel Pro](https://play.google.com/store/apps/details?id=ellipi.messenger) - Android (Closed source)
+-   [Graphmessenger](https://www.graphmessenger.com/) - Android (Closed source)
+-   [Aka](https://play.google.com/store/apps/details?id=org.aka.messenger) - Android (Closed source)
+-   [Catogram](https://github.com/Catogram/Catogram) - Android (Outdated/Discontinued)
+-   [CatogramX](https://github.com/CatogramX/CatogramX) - Android (Outdated/Discontinued) 
+-   iMe Messenger [Android](https://github.com/imemessenger/iMe-Android)/[IOS](https://github.com/imemessenger/iMe-iOS) - Android/IOS (Outdated/Discontinued)
+-   [BGram](https://github.com/BGramApp/BGramFiles) - Android (Outdated/Discontinued)
+-   [OwlGram](https://github.com/OwlGramDev/OwlGram) - Android (Outdated/Discontinued)
+-   [nicegram](https://github.com/nicegram/Telegram-iOS) - IOS
+-   [Postufgram](https://github.com/Postuf/Telegram-iOS-Double-Bottom-Postufgram) - IOS (Outdated/Discontinued)
+-   [Unigram](https://github.com/UnigramDev/Unigram) - Desktop
+-   [64Gram](https://github.com/TDesktop-x64) - Desktop
+-   [Kotatogram](http://github.com/kotatogram/kotatogram-desktop) - Desktop (Outdated/Discontinued)
 
 # Reddit
 
