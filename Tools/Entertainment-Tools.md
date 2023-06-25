@@ -34,4 +34,10 @@
 -   [Hatt](https://github.com/FrenchGithubUser/Hatt) - DDL/Streaming meta search engine.
 
 # Game Tools
--
+-  [Compress Games folder](https://github.com/IridiumIO/CompactGUI) - Compress Games/Folders in pc without affecting their functions.
+- [PokeGenie](https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard) -  evaluate IV/EV, analyze battle stats, organize Pokemon for Pokemon Go.
+- [Calcy IV](https://play.google.com/store/apps/details?id=tesmath.calcy) - For Pokemon Go.
+- [Leek Duck](https://leekduck.com/) - Information, event/Raid Planner for Pokemon Go.
+- [PvPoke](https://pvpoke.com/) - open-source tool for simulating, ranking, and building teams for Pokemon GO PvP.
+- [GamerPower Api](https://www.gamerpower.com/api-read) - API for Free Games & Giveaways [w.r.t](https://github.com/SpamVerse/Piratezparty/blob/main/Entertainment/Games.md#L74)
+- [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - Legit DLC Unlocker for Epic Online Services

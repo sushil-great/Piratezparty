@@ -30,6 +30,7 @@ _Always Use An AdBlocker! We Recommend uBlock Origin Browser extension_
 -  [GoG Games](https://gog-games.com)
 -  [Tiny Repacks](https://tiny-repacks.win)
 -  [SkidrowReloaded](https://www.skidrowreloaded.com/)
+-  [Game PC ISO](https://gamepciso.net/)
 
 
 _NOTE: Take Note Of The Game Uploaders Name & Download From Trusted Releasers Or Releasers You Are Familiar With. If You Have No Idea, Then Go For FitGirl Repacks. ThePirateBay & KickAss Are Unreliable Sources!_
@@ -47,6 +48,7 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 -  [Ducumon](https://ducumon.me/)
 -  [Myrient](https://myrient.erista.me/)
 -  [Vimm](https://vimm.net/)
+-  [DlpsGame](https://dlpsgame.com/home/) -  PS2,PS3,PS4 Games
 
 ## Emulators:
 -  [Launch Box](https://www.launchbox-app.com/) FrontEnd for Emulation
@@ -56,6 +58,7 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 
 -  [poki](http://poki.com)
 -  [Miniclip](http://miniclip.com/)
+-  [Surf](edge://surf/) - only for edge browser
 
 ## Free Games Notification [get notified when games are free on steam,epic games etc platforms]
 
@@ -67,7 +70,8 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 -  [Free On Epic Games](https://t.me/FreeOnEpicGamesBot/) - Bot
 -  [Free On Epic Games bot](https://t.me/egsnotifier_bot/) - Bot
 -  [Free On Steam](https://t.me/FreeSteamOffers_Bot) - Bot
--  [Free Games Notifier](https://play.google.com/store/apps/details?id=com.arioch.efgr) - Applicationx
+-  [Free Games Notifier](https://play.google.com/store/apps/details?id=com.arioch.efgr) - Applications
+-  [GamesPower](https://www.gamerpower.com/) - Website
 
 ## Games On Sale
 
@@ -108,10 +112,9 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 
 -  [HowLongToBeat](https://howlongtobeat.com/) - Game Lengths, Backlogs and more!
 -  [Google Play Games](https://play.google.com/googleplaygames) - Currently in Beta
--  [Compress Games folder](https://github.com/IridiumIO/CompactGUI) - Compress Games/Folders in pc without affecting their functions.
 
 ## Specific Mod/Private server of Games
 
 -  [PGSharp](https://pgsharp.com/) - Pokemon Go with Spoof for Android(Free tier Available)
 -  [IPogo](https://ipogo.app/) - Pokemon Go for both Android And IOS(Free & Paid)
-- []
+-  [YuukiPS]() - Genshin Impact Private Server
