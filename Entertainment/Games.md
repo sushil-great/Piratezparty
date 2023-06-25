@@ -117,4 +117,4 @@ _NOTE: Scan with [VirusTotal](https://VirusTotal.com) & Use Your Discretion._
 
 -  [PGSharp](https://pgsharp.com/) - Pokemon Go with Spoof for Android(Free tier Available)
 -  [IPogo](https://ipogo.app/) - Pokemon Go for both Android And IOS(Free & Paid)
--  [YuukiPS]() - Genshin Impact Private Server
+-  [YuukiPS](https://ps.yuuki.me/game/genshin-impact/) - Genshin Impact Private Server
