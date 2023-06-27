@@ -1,85 +1,86 @@
-**1. Course Piracy Index**
+**1. Wotaku**
+-   [Wotaku's Index](https://wotaku.its.moe/)
+
+**2. Course Piracy Index**
 
 -   [Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index)
 
-**2. r/Pirated Games Megathread**
+**3. r/Pirated Games Megathread**
 
 -   [Pgames-mega-thread](https://rentry.org/pgames-mega-thread)
 
-**3. Indian Piracy Index**
+**4. Indian Piracy Index**
 
 -   [Indian-Piracy-Index](https://github.com/anymeofu/Indian-Piracy-Index)
 
-**4. One website for all your needs**
+**5. One website for all your needs**
 
--   [Weboas](https://weboas.is/)
+-   [Weboas](https://weboasis.app/)
 
-**5. AnimePiracy**
+**6. AnimePiracy**
 
--   [Piracy.moe](https://piracy.moe/)
--   [Wiki-AnimePiracy](https://wiki.piracy.moe/)
+-   [Piracy.moe](https://thewiki.moe/)
+-   [TheWiki](https://thewiki.moe/)
 -   [Awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources)
 
-**6. Awesome Piracy**
+
+**7. Awesome Piracy**
 
 -   [awesome-piracy](https://github.com/Igglybuff/awesome-piracy/)
 -   [awesome-piracyv2](https://github.com/Shakil-Shahadat/awesome-piracy)
 
-**7. Warezz.now.sh**
+**8. Warezz.now.sh**
 
 -   [Warezzsh](https://piracy.vercel.app/)
 
-**8. FreeMediaHeckYeah**
+**9. FreeMediaHeckYeah**
 
--   [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) | [Website](https://fmhy.tk/)
+-   [FMHY](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) | [Website](https://fmhy.tk/) - [Website2](https://fmhy.pages.dev/)
 
-**9. CHEF-KOCH/Warez**
+**10. CHEF-KOCH/Warez**
 
 -   [Chef-koch/Warez](https://libraries.io/github/CHEF-KOCH/Warez)
 
-**10. eye.eu/piracy**
+**11. eye.eu/piracy**
 
 -   [eye.eu/public-piracy](https://the-eye.eu/public/Piracy/)
 
-**11. MegaTKC/IPTV-Channels**
+**12. MegaTKC/IPTV-Channels**
 
 -   [IPTV-Channels](https://github.com/MegaTKC/IPTV-Channels)
 
-**12. Awesome IPTV**
+**13. Awesome IPTV**
 
 -   [IPTV](https://github.com/iptv-org/iptv)
 
-**13. r/SoftwarePirates Megathread**
+**14. r/SoftwarePirates Megathread**
 
 -   [SoftwarePirates-Megathread](https://rentry.org/SoftwarePirates-Megathread)
 
-**14. r/APKsAPPs Megathread**
+**15. r/APKsAPPs Megathread**
 
 -   [Apks](https://apksapps.notion.site/096ef38f452342ba99b4e1509a449729?v=9970360b443643789c333bd2c7180009)
 
-**15. r/Piracy Megathread**
+**16. r/Piracy Megathread**
 
 -   [Piracy/Wiki/index](https://www.reddit.com/r/Piracy/wiki/index)
 
-**16. Ripped Piracy**
+**17. Ripped Piracy**
 
 -   [Ripped](https://github.com/rippedpiracy/docs) | [Website](https://ripped.guide/)
 
-**17. The Pirate List**
+**18. The Pirate List**
 
 -   [Thepiratelist](https://thepiratelist.com/)
 
-**18. LightNovel Site Dump**
+**19. LightNovel Site Dump**
 
 -   [LN-Site-Dump](https://docs.google.com/spreadsheets/d/1KGPLcSikfMgjtL7u8e2eiMQwDIgoAefOZsVrEzN9MQw/htmlview)
 
-**19. Dirty Warez**
+**20. Dirty Warez**
 
 -   [Dirtywarez](https://dirtywarez.org/)
 
-**20. Nocensor**
-
--   [Nocensor](https://nocensor.biz/)
 
 **21. Bestoflinks**
 
