@@ -19,7 +19,7 @@
 
 **6. AnimePiracy**
 
--   [Piracy.moe](https://thewiki.moe/)
+-   [TheIndex](https://theindex.moe/)
 -   [TheWiki](https://thewiki.moe/)
 -   [Awesome-anime-sources](https://github.com/anshumanv/awesome-anime-sources)
 
