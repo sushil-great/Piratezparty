@@ -118,6 +118,7 @@
 ## Streaming (1080p)
 
 -   [Fmovies](https://fmovieslinks.com/) (Masterlink)
+-   [movie-web](https://movie-web.app)
 -   [sflix](https://sflix.pro/home)
 -   [HDToday](https://hdtoday.cc/)
 -   [Katus](https://katus.su/)
